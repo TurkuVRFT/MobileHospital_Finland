@@ -11,35 +11,14 @@ LinkBehaviour_9A93751E_4763_991F_4180_F9F620A10412.source = https://www.diabetes
 
 ### Text
 HotspotPanoramaOverlayTextImage_9F0D2804_5315_B54C_41CA_E6FF1D18B689.text =  Geeliä laitetaan nappimyssyn napeissa olevista rei’istä tikun kanssa päänahkaasi ja rapsutellaan sillä hiukan.
-HotspotPanoramaOverlayTextImage_40BAD129_65BF_576F_4199_19DDD4E37FFD.text =  Jos tarvitset joskus pyörätuolia tai kävelysauvoja, niin autan ja ohjaan myös niiden kanssa kulkemiseen.
 HotspotPanoramaOverlayTextImage_164B9FAA_7AEA_45A4_41D8_B6DD1C68B8E4.text =  Joskus murtuma hoidetaan korjaamalla murtunut kohta leikkaussalissa.
-HotspotPanoramaOverlayTextImage_AB164942_7AE6_CD87_41C9_14350191A9B5.text =  Näin murtuma voi parantua rauhassa.
 HotspotPanoramaOverlayTextImage_8E14A70E_2A5A_05F1_41AE_2AF4F0388EB3.text =  Näin murtuma voi parantua rauhassa.
+HotspotPanoramaOverlayTextImage_AB164942_7AE6_CD87_41C9_14350191A9B5.text =  Näin murtuma voi parantua rauhassa.
 HotspotPanoramaOverlayTextImage_8D192549_4760_B97B_41C5_71A5192E4EDE.text =  Näissä ruuissa on 10 grammaa hiilareita. 
-HotspotPanoramaOverlayTextImage_20248C16_2120_C8B9_419B_A529F1617DB2.text =  Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_200C1612_20E7_D8A5_41AA_17633F0AF194.text =  Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_9AE68EAA_B81E_B3B6_41E4_3A1ECC4BFCF5.text =  Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_200E6CD3_20E0_49AA_41AB_763DEE28A410.text =  Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_200FDFD3_20E0_47AB_4193_3E796D2D4750.text =  Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_B95E1DDA_B82E_7643_41C2_DCF21962A74A.text =  Toimenpiteen aikana aikuinen odottaa ulkona. \
- Kun heräät, tuttu aikuinen on taas kanssasi.
 HotspotPanoramaOverlayTextImage_1FE9C0CF_1F20_B94C_41B5_88FBBEB5E848.text =  Toimenpiteen aikana aikuinen odottaa ulkona. \
  Kun heräät, tuttu aikuinen on taas kanssasi.
-HotspotPanoramaOverlayTextImage_200C1601_20E7_D8A7_41BA_993BF1863E04.text =  Voide tulee laastarissa tai voidetuubista. \
-Molemmat puuduttavat ihoa yhtä hyvin.
-HotspotPanoramaOverlayTextImage_B8A7144F_B7F6_D607_41DC_05BDD1C6C30A.text =  Voide tulee laastarissa tai voidetuubista. \
-Molemmat puuduttavat ihoa yhtä hyvin.
-HotspotPanoramaOverlayTextImage_20248C06_2120_C899_41A7_700DCD983B0E.text =  Voide tulee laastarissa tai voidetuubista. \
-Molemmat puuduttavat ihoa yhtä hyvin.
-HotspotPanoramaOverlayTextImage_200E6CC3_20E0_49AB_41B6_EA7623EBAE83.text =  Voide tulee laastarissa tai voidetuubista. \
-Molemmat puuduttavat ihoa yhtä hyvin.
-HotspotPanoramaOverlayTextImage_200FDFC2_20E0_47A5_41A6_6A5B9DA8681A.text =  Voide tulee laastarissa tai voidetuubista. \
-Molemmat puuduttavat ihoa yhtä hyvin.
+HotspotPanoramaOverlayTextImage_B95E1DDA_B82E_7643_41C2_DCF21962A74A.text =  Toimenpiteen aikana aikuinen odottaa ulkona. \
+ Kun heräät, tuttu aikuinen on taas kanssasi.
 HotspotPanoramaOverlayTextImage_4743DB01_39E3_AE0E_416F_2D6812CEE791.text = ----------------
 HotspotPanoramaOverlayTextImage_4B4CD5BE_39E1_BA76_416F_AA00DCB5BE95.text = ----------------
 HotspotPanoramaOverlayTextImage_B433F12C_815F_BC3A_41B0_1B8FECB41622.text = 360_Kuva päivystyspoliklinikalta,
@@ -48,7 +27,8 @@ HotspotPanoramaOverlayTextImage_7C1DF7D7_7D5E_4264_41D4_1160CDCB7540.text = Aloi
 HotspotPanoramaOverlayTextImage_AA7D887F_FE9A_99AF_41D2_0AA9AEF61BF7.text = Aloita
 HotspotPanoramaOverlayTextImage_B2ACBC1B_81DD_8A9B_41E0_33B6E329C408.text = Anestesialääkäri eli nukkumatti on lääkäri, joka varmistaa, että pääset hyvään uneen ja nukut rauhallisesti koko toimenpiteen ajan.
 HotspotPanoramaOverlayTextImage_B257E785_00E9_F0C1_4161_43B652C4B36E.text = Apinan kanssa saat harjoitella, kuinka tarkasti osaat kuunnella 
-HotspotPanoramaOverlayTextImage_46E6B4E9_65BD_FEEF_41D5_548F3B0643DD.text = Autan sinua toipumaan, vaikka toimenpiteen jälkeen, jos vaikka satutat jalkasi ja siinä on ollut kipsi niin autan sinua kävelyharjoituksissa. 
+HotspotPanoramaOverlayTextImage_46E6B4E9_65BD_FEEF_41D5_548F3B0643DD.text = Autan sinua toipumaan.  \
+Jos tarvitset joskus pyörätuolia tai kävelysauvoja, niin autan ja ohjaan myös niiden kanssa kulkemiseen.
 HotspotPanoramaOverlayTextImage_6CDF6BE0_7E21_0F0D_41D0_78BB7B12E1C3.text = Botox
 HotspotPanoramaOverlayTextImage_01625C42_B362_C14A_41CE_154544332F45.text = Botox1 \
 
@@ -62,13 +42,13 @@ HotspotPanoramaOverlayTextImage_91ED1BCA_80DC_BA6E_41DA_379B3A38CFD9.text = Diab
 HotspotPanoramaOverlayTextImage_961D16B7_811E_1C85_41D5_9B4797BC11FF.text = Diabetesta hoidetaan insuliini nimisellä lääkkeellä 
 HotspotPanoramaOverlayTextImage_6F0AC66B_76A5_A70E_41D8_73E306267170.text = English
 HotspotPanoramaOverlayTextImage_D6636C5D_C862_4BE7_41E3_9BAE497E3898.text = English
-HotspotPanoramaOverlayTextImage_20248C0D_2120_C8AB_4156_2D9F56F63226.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
-Se voi tuntua vähän kylmältä. 
-HotspotPanoramaOverlayTextImage_200E6CCA_20E0_49A5_41B3_3AAD76C4FCA6.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
-Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_A09FE7A0_B7EE_51B2_41E1_C35F5A51E02A.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
+HotspotPanoramaOverlayTextImage_20248C0D_2120_C8AB_4156_2D9F56F63226.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
+Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_200C1608_20E7_D8A5_41BE_EE99CF881A3C.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
+Se voi tuntua vähän kylmältä. 
+HotspotPanoramaOverlayTextImage_200E6CCA_20E0_49A5_41B3_3AAD76C4FCA6.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_200FDFC9_20E0_47A7_41A8_278DAC8B2D00.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
@@ -79,64 +59,64 @@ HotspotPanoramaOverlayTextImage_59C14B63_46E0_A9C4_41AE_FD4B40933A2D.text = Fysi
 HotspotPanoramaOverlayTextImage_0171CC33_B362_C0CA_41D7_FF76AF0DF4C1.text = Fysioterapeutti 
 HotspotPanoramaOverlayTextImage_017E3C3E_B362_C13A_41E0_D5791A972A85.text = Fysioterapeutti tai toimintaterapeutti tekee tutkimusta varten mittauksia jaloistasi tai käsistäsi
 HotspotPanoramaOverlayTextImage_6809C2CC_46A0_F8CF_4185_60D92A3DAE5C.text = Fysioterapeutti tai toimintaterapeutti tekee tutkimusta varten mittauksia jaloistasi tai käsistäsi
-HotspotPanoramaOverlayTextImage_B7291670_86B5_84D2_41D2_B544967A7B79.text = Fysioterapeuttisi tai toimintaterapeuttisi haluaa videoida kävelyäsi tai käsiesi käyttöä, jotta hän osaa arvioida kuinka paljon tukea tarvitset 
 HotspotPanoramaOverlayTextImage_01792C3A_B362_C13A_41E3_7EEA99C1EAC5.text = Fysioterapeuttisi tai toimintaterapeuttisi haluaa videoida kävelyäsi tai käsiesi käyttöä, jotta hän osaa arvioida kuinka paljon tukea tarvitset 
-HotspotPanoramaOverlayTextImage_433D5C29_D261_7E36_41CF_EFE49958D57A.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B7291670_86B5_84D2_41D2_B544967A7B79.text = Fysioterapeuttisi tai toimintaterapeuttisi haluaa videoida kävelyäsi tai käsiesi käyttöä, jotta hän osaa arvioida kuinka paljon tukea tarvitset 
 HotspotPanoramaOverlayTextImage_B8B7643D_B7F6_D60B_41D4_DF44C262E7B5.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_798316A4_B4A6_C1FA_41C6_2AE55E7B18EF.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_00BCE117_B362_40CB_41DB_37FB3439B7B7.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1D07AEE_D822_6118_41D6_6A06617109A3.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B014DE58_D86E_6128_41E6_503FCF9B21B7.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B06164BD_D861_E16C_41E8_9B805BBE33A4.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_59E893AA_00AF_302A_4153_E39452F06055.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_85242792_0099_10CF_4151_6F6A3EE82511.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_0160DC48_B362_C146_41E3_2A4595171376.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_7262ADC8_BEF0_BB09_41DE_D62EDCAFC8E5.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_A22B48EF_00FB_305D_4162_A61B4767581A.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_780C68EF_B812_5E1E_41DB_5974B1A9C827.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_FCEDF989_B39D_C3D7_41D2_EB36E3E4567A.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_B95C7253_B832_B241_41CF_B8605F907A14.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_00BCE117_B362_40CB_41DB_37FB3439B7B7.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_798316A4_B4A6_C1FA_41C6_2AE55E7B18EF.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1DA0F88_D861_BF29_41BB_A0FFD3745CD5.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_7262ADC8_BEF0_BB09_41DE_D62EDCAFC8E5.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_10DC505E_006B_101B_4138_99AC80790A88.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_0160DC48_B362_C146_41E3_2A4595171376.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_D0F5BC79_C823_CB93_41DF_14C67E7CD65C.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1D6A3BA_D82E_E77E_41E7_F7CFB9E0EE42.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_433D5C29_D261_7E36_41CF_EFE49958D57A.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_59E893AA_00AF_302A_4153_E39452F06055.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_FCEDF989_B39D_C3D7_41D2_EB36E3E4567A.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_3894D7E2_4276_A330_417A_30B32702F824.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_A69CD12A_B366_4331_41E3_FE7316F31962.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_EF723BE5_AE31_7D87_41C8_1BA457695561.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_10DC505E_006B_101B_4138_99AC80790A88.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B25E9781_00E9_F0C1_415E_96A10AAE3EDC.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B014DE58_D86E_6128_41E6_503FCF9B21B7.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B06164BD_D861_E16C_41E8_9B805BBE33A4.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_85242792_0099_10CF_4151_6F6A3EE82511.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_28BDC0E4_562A_960F_41D3_64BF72776C00.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_C6416313_00A9_31DB_4162_B7B4D63640E7.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_A22B48EF_00FB_305D_4162_A61B4767581A.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_98688767_5334_9BD3_41CB_D80E0433E033.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_BBE5887A_D823_E1F1_41D0_6575F954DBB0.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_9511D69D_533C_9D77_41B0_A031EEF3911C.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_DD572253_00B9_7055_4165_CD2A7D7336DB.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_2E37E915_4CDA_097C_41CC_94B63F994691.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1DA0F88_D861_BF29_41BB_A0FFD3745CD5.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_443B0B3D_4BD2_3F19_41A6_F500FF245BA3.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_9A93851E_4763_991F_41AE_A868FE8D163C.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_F9B46D2B_4761_E93A_41CF_1F78C8AB5C14.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B25E9781_00E9_F0C1_415E_96A10AAE3EDC.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_780C68EF_B812_5E1E_41DB_5974B1A9C827.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_C6416313_00A9_31DB_4162_B7B4D63640E7.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_DD572253_00B9_7055_4165_CD2A7D7336DB.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_753E202F_1F21_B8D4_41A1_8A4123822FFB.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_3894D7E2_4276_A330_417A_30B32702F824.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_D0F5BC79_C823_CB93_41DF_14C67E7CD65C.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1F7DEA8_D827_A11E_41D3_4A3860FF0C24.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_EB562615_1F27_D8DF_41A1_36CBD55DE1A8.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_BBE5887A_D823_E1F1_41D0_6575F954DBB0.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_200FDFB9_20E0_47E7_41AB_8DDAAD6CF800.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_1FE9C0C9_1F20_B9B4_41B1_4E16D8CD7FA2.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_200C15F8_20E7_DB65_41AD_967A6799A5E0.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_443B0B3D_4BD2_3F19_41A6_F500FF245BA3.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_20248BFE_2120_CF69_4184_459C9C60D101.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1CBEF48_D826_5F18_419E_D047C050DCC1.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_200E6CBA_20E0_49E5_41AE_28478B905F86.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B08DBA53_D8E3_E105_41A3_2C6196C79973.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_D7C33B2F_FE8E_BF8E_41E8_6019BCE309B4.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_AB3C98BC_EA1F_7776_41E4_46CC47D17AD2.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1C4D126_D823_A315_41EB_336AB23E18AE.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_200FDFB9_20E0_47E7_41AB_8DDAAD6CF800.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_B13AD5CC_D8E1_A300_41C1_282B03D83A86.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1E35A84_D822_A10F_41C4_E472DC5C7F7A.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_B0A6626C_D8E2_6101_41D8_AF19A70B05B6.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1F7DEA8_D827_A11E_41D3_4A3860FF0C24.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B08DBA53_D8E3_E105_41A3_2C6196C79973.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1D07AEE_D822_6118_41D6_6A06617109A3.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_20248BFE_2120_CF69_4184_459C9C60D101.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1E35A84_D822_A10F_41C4_E472DC5C7F7A.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_2030495C_2120_48AD_41BD_AFCD6F9E8504.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1D6A3BA_D82E_E77E_41E7_F7CFB9E0EE42.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_B1CBEF48_D826_5F18_419E_D047C050DCC1.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_202F995A_2120_C8B5_41A3_FC5069674666.text = Haluatko varmasti poistua aloitus ruutuun
+HotspotPanoramaOverlayTextImage_B1C4D126_D823_A315_41EB_336AB23E18AE.text = Haluatko varmasti poistua aloitus ruutuun
 HotspotPanoramaOverlayTextImage_8E126725_2A5A_0433_41BE_598C074ECC8C.text = Haluatko varmasti poistua aloitus ruutuun
-HotspotPanoramaOverlayTextImage_200C15FE_20E7_DB5D_419F_309417B20E52.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
 HotspotPanoramaOverlayTextImage_200FDFBF_20E0_47DB_41BC_5B95BF373C23.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
-HotspotPanoramaOverlayTextImage_200E6CC0_20E0_49A5_41B1_AB8C69DDCA3E.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_200C15FE_20E7_DB5D_419F_309417B20E52.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
 HotspotPanoramaOverlayTextImage_20248C03_2120_C89F_41BE_A69CD74D757A.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_200E6CC0_20E0_49A5_41B1_AB8C69DDCA3E.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
 HotspotPanoramaOverlayTextImage_B5407463_0600_D40D_418C_7EE7AC377431.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
 HotspotPanoramaOverlayTextImage_C9D743AF_FE8D_8EA5_41D3_D5F29A0D3798.text = Hei, ja tervetuloa Mobile Hospital kierrokselle.
 HotspotPanoramaOverlayTextImage_BCCFDEA7_8176_84D0_41D1_A9E09CD2168F.text = Hei, ja tervetuloa Mobile Hospital kierrokselle.
@@ -147,40 +127,41 @@ HotspotPanoramaOverlayTextImage_D9D6B3D6_561E_FA02_41CC_8C66637BCD4B.text = Heip
 Minä olen fysioterapeutti.  \
 Työskentelen liikkumisen parissa.
 HotspotPanoramaOverlayTextImage_C32B28D8_561B_B60F_41D5_8E9A1A8206DF.text = Heippa!  \
-Minä työskentelen sairaalassa myös.  \
-Olen apuna ja osana hoitoa silloin, jos tarvitset vaikka erityisruokavaliota sairautesi vuoksi tai toimenpiteen jälkeen.  
+Minä olen ravitsemusterapeutti ja työskentelen sairaalassa. \
+Olen apuna ja osana hoitoa silloin, jos tarvitset ruokaan liittyviä ohjeita sairautesi vuoksi tai toimenpiteen jälkeen.
 HotspotPanoramaOverlayTextImage_DDB45D49_5627_8E03_41D2_BADD43E99E8C.text = Heippa!   \
-Minä olen hoitaja ja olen sinun ja vanhempiesi tukena ja turvana koko sairaalassa olosi ajan.  \
+Minä olen sairaanhoitaja ja olen sinun ja vanhempiesi tukena ja turvana koko sairaalassa olosi ajan.  \
 Kerron sinulle ja vanhemmillesi, mitä tehdään ja mitä seuraavaksi tapahtuu. 
 HotspotPanoramaOverlayTextImage_1FE9C0E1_1F20_B974_41B6_99E463DDADC2.text = Hengität suuria, syviä hengityksiä niin, että kehosi on täynnä happea. 
 HotspotPanoramaOverlayTextImage_8BD66785_BD70_975F_41DE_5066D19DF328.text = Hengität suuria, syviä hengityksiä niin, että kehosi on täynnä happea. 
-HotspotPanoramaOverlayTextImage_200C1604_20E7_D8AD_4196_463FB5C1B0F7.text = Hihna auttaa tekemään verisuonista näkyvämpiä
-HotspotPanoramaOverlayTextImage_200FDFC4_20E0_47AD_41AB_6AE3B42EAC5B.text = Hihna auttaa tekemään verisuonista näkyvämpiä
-HotspotPanoramaOverlayTextImage_20248C08_2120_C8A9_41BB_0189B5D72DF0.text = Hihna auttaa tekemään verisuonista näkyvämpiä
-HotspotPanoramaOverlayTextImage_200E6CC5_20E0_49AF_41BC_9C4C8EF3F632.text = Hihna auttaa tekemään verisuonista näkyvämpiä
-HotspotPanoramaOverlayTextImage_A285C0BA_B7F5_CF8B_41D3_E20277889B21.text = Hihna auttaa tekemään verisuonista näkyvämpiä
+HotspotPanoramaOverlayTextImage_200FDFC4_20E0_47AD_41AB_6AE3B42EAC5B.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
+HotspotPanoramaOverlayTextImage_200E6CC5_20E0_49AF_41BC_9C4C8EF3F632.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
+HotspotPanoramaOverlayTextImage_200C1604_20E7_D8AD_4196_463FB5C1B0F7.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
+HotspotPanoramaOverlayTextImage_20248C08_2120_C8A9_41BB_0189B5D72DF0.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
+HotspotPanoramaOverlayTextImage_A285C0BA_B7F5_CF8B_41D3_E20277889B21.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
 HotspotPanoramaOverlayTextImage_57D14DB9_4BF2_78DC_41BC_3145CD139A6B.text = Hoitaja laittaa kasvoillesi maskin, jonka kautta saat hengitellä ilokaasua. 
-HotspotPanoramaOverlayTextImage_7977396B_659B_F7E0_41C4_838835253D5C.text = Huolehdin että saat syömistä ja juomista ja että sinulla ja vanhemmillasi on hyvä ja turvallinen olo.   \
+HotspotPanoramaOverlayTextImage_7977396B_659B_F7E0_41C4_838835253D5C.text = Huolehdin, että saat syömistä ja juomista. \
+Varmistan myös, että sinulla ja vanhemmillasi on hyvä ja turvallinen olo. \
 Otan sinusta mittauksia, esimerkiksi painon ja pituuden sekä mittaan kuumeen ja verenpaineen.
-HotspotPanoramaOverlayTextImage_C9CA13C2_FE8D_8EDF_41D8_B79FAB6B3041.text = Hyvä, pystyt  katsomaan ympärillesi vetämällä sormellasi.
 HotspotPanoramaOverlayTextImage_BC9C1F7F_8152_840C_41C0_A28641EE9C62.text = Hyvä, pystyt  katsomaan ympärillesi vetämällä sormellasi.
+HotspotPanoramaOverlayTextImage_C9CA13C2_FE8D_8EDF_41D8_B79FAB6B3041.text = Hyvä, pystyt  katsomaan ympärillesi vetämällä sormellasi.
 HotspotPanoramaOverlayTextImage_C9D683B1_FE8D_8EBD_41D6_7C5CF10AC490.text = Hyvä, pystyt katsomaan ympärillesi vetämällä hiirellä tai sormellasi.
 HotspotPanoramaOverlayTextImage_B9DB541A_82B5_843A_41D2_5463B87E75CB.text = Hyvä, pystyt katsomaan ympärillesi vetämällä hiirellä.
 HotspotPanoramaOverlayTextImage_A6BF444E_00F9_105F_4160_9A4D06F7E0A8.text = Hän on kiinnostunut, mitä sinulle kuuluu
-HotspotPanoramaOverlayTextImage_6CED75F7_7E2F_1AF3_41C1_FDBFB4DD7E1C.text = ICU
 HotspotPanoramaOverlayTextImage_8F4DA9BB_04EC_122D_4169_5D7806F1F0A8.text = ICU
+HotspotPanoramaOverlayTextImage_6CED75F7_7E2F_1AF3_41C1_FDBFB4DD7E1C.text = ICU
 HotspotPanoramaOverlayTextImage_9EF1A468_94B4_FC59_41E7_5AB920C1C6A8.text = Ilokaasu
 HotspotPanoramaOverlayTextImage_1FE9C0E4_1F20_B97C_41BD_B19433DC2514.text = Imulaitetta käytetään syljen poistamiseen suusta nukkuessasi.  \
 Kuulostaa samalta, kuin tuuli puhaltaisi ulkona.
 HotspotPanoramaOverlayTextImage_886C3952_BD71_BBF4_41D3_3C1A7CE970BF.text = Imulaitetta käytetään syljen poistamiseen suusta nukkuessasi.  \
 Kuulostaa samalta, kuin tuuli puhaltaisi ulkona.
-HotspotPanoramaOverlayTextImage_331498E3_5679_961B_41D3_0416FE96549B.text = Infoa vanhemmille
+HotspotPanoramaOverlayTextImage_DEF5F232_4212_9D3F_41C3_2EA6A0FC9508.text = Infoa vanhemmille
+HotspotPanoramaOverlayTextImage_59D44A7B_421F_EDC7_41AA_791FEE757B47.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_00BFD113_B362_40CB_41D7_AD83C70E79F0.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_6E13CD72_4BCE_D860_41CB_78934C5129EE.text = Infoa vanhemmille
-HotspotPanoramaOverlayTextImage_DEF5F232_4212_9D3F_41C3_2EA6A0FC9508.text = Infoa vanhemmille
-HotspotPanoramaOverlayTextImage_0B4A65CB_4CDE_18E6_41C9_EAD71B25AE71.text = Infoa vanhemmille
+HotspotPanoramaOverlayTextImage_331498E3_5679_961B_41D3_0416FE96549B.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_B19E4506_46A1_9EDD_41B5_E7D8FE62F90A.text = Infoa vanhemmille
-HotspotPanoramaOverlayTextImage_59D44A7B_421F_EDC7_41AA_791FEE757B47.text = Infoa vanhemmille
+HotspotPanoramaOverlayTextImage_0B4A65CB_4CDE_18E6_41C9_EAD71B25AE71.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_96BF427E_8102_1796_41DC_DFBB3669F394.text = Insuliini laskee liian korkean verensokerin alemmaksi.  \
 Insuliini on hormoni, jota mahassa oleva haima valmistaa. 
 HotspotPanoramaOverlayTextImage_994CCFCB_810E_0CD6_41D4_FED0B6D908A2.text = Insuliinia laitetaan ruiskulla tai insuliinikynällä aamuisin ja iltaisin sekä aina, kun syöt.
@@ -192,7 +173,7 @@ HotspotPanoramaOverlayTextImage_00BB7101_B362_40C7_41D4_287A2CD820A3.text = Jalk
 HotspotPanoramaOverlayTextImage_B7CA528D_8157_9CED_41C6_773917EFF032.text = Jalkasi tai kätesi tuetaan toimenpiteen jälkeen hyvään asentoon kipsillä.
 HotspotPanoramaOverlayTextImage_A81C793B_46A0_E92D_41D1_9B3A8493EA9A.text = Jatkossa käyt sairaalassa tapaamassa hoitajaa ja lääkäriä muutaman kuukauden välein.  \
 Silloin sairaalaan ei tarvitse jäädä yöksi.
-HotspotPanoramaOverlayTextImage_397FADA8_4212_E731_41B4_77525A610DC7.text = Jos kipsi painaa, murtuma kohta on kovin kipeä tai kipsi menee rikki, vanhempasi voivat ottaa yhteyttä sairaalaan 
+HotspotPanoramaOverlayTextImage_397FADA8_4212_E731_41B4_77525A610DC7.text = Jos kipsi painaa, murtuma kohta on kovin kipeä tai kipsi menee rikki, vanhempasi voivat ottaa yhteyttä sairaalaan. 
 HotspotPanoramaOverlayTextImage_B1B553E3_8153_BD0A_41CF_C9B2B35DD920.text = Jos kipsisi on ns. Umpikipsi, halkaistaan se sitten kun sinun ei tarvitse käyttää sitä enää
 HotspotPanoramaOverlayTextImage_00BFE10D_B362_40DF_41DF_FDCEDC5C68BC.text = Jos kipsisi on ns. Umpikipsi, halkaistaan se sitten kun sinun ei tarvitse käyttää sitä enää
 HotspotPanoramaOverlayTextImage_9B51ED8B_976C_6C01_41E2_3F039BD7B43B.text = Jos kuvat otetaan päästäsi, hoitaja laittaa pääsi ympärille muovisen kehyksen.
@@ -200,14 +181,14 @@ HotspotPanoramaOverlayTextImage_20CE7A51_5679_8A36_41B7_B637B5DCBD54.text = Jos 
 HotspotPanoramaOverlayTextImage_AB2198B6_EA1F_7772_41D5_C42B2D793912.text = Jos röntgenkameralla halutaan kuva keuhkoistasi, sinun pitää halata valoruutua ja pysyä ihan paikoillaan.  \
 Kuvaus ei tunnu yhtään.
 HotspotPanoramaOverlayTextImage_A530D0CE_B816_4F8E_41D5_A5C083BCF30F.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
+HotspotPanoramaOverlayTextImage_200C160D_20E7_D8BF_41AF_06B8BA213572.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
+HotspotPanoramaOverlayTextImage_200FDFCE_20E0_47BD_419B_318A3E459E83.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
 HotspotPanoramaOverlayTextImage_20248C11_2120_C8BB_41B4_C9D286B87A41.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
 HotspotPanoramaOverlayTextImage_200E6CCE_20E0_49BD_41A9_9132D8344742.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
-HotspotPanoramaOverlayTextImage_200FDFCE_20E0_47BD_419B_318A3E459E83.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
-HotspotPanoramaOverlayTextImage_200C160D_20E7_D8BF_41AF_06B8BA213572.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
 HotspotPanoramaOverlayTextImage_44EDB883_6587_D523_41D1_7C4A21FA25DF.text = Jos tarvitset apuvälineitä päivittäisissä askareissasi, minä autan sinua sopivien löytämisessä. 
-HotspotPanoramaOverlayTextImage_7F77F781_659F_7B22_41C7_4F9A4A22FE52.text = Jos tarvitset lääkkeitä tuon ne sinulle ja autan sinua ottamaan ne.  \
-Pidän huolta siitä, että sinulla ei olisi kipuja.
 HotspotPanoramaOverlayTextImage_767BACE5_658F_ACD0_41CF_78DD22B94ADE.text = Jos tarvitset lääkkeitä voin määrätä niitä sinulle reseptillä.
+HotspotPanoramaOverlayTextImage_7F77F781_659F_7B22_41C7_4F9A4A22FE52.text = Jos tarvitset lääkkeitä, tuon ne sinulle ja autan sinua ottamaan ne.  \
+Pidän huolta siitä, että sinulla ei olisi kipuja.
 HotspotPanoramaOverlayTextImage_54D0ABF1_7B3E_4905_4171_F5E53908DE1D.text = Joskus kätesi tai jalkasi voi vääntyä huonoon asentoon tai olet saanut niihin jonkun iskun.
 HotspotPanoramaOverlayTextImage_200E6CD7_20E0_49AB_41A6_0108CE043E54.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
 HotspotPanoramaOverlayTextImage_200C1616_20E7_D8AD_41B6_4964A2917533.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
@@ -217,14 +198,14 @@ HotspotPanoramaOverlayTextImage_9CE772C7_B812_73F1_41B0_03A6FB684082.text = Josk
 HotspotPanoramaOverlayTextImage_973191A4_EA09_193F_41EB_3D1EC68CA34F.text = Joskus meidän on nähtävä, miltä keho näyttää sisältä, jotta tiedetään, miten sinua hoidetaan.  \
 Tämä voidaan tehdä röntgenlaitteen avulla.
 HotspotPanoramaOverlayTextImage_EAAEC129_EA1B_76D8_41EB_09422CB841CB.text = Joskus murtuma saadaan hoidettua pelkällä kipsillä. Joskus se pitää korjata leikkaussalissa
-HotspotPanoramaOverlayTextImage_8A71F183_BD6F_AB55_41E0_263D872955D7.text = Joskus side on kova.  \
-Tällaista sidettä kutsutaan kipsiksi.
 HotspotPanoramaOverlayTextImage_1FE9C0E7_1F20_B97C_418B_19D14DE17F1B.text = Joskus side on kova.  \
 Tällaista sidettä kutsutaan kipsiksi.
+HotspotPanoramaOverlayTextImage_8A71F183_BD6F_AB55_41E0_263D872955D7.text = Joskus side on kova.  \
+Tällaista sidettä kutsutaan kipsiksi.
 HotspotPanoramaOverlayTextImage_8179D5E9_95B4_5CA1_4184_E0424910E332.text = Joskus sinulle pitää antaa lääkettä kuvauksen aikana ja silloin käteesi laitetaan lääkekorkki.
-HotspotPanoramaOverlayTextImage_B8A0644D_B7F6_D60B_41E0_E49D36711534.text = Joskus tarvitset lääkekorkin käteesi. \
-Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
 HotspotPanoramaOverlayTextImage_200E6CBE_20E0_49DD_418A_EDB5C35C01D4.text = Joskus tarvitset lääkekorkin käteesi. \
+Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
+HotspotPanoramaOverlayTextImage_B8A0644D_B7F6_D60B_41E0_E49D36711534.text = Joskus tarvitset lääkekorkin käteesi. \
 Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
 HotspotPanoramaOverlayTextImage_200FDFBE_20E0_47DD_41B3_B4B0B98B1D64.text = Joskus tarvitset lääkekorkin käteesi. \
 Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
@@ -235,28 +216,28 @@ Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen.
 HotspotPanoramaOverlayTextImage_843BAD48_009B_305A_4154_375AD0E62144.text = Joskus voit vain makoilla ja nostella jalkojasi ylös
 HotspotPanoramaOverlayTextImage_200C1600_20E7_D8A5_41AD_3571FEEED5D8.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
 Se tekee ihostasi tunnottoman.
-HotspotPanoramaOverlayTextImage_200FDFC1_20E0_47A7_4193_8AD45124D571.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
-Se tekee ihostasi tunnottoman.
 HotspotPanoramaOverlayTextImage_B8A0944E_B7F6_D609_41E2_3F5C86312E51.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
-Se tekee ihostasi tunnottoman.
-HotspotPanoramaOverlayTextImage_20248C05_2120_C89B_41AB_216154A231CC.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
 Se tekee ihostasi tunnottoman.
 HotspotPanoramaOverlayTextImage_200E6CC2_20E0_49A5_41BD_F3C814C9536D.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
 Se tekee ihostasi tunnottoman.
-HotspotPanoramaOverlayTextImage_200C1607_20E7_D8AB_41AE_8EF9EC683F4B.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
-Yritä olla ihan paikoillaan. 
-HotspotPanoramaOverlayTextImage_200FDFC7_20E0_47AB_4194_BFB1BEA274D4.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
-Yritä olla ihan paikoillaan. 
+HotspotPanoramaOverlayTextImage_200FDFC1_20E0_47A7_4193_8AD45124D571.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
+Se tekee ihostasi tunnottoman.
+HotspotPanoramaOverlayTextImage_20248C05_2120_C89B_41AB_216154A231CC.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
+Se tekee ihostasi tunnottoman.
 HotspotPanoramaOverlayTextImage_20248C0B_2120_C8AF_41B7_FFD240357164.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
-Yritä olla ihan paikoillaan. 
-HotspotPanoramaOverlayTextImage_AF0012D8_B7F2_F395_41D4_90ACCF662056.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
 Yritä olla ihan paikoillaan. 
 HotspotPanoramaOverlayTextImage_200E6CC8_20E0_49A5_41B4_627DAD40BCC9.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
 Yritä olla ihan paikoillaan. 
+HotspotPanoramaOverlayTextImage_AF0012D8_B7F2_F395_41D4_90ACCF662056.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
+Yritä olla ihan paikoillaan. 
+HotspotPanoramaOverlayTextImage_200FDFC7_20E0_47AB_4194_BFB1BEA274D4.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
+Yritä olla ihan paikoillaan. 
+HotspotPanoramaOverlayTextImage_200C1607_20E7_D8AB_41AE_8EF9EC683F4B.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
+Yritä olla ihan paikoillaan. 
 HotspotPanoramaOverlayTextImage_370289D8_4231_EF0C_41D0_363C90185B95.text = Jumppaa saamiesi ohjeiden mukaan, opit kyllä leikkimään ja liikkumaan kipsisi kanssa. 
 HotspotPanoramaOverlayTextImage_94C01634_8102_1FC5_41CA_A50374531E64.text = KUVA
-HotspotPanoramaOverlayTextImage_64AA0DCF_B812_D607_41D9_AEC58FDA1D9A.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
 HotspotPanoramaOverlayTextImage_43130C36_D261_7E1A_41E2_3E04D52006BE.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
+HotspotPanoramaOverlayTextImage_64AA0DCF_B812_D607_41D9_AEC58FDA1D9A.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
 HotspotPanoramaOverlayTextImage_750FB03D_1F21_B934_41B1_B7918046FEA9.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
 HotspotPanoramaOverlayTextImage_AB27E8B1_EA1F_770E_41E1_2AE5E75E5B61.text = Kameraa voidaan liikuttaa huoneessa, jos kuvaa ei oteta sängyn vieressä.
 HotspotPanoramaOverlayTextImage_3953632D_7B2E_B82A_41DD_35D9AD707508.text = Kameraa voidaan liikuttaa huoneessa, jos kuvaa ei oteta sängyn vieressä.
@@ -269,29 +250,29 @@ Lapset, joille on etukäteen kerrottu, tutkimuksista ja toimenpiteistä, kokevat
 HotspotPanoramaOverlayTextImage_6F36ADC2_7E23_0B12_41DC_127350619908.text = Kielen Valinta
 HotspotPanoramaOverlayTextImage_8E155713_2A5A_0417_41C3_F3B1CF70BDEE.text = Kipsauksessa tarvitaan seuraavia välineitä.
 HotspotPanoramaOverlayTextImage_90FEBC9F_7ADF_C4AE_41CF_0C8CBB40783F.text = Kipsauksessa tarvitaan seuraavia välineitä.
-HotspotPanoramaOverlayTextImage_DF8F401D_7AEA_5B6F_418D_87A49362F05E.text = Kipsi on eräänlainen side, joka kastetaan ensin veteen ja asetetaan sitten murtuneen jalan tai käden ympärille. 
 HotspotPanoramaOverlayTextImage_8E1A470B_2A5A_05F7_41BC_AE9831AA2FF0.text = Kipsi on eräänlainen side, joka kastetaan ensin veteen ja asetetaan sitten murtuneen jalan tai käden ympärille. 
+HotspotPanoramaOverlayTextImage_DF8F401D_7AEA_5B6F_418D_87A49362F05E.text = Kipsi on eräänlainen side, joka kastetaan ensin veteen ja asetetaan sitten murtuneen jalan tai käden ympärille. 
 HotspotPanoramaOverlayTextImage_7C0A1D18_7D25_C5DD_41D7_D7E5953F2C7D.text = Kipsi voidaan poistaa kipsisaksilla.
 HotspotPanoramaOverlayTextImage_07E2A792_1F60_471A_41AC_DF41DE388A77.text = Kipsin laiton jälkeen saat lähteä kotiin sairaalasta
 HotspotPanoramaOverlayTextImage_7C0BF3BE_7D3A_5CD3_41DB_ED4EB2E03425.text = Kipsin poistaminen ei satu, mutta jalka tai käsi tuntuu poiston jälkeen erilaiselta, kun sen suojana monta viikkoa ollut kipsi poistetaan.
 HotspotPanoramaOverlayTextImage_7C1013AA_7D25_DCF6_41D4_4392D98DFEB4.text = Kipsin poiston jälkeen ihosi on usein kuiva ja hilseilevä.
 HotspotPanoramaOverlayTextImage_3E833A1D_1F20_C910_4193_A8005C184949.text = Kipsin poiston jälkeen pääset kotiin
-HotspotPanoramaOverlayTextImage_B643DF47_8176_85F8_41B5_DAE42130598A.text = Kipsin sinulle tekee joko fysioterapeutti tai toimintaterapeutti, jonka tapasit jo aiemmin.
 HotspotPanoramaOverlayTextImage_00B89102_B362_40C5_41CA_BF15340E40D9.text = Kipsin sinulle tekee joko fysioterapeutti tai toimintaterapeutti, jonka tapasit jo aiemmin.
-HotspotPanoramaOverlayTextImage_BC06ECB9_814F_8B08_41D2_8D5071C50058.text = Kipsisaha halkaisee vain kipsin se ei kosketa ihoasi tai satu, vaikka se pitääkin kovaa ääntä.
+HotspotPanoramaOverlayTextImage_B643DF47_8176_85F8_41B5_DAE42130598A.text = Kipsin sinulle tekee joko fysioterapeutti tai toimintaterapeutti, jonka tapasit jo aiemmin.
 HotspotPanoramaOverlayTextImage_00BEC10E_B362_40DD_41D9_07C0BCCCF77D.text = Kipsisaha halkaisee vain kipsin se ei kosketa ihoasi tai satu, vaikka se pitääkin kovaa ääntä.
+HotspotPanoramaOverlayTextImage_BC06ECB9_814F_8B08_41D2_8D5071C50058.text = Kipsisaha halkaisee vain kipsin se ei kosketa ihoasi tai satu, vaikka se pitääkin kovaa ääntä.
 HotspotPanoramaOverlayTextImage_7C0E9CC4_7D3A_C4B1_41C8_B83845029FD6.text = Kipsisaha pitää kovaa ääntä, mutta voit pitää kuulokkeita ja kuunnella musiikkia samanaikaisesti.
 HotspotPanoramaOverlayTextImage_7C0DF4D9_7D3E_4450_41A5_5CFE1A37D963.text = Kipsisaha voi vaikuttaa pelottavalta, mutta se ei satuta sinua. Sen ääni on kova – kuuntele. 
 HotspotPanoramaOverlayTextImage_7C0D0BBE_7D3F_CCD0_41C4_AAB36133A10B.text = Kipsisahaa tarvitaan joskus kovan kipsin poistoon.
 HotspotPanoramaOverlayTextImage_00B80106_B362_40CD_41E2_1391D6CBB29D.text = Kipsisi voi olla irroitettava, jolloin voit ottaa kipsin välillä pois.
 HotspotPanoramaOverlayTextImage_B1E202A8_814D_9F56_41B9_2841D869D090.text = Kipsisi voi olla irroitettava, jolloin voit ottaa kipsin välillä pois.
-HotspotPanoramaOverlayTextImage_B08ECFFD_8152_84CC_41D2_33FDA78F5587.text = Kipsisi voi olla myös Umpikipsi, mikä tarkoittaa, että kipsi on paikallaan koko ajan ja voit myös nukkua sen kanssa 
 HotspotPanoramaOverlayTextImage_00BEE109_B362_40C7_41E2_880247155BFA.text = Kipsisi voi olla myös Umpikipsi, mikä tarkoittaa, että kipsi on paikallaan koko ajan ja voit myös nukkua sen kanssa 
+HotspotPanoramaOverlayTextImage_B08ECFFD_8152_84CC_41D2_33FDA78F5587.text = Kipsisi voi olla myös Umpikipsi, mikä tarkoittaa, että kipsi on paikallaan koko ajan ja voit myös nukkua sen kanssa 
 HotspotPanoramaOverlayTextImage_A540FC24_7ADD_CB97_41DC_07C504911DB8.text = Kipsisidoksia voi olla erilaisia ja erivärisiä.
 HotspotPanoramaOverlayTextImage_8E15B710_2A5A_0411_419B_1F19FC539AD2.text = Kipsisidoksia voi olla erilaisia ja erivärisiä.
 HotspotPanoramaOverlayTextImage_25D38853_7AE6_CA3B_41C6_5B07F9F462CD.text = Kirahvi on loukannut jalkansa.
-HotspotPanoramaOverlayTextImage_1FE9C0D5_1F20_B95C_41AB_91B9F4CB2052.text = Kirurginen valo auttaa lääkäriä näkemään, mikä on rikki ja mikä on korjattava kehossasi.
 HotspotPanoramaOverlayTextImage_8901C6F5_BD70_96B9_41E1_5C08B76C03B6.text = Kirurginen valo auttaa lääkäriä näkemään, mikä on rikki ja mikä on korjattava kehossasi.
+HotspotPanoramaOverlayTextImage_1FE9C0D5_1F20_B95C_41AB_91B9F4CB2052.text = Kirurginen valo auttaa lääkäriä näkemään, mikä on rikki ja mikä on korjattava kehossasi.
 HotspotPanoramaOverlayTextImage_58258364_4BD2_28CE_41B7_0E42E6678735.text = Kliininen neurofysiologi on lääkäri, joka tutkii lihasten ja hermoston toimintaa
 HotspotPanoramaOverlayTextImage_98B6AC58_532F_ADFA_4198_CB6B34FC17D1.text = Kliininen neurofysiologi on lääkäri, joka tutkii lihasten ja hermoston toimintaa hän osaa tarkastella eeg laitteen piirtämää aivosähkökäyrääsi. 
 HotspotPanoramaOverlayTextImage_95A0B187_810E_F4F4_41B5_6DDDF3BB2F4F.text = Korkean verensokerin takia sinulla on voinut olla kova jano ja koko ajan pissahätä.  \
@@ -300,24 +281,24 @@ HotspotPanoramaOverlayTextImage_AF0CF08F_0099_30C4_4160_998B10998F6D.text = Kort
 HotspotPanoramaOverlayTextImage_6939F48A_BEF3_A9F7_4183_E1AD4BE01E0B.text = Kun heräät, sinulla on jo kipsit valmiina
 HotspotPanoramaOverlayTextImage_AB2258B9_EA1F_777E_41E5_381099B0FCC8.text = Kun keuhkoista otetaan kuva, pitää välillä vetää keuhkot täyteen ilmaa ja pidättää hengitystä hetki.  \
 Hoitaja sanoo, kun voit taas hengittää.
-HotspotPanoramaOverlayTextImage_8E15370D_2A5A_05F3_41B4_00EA7F9F8E7A.text = Kun kipsi kuivuu, siitä tulee kova kuori, joka suojaa murtunutta kohtaa, kuten jalkaa. 
 HotspotPanoramaOverlayTextImage_B800034B_7AE6_5D81_41C8_1887C6E032A5.text = Kun kipsi kuivuu, siitä tulee kova kuori, joka suojaa murtunutta kohtaa, kuten jalkaa. 
+HotspotPanoramaOverlayTextImage_8E15370D_2A5A_05F3_41B4_00EA7F9F8E7A.text = Kun kipsi kuivuu, siitä tulee kova kuori, joka suojaa murtunutta kohtaa, kuten jalkaa. 
 HotspotPanoramaOverlayTextImage_AB27F8B4_EA1F_7776_41EB_77FD1616B5B4.text = Kun kuva otetaan, sinun pitää esimerkiksi kättä tai jalkaa ihan paikallaan, että saadaan hyvä kuva.
 HotspotPanoramaOverlayTextImage_4312EC3B_D261_7E0A_41E0_0BEDF285F7B9.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen
-HotspotPanoramaOverlayTextImage_5B78C38D_B9F3_D209_41D9_BB39B1101A32.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen
 HotspotPanoramaOverlayTextImage_750E6040_1F21_B94C_41A0_716066444F51.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen
+HotspotPanoramaOverlayTextImage_5B78C38D_B9F3_D209_41D9_BB39B1101A32.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen
 HotspotPanoramaOverlayTextImage_65252471_7FE7_3C6E_4194_D4D206E7BC7D.text = Kun murtuma on parantunut, voidaan kipsi poistaa eri tavoilla.
 HotspotPanoramaOverlayTextImage_EAF90749_AE3F_B68F_41C8_E4809735EE34.text = Kun olet herännyt, tutkimus onkin jo valmis ja saat lähteä kotiin
 HotspotPanoramaOverlayTextImage_727ADDCE_BEF0_BB09_41D6_3DDC3C785323.text = Kun olet herännyt, voit juoda mehua
 HotspotPanoramaOverlayTextImage_F26ACE73_47A0_6B13_41BB_5E1DA1900BAC.text = Kun syöt hiilihydraatteja eli hiilareita, ne nostavat verensokeria.  \
 Silloin tarvitset insuliinia, jotta sinun ei tule huono olo.
 HotspotPanoramaOverlayTextImage_015551D8_01BB_308D_4170_AECC33BDF486.text = Kun toimenpide on tehty sinut siirretään heräämöön
-HotspotPanoramaOverlayTextImage_8B420DA1_BD70_BB55_41CB_0BE2ACF3C652.text = Kun toimenpide on valmis, haava peitetään siteellä.
 HotspotPanoramaOverlayTextImage_1FE9C0E5_1F20_B97C_41B4_670A7C41612D.text = Kun toimenpide on valmis, haava peitetään siteellä.
+HotspotPanoramaOverlayTextImage_8B420DA1_BD70_BB55_41CB_0BE2ACF3C652.text = Kun toimenpide on valmis, haava peitetään siteellä.
 HotspotPanoramaOverlayTextImage_4833E3A8_49A0_99ED_41CD_3423C0F8D63D.text = Kuuntele kipsisahan ääni:
 HotspotPanoramaOverlayTextImage_00BEA112_B362_40C5_4189_C4E42B7DC66A.text = Kuuntele kipsisahan ääni:
 HotspotPanoramaOverlayTextImage_76371A55_658B_760A_41D8_5A46CA22440A.text = Kuuntelen stetoskoopilla, miten sydämesi pumppaa ja ilma kulkee keuhkoissasi.  \
-Minulla on usein myös korvalamppu, jolla katson korviisi.
+Minulla on myös korvalamppu, jolla voin katsoa korviisi.
 HotspotPanoramaOverlayTextImage_414E5318_6584_FB35_41D8_210363F62266.text = Kuvaaminen ei satu ollenkaan, mutta laitteemme voivat välillä pitää kovaa ääntä, jota ei tarvitse pelästyä. 
 HotspotPanoramaOverlayTextImage_83F6EFC5_04EC_6E64_4138_E86D435AF26A.text = Kuvantamistutkimukset
 HotspotPanoramaOverlayTextImage_86FD0781_95B4_DD3B_41CB_2886F0FDE5CA.text = Kuvantamistutkimus
@@ -330,11 +311,11 @@ Voit harjoitella sitä jo kotona.
 HotspotPanoramaOverlayTextImage_81050D89_95BC_4D6E_41CA_9C9BD677A547.text = Kuvauslaitteeseen ei voi mennä kellon, korujen tai hiuspinnien kanssa ja siksi ne täytyy ottaa pois kuvauksen ajaksi.
 HotspotPanoramaOverlayTextImage_4302C5CB_6585_7F2B_41C8_B7C6C7A70642.text = Kuvista pystymme näkemään kehosi sisällä olevia asioita ja tutkimaan niitä!  \
 Jännää, eikö vain?
-HotspotPanoramaOverlayTextImage_200FDFC3_20E0_47AB_41A0_D1F1E86327CA.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
 HotspotPanoramaOverlayTextImage_200C1603_20E7_D8AB_41BB_ADEC828F1555.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
-HotspotPanoramaOverlayTextImage_20248C07_2120_C8A7_41A8_71CC625FBB90.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
-HotspotPanoramaOverlayTextImage_200E6CC4_20E0_49AD_4189_6F942A5E5FD6.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
 HotspotPanoramaOverlayTextImage_A36CE566_B7F6_56B9_41B9_AF96178FFDC4.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
+HotspotPanoramaOverlayTextImage_20248C07_2120_C8A7_41A8_71CC625FBB90.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
+HotspotPanoramaOverlayTextImage_200FDFC3_20E0_47AB_41A0_D1F1E86327CA.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
+HotspotPanoramaOverlayTextImage_200E6CC4_20E0_49AD_4189_6F942A5E5FD6.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
 HotspotPanoramaOverlayTextImage_B0FCCB2F_81D7_8E5C_41A5_AA25B0FACF1C.text = Laite osaa kertoa kuinka hyvin jaksat hengitellä toimenpiteen aikana.
 HotspotPanoramaOverlayTextImage_6A2F3E17_563E_8A4E_41AD_B35109D86B38.text = Laite piirtää paperille hienoa käyrää aivojesi ja hermostosi toiminnasta
 HotspotPanoramaOverlayTextImage_9AD106B3_9774_3C1D_41C2_385539A71BCD.text = Laite pitää hassuja ääniä: piipitystä ja kolinaa. Älä pelästy! Saat kuulokkeet korville ja voit kuunnella musiikkia. Silloin koneen äänet eivät kuulosta näin kovilta.
@@ -351,53 +332,53 @@ Sänky on pehmeä ja lämmin.
 HotspotPanoramaOverlayTextImage_936019F2_BD71_BABB_41C6_5D80BF1B8A8F.text = Leikkauksen aikana makaat kapealla sängyllä, jota kutsutaan leikkauspöydäksi.  \
 Sänky on pehmeä ja lämmin.
 HotspotPanoramaOverlayTextImage_9EED8CE1_94B4_EC4B_41A0_907C283395C4.text = Leikkaussali
-HotspotPanoramaOverlayTextImage_8FA0968E_BD73_A96B_41D6_490EC4BA0700.text = Leikkaussalin valossa on monia erittäin kirkkaita lamppuja.
 HotspotPanoramaOverlayTextImage_1FE9C0D4_1F20_B95C_41AF_F00F6AF654C9.text = Leikkaussalin valossa on monia erittäin kirkkaita lamppuja.
+HotspotPanoramaOverlayTextImage_8FA0968E_BD73_A96B_41D6_490EC4BA0700.text = Leikkaussalin valossa on monia erittäin kirkkaita lamppuja.
 HotspotPanoramaOverlayTextImage_97AF0920_BD71_9B57_41CB_CBAD8D8ECCF2.text = Leikkaussalissa on useita henkilöitä pitämässä sinusta huolta.
 HotspotPanoramaOverlayTextImage_1FE9C0D1_1F20_B954_41B0_A3FF62CEF725.text = Leikkaussalissa on useita henkilöitä pitämässä sinusta huolta.
 HotspotPanoramaOverlayTextImage_9E716D6C_94D4_2C7F_41D1_A67F33622AF0.text = Linkki eri ammattilaisiin
 HotspotPanoramaOverlayTextImage_9AB646B4_5334_BAB5_41CD_B3B091E9A488.text = Lisäksi saat ottaa tutkimukseen mukaan oman unilelusi.
 HotspotPanoramaOverlayTextImage_9B21A013_976C_140A_41E3_8A3818D435E0.text = Liu-ut kelkalla kuvauslaitteen sisälle kuvaustunneliin.  \
 Jos olet hereillä kuvauksen ajan, voit katsoa ohjelmia telkkarista sillä aikaa, kun sinusta otetaan kuvia.
-HotspotPanoramaOverlayTextImage_200C160A_20E7_D8A5_419A_AB31A62F1647.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
-HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_416E_5782E17F1C6C.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
-HotspotPanoramaOverlayTextImage_200E6CCC_20E0_49BD_419F_28392C727CE7.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
 HotspotPanoramaOverlayTextImage_A34D0917_B812_BE9D_41D9_FA6DCD194E2D.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
 HotspotPanoramaOverlayTextImage_200FDFCB_20E0_47BB_417C_881A9BFFB179.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
-HotspotPanoramaOverlayTextImage_9A7C0296_B812_D39E_41DA_24B0E82408E1.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
+HotspotPanoramaOverlayTextImage_200C160A_20E7_D8A5_419A_AB31A62F1647.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
+HotspotPanoramaOverlayTextImage_200E6CCC_20E0_49BD_419F_28392C727CE7.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
+HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_416E_5782E17F1C6C.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
+HotspotPanoramaOverlayTextImage_200E6CD6_20E0_49AD_41AE_E16B5EA90285.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
 HotspotPanoramaOverlayTextImage_200C1615_20E7_D8AF_41A4_E6F2CD55E6FE.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
-Lääke voi tuntua viileältä kädessä.
-HotspotPanoramaOverlayTextImage_200E6CD6_20E0_49AD_41AE_E16B5EA90285.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
 HotspotPanoramaOverlayTextImage_200FDFD6_20E0_47AD_41B4_764A5E3199AE.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
 HotspotPanoramaOverlayTextImage_20248C19_2120_C8AB_41A9_78E7C0034A72.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
+HotspotPanoramaOverlayTextImage_9A7C0296_B812_D39E_41DA_24B0E82408E1.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
+Lääke voi tuntua viileältä kädessä.
 HotspotPanoramaOverlayTextImage_7163DDB3_1F20_4BCE_41A3_86B333FFA808.text = Lääkekorkin laittaminen
-HotspotPanoramaOverlayTextImage_200E6CC6_20E0_49AD_41A8_970A27F1AD16.text = Lääkekorkkeja on eri värejä ja kokoja.  \
-Saat sen, joka sopii käteesi parhaiten.
 HotspotPanoramaOverlayTextImage_20248C0A_2120_C8A9_41A2_E9E77E09BD6B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
-HotspotPanoramaOverlayTextImage_200FDFC6_20E0_47AD_41BC_654C9062844F.text = Lääkekorkkeja on eri värejä ja kokoja.  \
+HotspotPanoramaOverlayTextImage_200C1605_20E7_D8AF_41BC_38D57EB3D94B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
 HotspotPanoramaOverlayTextImage_AF578DCF_B7F2_518A_41E3_6ECF560ACFA7.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
-HotspotPanoramaOverlayTextImage_200C1605_20E7_D8AF_41BC_38D57EB3D94B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
+HotspotPanoramaOverlayTextImage_200FDFC6_20E0_47AD_41BC_654C9062844F.text = Lääkekorkkeja on eri värejä ja kokoja.  \
+Saat sen, joka sopii käteesi parhaiten.
+HotspotPanoramaOverlayTextImage_200E6CC6_20E0_49AD_41A8_970A27F1AD16.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
 HotspotPanoramaOverlayTextImage_0162AC4E_0199_178C_4158_EEC3C499EC42.text = Lääkäri asettaa pienen neulan avulla anturin ihosi alle
 HotspotPanoramaOverlayTextImage_858123EB_9CAB_B094_41C4_C0F253702176.text = Lääkäri laittaa lämmintä geeliä tällaisen sensorin päähän ja liikuttelee sitten sensoria ihosi päällä.  \
 Tutkimus ei satu yhtään.
 HotspotPanoramaOverlayTextImage_CEE42580_00B9_10B4_415A_2128F0352740.text = Lääkäri on kiinnostunut kuinka, pitkä olet sekä kuinka paljon painat 
 HotspotPanoramaOverlayTextImage_1C89B3FF_0079_1020_411B_672A1B446B10.text = Lääkärin huone
-HotspotPanoramaOverlayTextImage_4313CC39_D261_7E16_41DD_C20172EC8844.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
-Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo
 HotspotPanoramaOverlayTextImage_750EE03F_1F21_B934_41A0_65A681935706.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
+Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo
+HotspotPanoramaOverlayTextImage_4313CC39_D261_7E16_41DD_C20172EC8844.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
 Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo
 HotspotPanoramaOverlayTextImage_6681D108_B9EF_CE08_41C4_6AFC105B3178.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
 Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo
-HotspotPanoramaOverlayTextImage_00B98104_B362_40CD_41E1_8FEFB09E8D6D.text = Lääkärisi antaa sinulle ohjeet, kuinka sinun pitää kipsiä pitää.
 HotspotPanoramaOverlayTextImage_B16A11E6_814D_FCAE_41D3_633772E98E42.text = Lääkärisi antaa sinulle ohjeet, kuinka sinun pitää kipsiä pitää.
+HotspotPanoramaOverlayTextImage_00B98104_B362_40CD_41E1_8FEFB09E8D6D.text = Lääkärisi antaa sinulle ohjeet, kuinka sinun pitää kipsiä pitää.
 HotspotPanoramaOverlayTextImage_808247C3_956C_5C20_41E0_A3C3CF905C24.text = MRI
 HotspotPanoramaOverlayTextImage_9B4ECB6B_9CF4_5424_41DD_F334C83ED092.text = MRI
 HotspotPanoramaOverlayTextImage_EA033BC7_FF8B_5CC9_41D9_25CF273D8E50.text = Magneettikuvauslaitteella saadaan otettua tosi tarkkoja kuvia ihmisen kehon osista, kuten luista, lihaksista ja nivelistä. 
@@ -420,13 +401,13 @@ HotspotPanoramaOverlayTextImage_4C348EFA_7B26_CB04_41DA_F9E85D8C8E45.text = Mik�
 HotspotPanoramaOverlayTextImage_070883D2_B813_D206_41DA_F3995917D8B1.text = Mikä on toimenpide?
 HotspotPanoramaOverlayTextImage_75367032_1F21_B8CC_4196_E582084A1130.text = Mikä on toimenpide?
 HotspotPanoramaOverlayTextImage_43257C2C_D261_7E0E_4192_FE4F0DA03B7F.text = Mikä on toimenpide?
-HotspotPanoramaOverlayTextImage_00B9710B_B362_40DB_41DF_755806FDB38F.text = Mikäli kipsisi on irrotettava ja käytät sitä vain sovittuina aikoina, halkaistaan kipsisi heti sen kuivumisen jälkeen kipsisahalla.
 HotspotPanoramaOverlayTextImage_B10C3F6A_81B3_853F_41C8_9176062ACACC.text = Mikäli kipsisi on irrotettava ja käytät sitä vain sovittuina aikoina, halkaistaan kipsisi heti sen kuivumisen jälkeen kipsisahalla.
+HotspotPanoramaOverlayTextImage_00B9710B_B362_40DB_41DF_755806FDB38F.text = Mikäli kipsisi on irrotettava ja käytät sitä vain sovittuina aikoina, halkaistaan kipsisi heti sen kuivumisen jälkeen kipsisahalla.
 HotspotPanoramaOverlayTextImage_EB288A54_2ACA_0C14_41BA_AE0F5F963BBD.text = Milloin pääset kotiin?
 HotspotPanoramaOverlayTextImage_8DC53B95_04EC_76E5_418D_D722A3F1E46C.text = Minulla on diabetes
 HotspotPanoramaOverlayTextImage_8B7ADEE8_04FC_EE28_416F_03F54EFA800C.text = Minulla on murtuma
-HotspotPanoramaOverlayTextImage_7A1B3FB8_658B_AB6D_41BB_77770882A49C.text = Minä osaan suunnitella sellaisen sinulle.  \
-Voit myös kertoa mikä on sinun lempiruokasi, tai mitä syötte yleensä kotona. 
+HotspotPanoramaOverlayTextImage_7A1B3FB8_658B_AB6D_41BB_77770882A49C.text = Minä osaan suunnitella sinulle sopivat ruuat ja juomat.  \
+Voit myös kertoa, mikä on sinun lempiruokasi, tai mitä syötte yleensä kotona. 
 HotspotPanoramaOverlayTextImage_7DE75A8C_6584_D522_418F_B34F03E01450.text = Minä otan verikokeita ja tutkin näytteitä.  \
 Näytteistä voidaan saada paljon tärkeää tietoa voinnistasi. 
 HotspotPanoramaOverlayTextImage_24B6C413_05D4_2BDC_4190_D469DC74CB82.text = Mittanauhan avulla voidaan mitata pääsi kasvua. 
@@ -435,25 +416,30 @@ HotspotPanoramaOverlayTextImage_D97BB71A_7AE6_457C_41D9_C41FD5EBE0AF.text = Mit�
 HotspotPanoramaOverlayTextImage_EB01E453_EA09_3EA7_41E4_B99B4E9460A6.text = Mitä röntgenkuvauksessa tapahtuu? 
 HotspotPanoramaOverlayTextImage_852DE798_0099_10FB_4161_F87BC8EE6DFA.text = Mitähän näillä tavaroilla voidaankaan tehdä? 
 HotspotPanoramaOverlayTextImage_C61DDD94_561F_8E05_41B3_B623C7E530E6.text = Moi!  \
-Minä olen kirurgi, olen lääkäri, joka työskentelee usein leikkaussalissa. 
+Minä olen kirurgi.  \
+Olen lääkäri, joka työskentelee usein leikkaussalissa. 
 HotspotPanoramaOverlayTextImage_C59F0C88_561A_8E0D_41CA_F1C7C2C2317C.text = Moi!   \
 Minä olen röntgenhoitaja ja otan sinusta kuvia erilaisilla laitteilla. 
-HotspotPanoramaOverlayTextImage_DB036F89_5619_8A0E_41AE_E3F9A081CEAA.text = Moikka!  \
-Minun kanssani saa leikkiä ja harjoitella kaikenlaisia askareita! 
 HotspotPanoramaOverlayTextImage_DDE366B5_5627_FA0E_41B6_EC4B5C018E1F.text = Moikka!  \
 Minä olen lääkäri.  \
 Tutkin sinut, kun tulet sairaalaan. 
+HotspotPanoramaOverlayTextImage_078294ED_3E18_D0A5_41AA_BEA3EA08411C.text = Moikka!  \
+Minä olen puheterapeutti. \
+Voimme yhdessä opetella erilaisia kirjaimia ja sanoja, leikkiä, pelata ja monenlaista muuta touhua!  
+HotspotPanoramaOverlayTextImage_DB036F89_5619_8A0E_41AE_E3F9A081CEAA.text = Moikka!  \
+Minä olen toimintaterapeutti.  \
+Minun kanssani saa leikkiä ja harjoitella kaikenlaisia askareita! 
 HotspotPanoramaOverlayTextImage_C69E9AFF_562F_8BFB_41B9_A94DDBA1BD3B.text = Moikka!  \
 Minä työskentelen laboratoriossa, jossa tutkitaan erilaisia näytteitä. 
-HotspotPanoramaOverlayTextImage_6E394785_B4AE_CFB8_41E4_C0F311E79BDF.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
-HotspotPanoramaOverlayTextImage_727B2DCD_BEF0_BB0B_41D2_CEADD75BE59B.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
 HotspotPanoramaOverlayTextImage_202F9960_2120_C895_41BF_EC30363BCB72.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
+HotspotPanoramaOverlayTextImage_727B2DCD_BEF0_BB0B_41D2_CEADD75BE59B.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
+HotspotPanoramaOverlayTextImage_6E394785_B4AE_CFB8_41E4_C0F311E79BDF.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
 HotspotPanoramaOverlayTextImage_E67A5686_FE9B_F68E_41D0_1B17CFF77C97.text = Muista jatkaa murtuneen käden ja jalan jumppaamista saamiesi ohjeiden mukaisesti.
-HotspotPanoramaOverlayTextImage_A35354F9_B816_7792_41DB_13DDBC33F0E1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
-HotspotPanoramaOverlayTextImage_200FDFCC_20E0_47BD_41AE_67B4B78002BD.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
-HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_41BF_345BAEF80DFF.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
-HotspotPanoramaOverlayTextImage_200E6CCD_20E0_49BF_41BD_CA5436929EE1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
 HotspotPanoramaOverlayTextImage_200C160C_20E7_D8BD_41B0_CF4EA85BCD76.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_200E6CCD_20E0_49BF_41BD_CA5436929EE1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_41BF_345BAEF80DFF.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_200FDFCC_20E0_47BD_41AE_67B4B78002BD.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_A35354F9_B816_7792_41DB_13DDBC33F0E1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
 HotspotPanoramaOverlayTextImage_6CC939F7_7E21_0AF3_41D4_74A8134281EB.text = Murtuma
 HotspotPanoramaOverlayTextImage_107ECABB_7AEB_CFA2_41D6_65D77714118D.text = Murtumakohta hoidetaan kipsaamalla.
 HotspotPanoramaOverlayTextImage_E7AB74B2_FE9D_8A87_41E0_16DBE7D0316E.text = Murtumakohta voi aluksi turvota helposti, kun rasitat jalkaasi tai kättäsi paljon.
@@ -469,18 +455,18 @@ HotspotPanoramaOverlayTextImage_82A56B7E_7D26_4C65_41C5_01ADAEA3265A.text = Nyt 
 Lasten murtumat paranevat yleensä muutamissa viikoissa.
 HotspotPanoramaOverlayTextImage_8E10271D_2A5A_0413_41B1_EE96050A8544.text = Nyt murtumasi on hoidossa kipsin alla ja saa parantua rauhassa.  \
 Lasten murtumat paranevat yleensä muutamissa viikoissa.
+HotspotPanoramaOverlayTextImage_70306783_B362_4FC0_41B6_9F6909640122.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_579B207B_B812_4E17_41D6_3B3CEF0F7A33.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_43135C3D_D261_7E0E_41D3_59B6980350BE.text = Nyt voit siirtyä leikkaussaliin
-HotspotPanoramaOverlayTextImage_70306783_B362_4FC0_41B6_9F6909640122.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_750D5042_1F21_B94C_41A6_3A311A09C85D.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_8FC5E01F_AE11_EAB1_41D9_212951D8ADDF.text = Nyt voit siirtyä odotus-aulaan
 HotspotPanoramaOverlayTextImage_9BE58DFE_B365_C319_41DC_C7DC245B4EF6.text = Nyt voit siirtyä toimenpidehuoneeseen 
 HotspotPanoramaOverlayTextImage_9D6BC73F_AE11_96F1_41B0_C4F59FF1912D.text = Nyt voit siirtyä tutkimushuoneeseen
 HotspotPanoramaOverlayTextImage_C6594317_00A9_31DB_4155_E8FFEDA84736.text = Näillä välineillä lääkäri tutkii sinua 
-HotspotPanoramaOverlayTextImage_594C1637_46E0_9B4D_41C4_CBCFB559B7E9.text = Näin hänen on myös helppo arvioida, kuinka paljon hyötyä lääkityksestä on ollut sinulle 
 HotspotPanoramaOverlayTextImage_017E8C3C_B362_C13E_41A6_7E8F3313C760.text = Näin hänen on myös helppo arvioida, kuinka paljon hyötyä lääkityksestä on ollut sinulle 
-HotspotPanoramaOverlayTextImage_43137C3A_D261_7E0A_41C6_C51FAD8E5A13.text = Näin kaikki tietävät, mikä kohta korjataan.
+HotspotPanoramaOverlayTextImage_594C1637_46E0_9B4D_41C4_CBCFB559B7E9.text = Näin hänen on myös helppo arvioida, kuinka paljon hyötyä lääkityksestä on ollut sinulle 
 HotspotPanoramaOverlayTextImage_750D603F_1F21_B934_41B6_A48086BF2B70.text = Näin kaikki tietävät, mikä kohta korjataan.
+HotspotPanoramaOverlayTextImage_43137C3A_D261_7E0A_41C6_C51FAD8E5A13.text = Näin kaikki tietävät, mikä kohta korjataan.
 HotspotPanoramaOverlayTextImage_58BCE70C_B9EE_D208_41D3_32E92B6B8A57.text = Näin koko henkilökunta tietää, mikä kohta korjataan.
 HotspotPanoramaOverlayTextImage_1FE9C0D9_1F20_B954_4189_F1CE43B05408.text = Nämä tarroilla varustetut johdot kiinnitetään rintaan.  \
 Johdot kytketään sitten valvontanäyttöön
@@ -489,7 +475,7 @@ Johdot kytketään sitten valvontanäyttöön
 HotspotPanoramaOverlayTextImage_10C180AE_006F_103C_411C_E9D90BF88360.text = Olet tullut kuntoutusarviojaksolle 
 HotspotPanoramaOverlayTextImage_91266523_5334_9F53_41C3_7444CAAD59B9.text = Olet valmistautunut tutkimukseen jo kotona varmasti valvomalla hiukan enemmän yöllä kuin normaalisti
 HotspotPanoramaOverlayTextImage_E3FDC9F5_B39E_433C_41C5_B2EDDA931124.text = Olethan muistanut olla aamulla syömättä ja juomatta ennen toimenpidettä.
-HotspotPanoramaOverlayTextImage_200C1611_20E7_D8A7_417A_F32F307766CA.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
+HotspotPanoramaOverlayTextImage_A7B4C14E_B812_4E8E_41A8_AF13D4CC7AF2.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
 HotspotPanoramaOverlayTextImage_20248C15_2120_C8BB_41B1_EDC9CB50B555.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
@@ -497,13 +483,13 @@ HotspotPanoramaOverlayTextImage_200FDFD2_20E0_47A5_4199_8CAD50CA0404.text = On t
 Siksi se on teipattu tukevasti erityisellä teipillä.
 HotspotPanoramaOverlayTextImage_200E6CD2_20E0_49A5_41B3_EAB04722F01C.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
-HotspotPanoramaOverlayTextImage_A7B4C14E_B812_4E8E_41A8_AF13D4CC7AF2.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
+HotspotPanoramaOverlayTextImage_200C1611_20E7_D8A7_417A_F32F307766CA.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
-HotspotPanoramaOverlayTextImage_432CDC33_D261_7E1A_41D6_19B734B67BC1.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
-Siksi et saa syödä mitään ruokaa. 
 HotspotPanoramaOverlayTextImage_750E303A_1F21_B93C_41A4_5C1BF43899CA.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
 Siksi et saa syödä mitään ruokaa. 
 HotspotPanoramaOverlayTextImage_63F47DBB_B815_D60E_41DD_61E63A1692B7.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
+Siksi et saa syödä mitään ruokaa. 
+HotspotPanoramaOverlayTextImage_432CDC33_D261_7E1A_41D6_19B734B67BC1.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
 Siksi et saa syödä mitään ruokaa. 
 HotspotPanoramaOverlayTextImage_8424336D_0099_305A_4138_26BABC22D2A0.text = Onpa iso pallo, mitähän sillä voisi tehdä? 
 HotspotPanoramaOverlayTextImage_7697560A_00BF_13D6_412E_CEF990853BB8.text = Osaakohan kirahvi kävellä sinistä viivaa pitkin?  \
@@ -512,24 +498,23 @@ HotspotPanoramaOverlayTextImage_B04A474E_009B_1044_413A_92C1182817D8.text = Osaa
 Entä sinä? 
 HotspotPanoramaOverlayTextImage_6A2B8BDE_00B9_106F_4159_4F24F9A8E6C8.text = Osaatko laittaa kolikoita possuun?
 HotspotPanoramaOverlayTextImage_288410E6_562A_960B_41D0_0D4959FEAD1D.text = Paina hahmoja tervehtiäksesi heitä!
-HotspotPanoramaOverlayTextImage_7C01BBBC_7D26_CCE7_41D6_EE37D9DC4D66.text = Paranemiseen vaikuttaa se, missä murtumasi on ja millainen se on.
 HotspotPanoramaOverlayTextImage_8E13C71F_2A5A_040F_419E_FDB0C4D5746F.text = Paranemiseen vaikuttaa se, missä murtumasi on ja millainen se on.
+HotspotPanoramaOverlayTextImage_7C01BBBC_7D26_CCE7_41D6_EE37D9DC4D66.text = Paranemiseen vaikuttaa se, missä murtumasi on ja millainen se on.
 HotspotPanoramaOverlayTextImage_1A8790A0_7AE6_BA70_41BA_695F321E959A.text = Pidä kättä tai jalkaa ihan paikallaan kun kuva otetaan.  \
-Näin saadaan hyvä kuva  \
-
-HotspotPanoramaOverlayTextImage_200E6CD0_20E0_49A5_4197_724F4A54C9A2.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
-Vain pehmeä muoviputki jää verisuoneen.
-HotspotPanoramaOverlayTextImage_200C160F_20E7_D8BB_41B9_A68566EFD123.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
-Vain pehmeä muoviputki jää verisuoneen.
+Näin saadaan hyvä kuva. 
 HotspotPanoramaOverlayTextImage_200FDFD0_20E0_47A5_418B_6916C7B72F31.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
+Vain pehmeä muoviputki jää verisuoneen.
+HotspotPanoramaOverlayTextImage_200E6CD0_20E0_49A5_4197_724F4A54C9A2.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
 Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_20248C13_2120_C8BF_41AC_DF1B22B1D6AF.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
 Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_A78DD55E_B812_768E_41E0_CC7129458FAC.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
 Vain pehmeä muoviputki jää verisuoneen.
+HotspotPanoramaOverlayTextImage_200C160F_20E7_D8BB_41B9_A68566EFD123.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
+Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_B541CBBC_8156_8C02_41C8_4C9AADF4AECC.text = Placeholder
-HotspotPanoramaOverlayTextImage_D725BB8D_C863_CD64_41E6_129358EC75AC.text = Polski
 HotspotPanoramaOverlayTextImage_6F90DCA2_76A4_EB3B_41DA_54009129D6CD.text = Polski
+HotspotPanoramaOverlayTextImage_D725BB8D_C863_CD64_41E6_129358EC75AC.text = Polski
 HotspotPanoramaOverlayTextImage_1DF3EDAA_0079_1020_414D_7EDA3FE00220.text = Psykologin huone
 HotspotPanoramaOverlayTextImage_A21668F3_00FB_3045_4165_A025B8B91DC9.text = Psykologin kanssa pääset tekemään erilaisia tehtäviä ja myös keskustelemaan kiinnostavista aiheista. 
 HotspotPanoramaOverlayTextImage_1CDE92A1_0079_3020_411D_1EE03BB47788.text = Puheterapeutin huone
@@ -537,8 +522,8 @@ HotspotPanoramaOverlayTextImage_C9D613B0_FE8D_8EBB_41E4_DAE4D8B5FCBF.text = Pä�
 Pystyt myös klikkaamaan kuvia ja videoita isommaksi.
 HotspotPanoramaOverlayTextImage_B232E570_8172_843C_41D2_E2CEF5829FBF.text = Pääset etenemään painamalla nappeja. Pystyt myös klikkaamaan kuvia ja videoita isommaksi.
 HotspotPanoramaOverlayTextImage_9B6DA50F_4763_9EFD_41B7_AA1227E88D65.text = Pääset kotiin muutaman päivän kuluttua, kun osaat yhdessä vanhempien kanssa hoitaa diabetestasi.
-HotspotPanoramaOverlayTextImage_20304961_2120_4897_41A6_ACBBCCD45018.text = Pääset kotiin, kun olet lääkäreiden mielestä riittävästi parantunut.  
 HotspotPanoramaOverlayTextImage_1FF0700C_1F20_58B2_41A8_4AEDEFC26109.text = Pääset kotiin, kun olet lääkäreiden mielestä riittävästi parantunut.  
+HotspotPanoramaOverlayTextImage_20304961_2120_4897_41A6_ACBBCCD45018.text = Pääset kotiin, kun olet lääkäreiden mielestä riittävästi parantunut.  
 HotspotPanoramaOverlayTextImage_7981FBFE_00B9_102E_413E_F7807178B690.text = Pääset myös näyttämään kuinka hienoja leikkejä osaat rakentaa
 HotspotPanoramaOverlayTextImage_B2562786_00E9_F0C3_4133_6983A401A35C.text = Pääset näyttämään kuinka, monta sanaa jo osaat 
 HotspotPanoramaOverlayTextImage_6BBF7551_00BB_1072_4120_018F852FB4B4.text = Pääset piirtämään
@@ -548,14 +533,24 @@ HotspotPanoramaOverlayTextImage_BD590D95_82BE_8409_41E0_3AC9DF5F009E.text = Pä�
 HotspotPanoramaOverlayTextImage_C9D713B2_FE8D_8EBF_41EA_4FE50465575D.text = Pääset valitsemaan kierroksen vieressä olevista valikoista.
 HotspotPanoramaOverlayTextImage_84682342_00E7_104E_4155_FF37ED2BF793.text = Pääsetkö tämän esteen yli? 
 HotspotPanoramaOverlayTextImage_59E1B3AE_00AF_302A_4159_3E0D64318F40.text = Pöydän ääressä voi tehdä kivoja juttuja  
-HotspotPanoramaOverlayTextImage_1FE9C0DC_1F20_B94C_41BE_52F984D11805.text = Raikasta ilmaa kutsutaan myös hapeksi.  \
-Keho tarvitsee happea voidakseen hyvin.
 HotspotPanoramaOverlayTextImage_8B068185_BD77_6B5E_41D9_EE8A1BCA74D6.text = Raikasta ilmaa kutsutaan myös hapeksi.  \
 Keho tarvitsee happea voidakseen hyvin.
+HotspotPanoramaOverlayTextImage_1FE9C0DC_1F20_B94C_41BE_52F984D11805.text = Raikasta ilmaa kutsutaan myös hapeksi.  \
+Keho tarvitsee happea voidakseen hyvin.
+HotspotPanoramaOverlayTextImage_200C1612_20E7_D8A5_41AA_17633F0AF194.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_20248C16_2120_C8B9_419B_A529F1617DB2.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_9AE68EAA_B81E_B3B6_41E4_3A1ECC4BFCF5.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_200FDFD3_20E0_47AB_4193_3E796D2D4750.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_200E6CD3_20E0_49AA_41AB_763DEE28A410.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
 HotspotPanoramaOverlayTextImage_200C1613_20E7_D8AB_41AD_80DAE6D782AA.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_200FDFD4_20E0_47AD_41AC_5CEB9A82EB24.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
-HotspotPanoramaOverlayTextImage_20248C17_2120_C8A7_41B6_073D68F8EB58.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_200E6CD4_20E0_49AD_4188_1F2E74BC4ED4.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
+HotspotPanoramaOverlayTextImage_20248C17_2120_C8A7_41B6_073D68F8EB58.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_9BCF3493_B81E_D795_41E2_FD335B782165.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_4C5D5FDE_7B26_493C_41C5_8699FE8BF4B5.text = Röntgenkuvalla saadaan selville, millainen murtuma sinulla on.
 HotspotPanoramaOverlayTextImage_26F5E489_7ADB_BAE2_41B3_49448CCE8E3C.text = Röntgenkuvassa kuvattava kohta laitetaan valoruudun päälle. 
@@ -601,8 +596,8 @@ HotspotPanoramaOverlayTextImage_20304962_2120_4895_41BA_E9150E83532B.text = Se v
 Tuttu aikuinen saa olla sairaalassa luonasi koko ajan
 HotspotPanoramaOverlayTextImage_984348EE_94D4_F473_41B5_858DB63867C9.text = Se voidaan mitata sormen päästä pienellä lansetilla, tai sensorilla joka mittaa verensokeria ihon alta pienen langan avulla.
 HotspotPanoramaOverlayTextImage_91C3C66A_80D5_4AC1_41C9_36EAC638645B.text = Sen takia veren sokeripitoisuus kasvaa liian suureksi eli verensokeri nousee liikaa.
-HotspotPanoramaOverlayTextImage_03981D27_2974_8793_41B7_BD7914D1D3BB.text = Siirryt nyt lastenosastolle toipumaan
 HotspotPanoramaOverlayTextImage_202F9961_2120_C897_4191_3850763EBCD1.text = Siirryt nyt lastenosastolle toipumaan
+HotspotPanoramaOverlayTextImage_03981D27_2974_8793_41B7_BD7914D1D3BB.text = Siirryt nyt lastenosastolle toipumaan
 HotspotPanoramaOverlayTextImage_645EDDDB_B9ED_B608_41E5_46A121D68E61.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
 HotspotPanoramaOverlayTextImage_43128C36_D261_7E1A_41C5_9D9A70009CCA.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
 HotspotPanoramaOverlayTextImage_750E303D_1F21_B934_4174_E6436B4BEA17.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
@@ -610,50 +605,50 @@ HotspotPanoramaOverlayTextImage_B010F123_AE11_EA90_41D3_82E8FC17022E.text = Sinu
 HotspotPanoramaOverlayTextImage_43133C32_D261_7E1A_41E5_C16D252A69BA.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
 HotspotPanoramaOverlayTextImage_60C959FE_B816_BE07_41D4_84FBCE6827D3.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
 HotspotPanoramaOverlayTextImage_750F8039_1F21_B93C_41B2_3F03F97629CB.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
-HotspotPanoramaOverlayTextImage_B95C7256_B832_B243_41C1_EB0B2DC8C0E7.text = Sinulla saa aina olla äiti, isä tai muu  tuntemasi aikuinen mukanasi, kun menet leikkaussaliin.
 HotspotPanoramaOverlayTextImage_1FE9C0CE_1F20_B94C_41BB_ECE6F9888285.text = Sinulla saa aina olla äiti, isä tai muu  tuntemasi aikuinen mukanasi, kun menet leikkaussaliin.
+HotspotPanoramaOverlayTextImage_B95C7256_B832_B243_41C1_EB0B2DC8C0E7.text = Sinulla saa aina olla äiti, isä tai muu  tuntemasi aikuinen mukanasi, kun menet leikkaussaliin.
 HotspotPanoramaOverlayTextImage_98CCF35E_94D4_1455_41E0_78B5E36FBEEC.text = Sinulle ja vanhemmille opetetaan verensokerin mittaaminen, niin osaatte tehdä sen itse kotona.
 HotspotPanoramaOverlayTextImage_96E9D9D2_8102_14BE_41D6_4B2365480C00.text = Sinulta mitataan verensokeria, jotta sinulle osataan antaa oikea määrä insuliinilääkettä ja tiedetään, että voit hyvin. 
-HotspotPanoramaOverlayTextImage_7DD4700C_6587_D522_41B0_E9AE42E48A55.text = Sinulta voidaan ottaa erilaisia näytteitä, esimerkiksi verikoe tai pissanäyte
+HotspotPanoramaOverlayTextImage_7DD4700C_6587_D522_41B0_E9AE42E48A55.text = Sinulta voidaan ottaa erilaisia näytteitä, esimerkiksi verikoe tai pissanäyte.
 HotspotPanoramaOverlayTextImage_635A8218_B815_D20B_41C3_55DF08932ECD.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
-HotspotPanoramaOverlayTextImage_4324CC30_D261_7E16_41E8_11E8E8824F28.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
 HotspotPanoramaOverlayTextImage_750E2037_1F21_B934_415A_528BD5A2096C.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
+HotspotPanoramaOverlayTextImage_4324CC30_D261_7E16_41E8_11E8E8824F28.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
+HotspotPanoramaOverlayTextImage_75364034_1F21_B934_41AA_6F5433DC8A76.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
+Et tunne yhtään mitään.
 HotspotPanoramaOverlayTextImage_43252C2E_D261_7E0A_41E1_911AF37AF3D8.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
 Et tunne yhtään mitään.
 HotspotPanoramaOverlayTextImage_6FF37419_B812_7602_41DB_D321ABD9D871.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
 Et tunne yhtään mitään.
-HotspotPanoramaOverlayTextImage_75364034_1F21_B934_41AA_6F5433DC8A76.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
-Et tunne yhtään mitään.
-HotspotPanoramaOverlayTextImage_85DB58CE_BD70_9AEA_41E1_C6C48BE6B718.text = Sitten nähdään, kuinka sydämesi toimii ja lyö.
 HotspotPanoramaOverlayTextImage_1FE9C0DA_1F20_B954_41B2_00EBFDAF81FB.text = Sitten nähdään, kuinka sydämesi toimii ja lyö.
+HotspotPanoramaOverlayTextImage_85DB58CE_BD70_9AEA_41E1_C6C48BE6B718.text = Sitten nähdään, kuinka sydämesi toimii ja lyö.
 HotspotPanoramaOverlayTextImage_C6FE9B26_00A9_F1FD_415C_6C15FA612E08.text = Stetoskoopilla lääkäri voi kuunnella keuhkojasi ja sydäntäsi. 
 HotspotPanoramaOverlayTextImage_E89E7A23_C866_4FA3_41A3_E49C713F1CC4.text = Suomi
 HotspotPanoramaOverlayTextImage_6F78C7E0_76A5_A53A_41D9_70F8E639E69D.text = Suomi
-HotspotPanoramaOverlayTextImage_D77706C6_C862_44E7_41C1_FE1967BC3DDA.text = Svenska
 HotspotPanoramaOverlayTextImage_6F6B93DB_76A5_9D0D_41D0_F1EEBE3D5288.text = Svenska
+HotspotPanoramaOverlayTextImage_D77706C6_C862_44E7_41C1_FE1967BC3DDA.text = Svenska
 HotspotPanoramaOverlayTextImage_5E0A5AF4_4BD6_D943_41C4_767A55A4E689.text = Tapaat kliinisen neurofysiologin
-HotspotPanoramaOverlayTextImage_4118F11B_6585_7728_41C2_A79993202A23.text = Tapaat minut esimerkiksi silloin, jos sinulla on murtuma ja se tarvitsee minun apuani, jotta tulee hyvin kuntoon ja toivut nopeasti.
+HotspotPanoramaOverlayTextImage_4118F11B_6585_7728_41C2_A79993202A23.text = Tapaat minut esimerkiksi silloin, jos sinulla on murtuma ja se pitää korjata. 
 HotspotPanoramaOverlayTextImage_982AA805_532C_F557_41B0_8F0A41B23537.text = Tapaat tänään sairaanhoitajan sekä kliinisen neurofysiologin. 
 HotspotPanoramaOverlayTextImage_AB2AC0E6_86BD_9DC4_41DB_A12A2066B4ED.text = Tapaat tänään sairaanhoitajan, fysioterapeutin tai toimintaterapeutin.
 HotspotPanoramaOverlayTextImage_01737C2D_B362_C0DE_41DF_1BEA1B295102.text = Tapaat tänään sairaanhoitajan, fysioterapeutin tai toimintaterapeutin.
-HotspotPanoramaOverlayTextImage_7B31AF7E_6585_ABE0_41AA_3D97734C88CE.text = Tarvittaessa avustan lääkäriä myös toimenpiteissä.  \
+HotspotPanoramaOverlayTextImage_7B31AF7E_6585_ABE0_41AA_3D97734C88CE.text = Tarvittaessa avustan lääkäriä toimenpiteissä.  \
 Tuon sinulle tarvittaessa leluja leikittäväksi tai piirustusvälineitä. 
 HotspotPanoramaOverlayTextImage_B487E676_46A0_9B3C_41AD_8E4DC36C33F8.text = Tieto lapsen pitkäaikaisesta sairaudesta synnyttää surua, pettymystä ja ahdistusta.  \
 Monet käytännön asiat myös huolettavat aluksi.
 HotspotPanoramaOverlayTextImage_E8E20C19_4216_E4EB_41C6_CCFF088663F8.text = Tieto lapsen äkillisestä tapaturmasta aiheuttaa pelkoa ja hätäännystä.  \
 Vanhemmat voivat sanoin ja omalla käytöksellään viestiä lapselle, että tilanteesta selvitään yhdessä. 
+HotspotPanoramaOverlayTextImage_7537E033_1F21_B8CC_41AF_4797EA7B3479.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
 HotspotPanoramaOverlayTextImage_6D448C2C_B812_F602_41E3_7A91C9349737.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
 HotspotPanoramaOverlayTextImage_43240C2D_D261_7E0E_41D3_0C5A650C414C.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
-HotspotPanoramaOverlayTextImage_7537E033_1F21_B8CC_41AF_4797EA7B3479.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
-HotspotPanoramaOverlayTextImage_615B69A4_B812_5E04_4139_93CB03817880.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
-Siksi sinun pitää käydä suihkussa. 
 HotspotPanoramaOverlayTextImage_4324AC2F_D261_7E0A_41D7_E4A7C7572D9B.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
 Siksi sinun pitää käydä suihkussa. 
 HotspotPanoramaOverlayTextImage_750FB036_1F21_B934_41AA_AB01FD5AE3BB.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
 Siksi sinun pitää käydä suihkussa. 
-HotspotPanoramaOverlayTextImage_727ADDCB_BEF0_BB0F_419E_492B05CC6CDF.text = Toimenpiteen jälkeen heräät sängyssäsi.  \
-Aikuinen, joka oli kanssasi, kun nukahdit, istuu vieressäsi.
+HotspotPanoramaOverlayTextImage_615B69A4_B812_5E04_4139_93CB03817880.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
+Siksi sinun pitää käydä suihkussa. 
 HotspotPanoramaOverlayTextImage_202F995D_2120_C8AF_41BF_EDEFA77CF4B0.text = Toimenpiteen jälkeen heräät sängyssäsi.  \
+Aikuinen, joka oli kanssasi, kun nukahdit, istuu vieressäsi.
+HotspotPanoramaOverlayTextImage_727ADDCB_BEF0_BB0F_419E_492B05CC6CDF.text = Toimenpiteen jälkeen heräät sängyssäsi.  \
 Aikuinen, joka oli kanssasi, kun nukahdit, istuu vieressäsi.
 HotspotPanoramaOverlayTextImage_78213699_B4A2_41CA_41E5_497CBA8F4AA5.text = Toimenpiteen jälkeen heräät sängyssäsi.  \
 Aikuinen, joka oli kanssasi, kun nukahdit, istuu vieressäsi.
@@ -662,8 +657,8 @@ HotspotPanoramaOverlayTextImage_01717C36_B362_C0CA_41E5_4A2AE6B462B6.text = Toim
 HotspotPanoramaOverlayTextImage_59E5CC39_46E0_6F44_41C7_63855DCE3F07.text = Toimintaterapeutti 
 HotspotPanoramaOverlayTextImage_9A65AE76_5334_EDB5_41D1_DB6BBC7895C3.text = Toinen vanhemmista saa tulla tutkimukseen mukaasi ja olla vierelläsi koko tutkimuksen ajan. 
 HotspotPanoramaOverlayTextImage_B6758917_81D5_8A9E_41CB_665A37112BB6.text = Toinen vanhemmistasi saa olla vierelläsi, kunnes nukahdat 
-HotspotPanoramaOverlayTextImage_47F98A7C_46A0_AB4A_41C8_D3EAEE4169E7.text = Toinen vanhemmistasi saa tulla mukaasi
 HotspotPanoramaOverlayTextImage_00BBD100_B362_40C5_41E0_E6867540A7D6.text = Toinen vanhemmistasi saa tulla mukaasi
+HotspotPanoramaOverlayTextImage_47F98A7C_46A0_AB4A_41C8_D3EAEE4169E7.text = Toinen vanhemmistasi saa tulla mukaasi
 HotspotPanoramaOverlayTextImage_5A072299_4BD6_2919_419A_E06DAC45800E.text = Toinen vanhemmistasi saa tulla mukaasi
 HotspotPanoramaOverlayTextImage_29EBBD67_4233_A701_419E_918405E39A93.text = Totut pian kipsiin. \
 Murtumakohta voi alussa olla kipeä.  \
@@ -682,9 +677,9 @@ HotspotPanoramaOverlayTextImage_69FEF2C8_4BD6_28A3_41CB_84EAA758A7B9.text = Täm
 Sen avulla lääkäri löytää juuri sen paikan, joka lääkettä tarvitsee
 HotspotPanoramaOverlayTextImage_BA5E3448_9CB4_579D_4196_00909BC8D062.text = Tämä on ultraäänilaite, jonka näytöltä lääkäri katsoo, mitä sisälläsi näkyy.
 HotspotPanoramaOverlayTextImage_BD9DB0FC_81D3_9BB1_41D3_1DF0A4D3EC90.text = Tämä on voimamittari, jolla mitataan kuinka paljon voimaa, pumppaa kehossasi, tämä ei satu mutta voit tuntea hieman kiristystä käsivarressasi mittauksen aikana, mutta tämä ei ole vaarallista ja on nopeasti ohi. 
-HotspotPanoramaOverlayTextImage_1FE9C0DB_1F20_B954_4186_CC3788FFEF69.text = Tämä pieni pidike asetetaan yhteen sormeesi ennen nukkumaanmenoa.  \
-Se mittaa, miten hengität ja kuinka paljon raitista ilmaa sinulla on kehossasi.
 HotspotPanoramaOverlayTextImage_88416B06_BD71_FF5B_41E6_251C313806BB.text = Tämä pieni pidike asetetaan yhteen sormeesi ennen nukkumaanmenoa.  \
+Se mittaa, miten hengität ja kuinka paljon raitista ilmaa sinulla on kehossasi.
+HotspotPanoramaOverlayTextImage_1FE9C0DB_1F20_B954_4186_CC3788FFEF69.text = Tämä pieni pidike asetetaan yhteen sormeesi ennen nukkumaanmenoa.  \
 Se mittaa, miten hengität ja kuinka paljon raitista ilmaa sinulla on kehossasi.
 HotspotPanoramaOverlayTextImage_B36EA3B7_81DF_9DA3_41DB_1173F7E0A03E.text = Tämän kautta saat hengitellä uniainetta, sinua alkaa väsyttämään ja saat ottaa pienet unet.
 HotspotPanoramaOverlayTextImage_57726449_4BF6_2FBC_41D1_814B438D0321.text = Tämän mittarin kasvojen avulla voit kertoa sinun sairaanhoitajallesi miltä sinusta tuntuu.  \
@@ -699,30 +694,30 @@ He kuulevat, jos sinulla on asiaa heille.
 HotspotPanoramaOverlayTextImage_B256D784_00E9_F0C7_415C_950C3937EEDE.text = Tässä huoneessa on kirahvilla paljon kavereita 
 HotspotPanoramaOverlayTextImage_DD5EA258_00B9_7053_4157_94DD4E87C390.text = Tässä mitataan, kuinka paljon olet kasvanut 
 HotspotPanoramaOverlayTextImage_1AA3C835_05DC_3BDA_4195_4F4C1ED0BD59.text = Tässä näet kun kirahvilta mitataan verenpainetta.  
-HotspotPanoramaOverlayTextImage_89B78E0F_7ADA_47AA_41DA_6D3FB5AC9C1D.text = Tässä näet mitä kipsauksessa tapahtuu. 
 HotspotPanoramaOverlayTextImage_8E15D716_2A5A_0411_41B8_49EF818ED819.text = Tässä näet mitä kipsauksessa tapahtuu. 
+HotspotPanoramaOverlayTextImage_89B78E0F_7ADA_47AA_41DA_6D3FB5AC9C1D.text = Tässä näet mitä kipsauksessa tapahtuu. 
 HotspotPanoramaOverlayTextImage_7C0B1754_7D3B_C456_41BB_134BA8098AF8.text = Tässä näet, miten kipsi poistetaan kipsisaksilla.
 HotspotPanoramaOverlayTextImage_7C0F56D8_7D3A_4451_41D1_C3C5FEA4B430.text = Tässä näet, miten kipsisaha toimii.
 HotspotPanoramaOverlayTextImage_37409006_B82E_4E49_41CF_C75A3C826105.text = Tästä pääset katsomaan lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_55FFE3F6_C2F8_8385_41CD_D088D7594E93.text = Tästä pääset katsomaan lääkekorkin laittamisen 
 HotspotPanoramaOverlayTextImage_20304964_2120_489D_41B4_5792EBCA6B5A.text = Tästä pääset katsomaan, miten toimit kipsin kanssa kotona
 HotspotPanoramaOverlayTextImage_201D8728_20E0_B8EE_4160_E9629E067D4A.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
+HotspotPanoramaOverlayTextImage_B6D1D475_F96C_906E_41C7_5AB11F123A81.text = Tästä pääset takaisin aulaan!
+HotspotPanoramaOverlayTextImage_00BFA111_B362_40C7_41DE_68D6BF3D4289.text = Tästä pääset takaisin aulaan!
+HotspotPanoramaOverlayTextImage_BF3D9FBB_F963_B0D8_41EE_60E1D0E53FA6.text = Tästä pääset takaisin aulaan!
+HotspotPanoramaOverlayTextImage_05F0F595_4CDE_3962_41C4_4B2EFAD8F93A.text = Tästä pääset takaisin aulaan!
 HotspotPanoramaOverlayTextImage_5F1F43B3_4213_E347_41B0_B5DE38683F5B.text = Tästä pääset takaisin aulaan!
 HotspotPanoramaOverlayTextImage_ECC41DFB_AE37_958D_41BF_F57C83A788EF.text = Tästä pääset takaisin aulaan!
-HotspotPanoramaOverlayTextImage_00BFA111_B362_40C7_41DE_68D6BF3D4289.text = Tästä pääset takaisin aulaan!
-HotspotPanoramaOverlayTextImage_05F0F595_4CDE_3962_41C4_4B2EFAD8F93A.text = Tästä pääset takaisin aulaan!
 HotspotPanoramaOverlayTextImage_15CFF066_5627_96C2_41C3_B0D1C4F728BD.text = Tästä pääset takaisin aulaan!
-HotspotPanoramaOverlayTextImage_B6D1D475_F96C_906E_41C7_5AB11F123A81.text = Tästä pääset takaisin aulaan!
-HotspotPanoramaOverlayTextImage_BF3D9FBB_F963_B0D8_41EE_60E1D0E53FA6.text = Tästä pääset takaisin aulaan!
 HotspotPanoramaOverlayTextImage_B2498789_00E9_F0C1_4166_13FFEC48E515.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
-HotspotPanoramaOverlayTextImage_A21B38F9_00FB_3045_4166_21B763E4060E.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
-HotspotPanoramaOverlayTextImage_866F5713_009F_11CE_4163_13219137C400.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
 HotspotPanoramaOverlayTextImage_7E6264BF_00A7_1035_4134_FC0CDB59A0A8.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
 HotspotPanoramaOverlayTextImage_DD5F825B_00B9_7055_4168_571592F0D574.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
+HotspotPanoramaOverlayTextImage_A21B38F9_00FB_3045_4166_21B763E4060E.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
+HotspotPanoramaOverlayTextImage_866F5713_009F_11CE_4163_13219137C400.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
 HotspotPanoramaOverlayTextImage_D89BFB37_B875_B2A7_41D9_34CCE43928ED.text = Tästä pääset takaisin kuvaushuoneeseen
 HotspotPanoramaOverlayTextImage_8E128720_2A5A_0431_4184_F93EF90349A4.text = Tästä pääset takaisin leikkaussaliin
-HotspotPanoramaOverlayTextImage_A1BF7B75_46A0_A939_41C1_98B8778A161C.text = Tästä pääset takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_44F001A3_FF8D_8B6C_41E2_5AD3935ED8FC.text = Tästä pääset takaisin sovelluksen alkuun!
+HotspotPanoramaOverlayTextImage_A1BF7B75_46A0_A939_41C1_98B8778A161C.text = Tästä pääset takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_2D64C1C9_5626_B619_41CF_C62481E12B4D.text = Tästä pääset tapaamaan henkilökuntaa
 HotspotPanoramaOverlayTextImage_6763E725_BEF1_F73D_41E2_0F94678897CA.text = Tästä pääset tutustumaan kipsin tekoon ja poistoon
 HotspotPanoramaOverlayTextImage_BADE8AE9_9DDD_B6FC_41E2_CDC29D5853D6.text = Tästä voit katsoa, kun hoitaja laittaa kirahville sensorin.
@@ -742,11 +737,11 @@ HotspotPanoramaOverlayTextImage_9697A9CC_2AB6_0C75_41C1_1DF00F2877CB.text = Tä�
 HotspotPanoramaOverlayTextImage_7345FFBF_622F_027A_41C7_D231A373F6BC.text = Täältä pääset kipsinlaittoon
 HotspotPanoramaOverlayTextImage_73C9C230_622F_0207_41D3_C11EE087DC8C.text = Täältä pääset leikkaussaliin
 HotspotPanoramaOverlayTextImage_2027BFFF_2120_C769_41AD_8CAE98CD8CC6.text = Täältä pääset tutustumaan kipsin laittoon 
-HotspotPanoramaOverlayTextImage_3286A10F_1FE0_58E0_41B8_0FD6D3699E6A.text = Täältä siirryt toiseen huoneeseen heräämään
 HotspotPanoramaOverlayTextImage_1FE9C0E8_1F20_B974_41A0_1FF45306E4C7.text = Täältä siirryt toiseen huoneeseen heräämään
+HotspotPanoramaOverlayTextImage_3286A10F_1FE0_58E0_41B8_0FD6D3699E6A.text = Täältä siirryt toiseen huoneeseen heräämään
 HotspotPanoramaOverlayTextImage_60949A5E_B9F2_520D_41E5_4771F8A89F89.text = Täältä voit katsoa lääkekorkin laittamisen
-HotspotPanoramaOverlayTextImage_43127C3C_D261_7E0E_41E2_116651D2BEBF.text = Täältä voit katsoa lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_750EE041_1F21_B94C_41BC_BBF1EA8EEFF5.text = Täältä voit katsoa lääkekorkin laittamisen
+HotspotPanoramaOverlayTextImage_43127C3C_D261_7E0E_41E2_116651D2BEBF.text = Täältä voit katsoa lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_C298A223_47E3_BB05_41AC_71B16D006418.text = Täältä voit katsoa, kun kirahville laitetaan insuliinipistos.  \
 Se tuntuu pienenä nipistyksenä.
 HotspotPanoramaOverlayTextImage_32CCF4FB_47A0_B8FD_419A_6E04948E368F.text = Täältä voit katsoa, miten hoitaja mittaa verensokerin sormenpäästä.
@@ -754,21 +749,21 @@ HotspotPanoramaOverlayTextImage_A8A7571A_46A7_BAE9_41B8_4CC47FF3825E.text = Tä�
 HotspotPanoramaOverlayTextImage_85B4589E_9CB7_B0B8_41E0_09A8BE504A11.text = Ultraäänilaitteella voidaan katsoa, miltä ihmisen sisällä näyttää.  \
 Ultraäänellä voidaan esimerkiksi katsoa mahan sisälle.
 HotspotPanoramaOverlayTextImage_9B20CE9C_9CED_CC14_41D2_0AF2BE388F68.text = Ultraäänitutkimus
-HotspotPanoramaOverlayTextImage_1FE9C0E2_1F20_B974_419D_A9A86A4F5EEF.text = Unikone tarjoaa sinulle unilääkettä ja raitista ilmaa koko toiminnan ajan.  \
-Se auttaa sinua myös hengittämään syvään nukkuessasi.
 HotspotPanoramaOverlayTextImage_8AA1CA96_BD73_797D_41C9_E509DDCC3E58.text = Unikone tarjoaa sinulle unilääkettä ja raitista ilmaa koko toiminnan ajan.  \
+Se auttaa sinua myös hengittämään syvään nukkuessasi.
+HotspotPanoramaOverlayTextImage_1FE9C0E2_1F20_B974_419D_A9A86A4F5EEF.text = Unikone tarjoaa sinulle unilääkettä ja raitista ilmaa koko toiminnan ajan.  \
 Se auttaa sinua myös hengittämään syvään nukkuessasi.
 HotspotPanoramaOverlayTextImage_7C11C0F5_7D26_BC4D_41DE_023D653944FA.text = Usein lihaksesi esimerkiksi jalasta tai kädestä ovat hoidon aikana tulleet pienemmiksi, kun vertaat sitä toiseen käteesi tai jalkaasi.
 HotspotPanoramaOverlayTextImage_C9DE839E_FE8D_8F67_41C3_6A517FBD6049.text = Valitse Kieli
 HotspotPanoramaOverlayTextImage_BCB6FCAD_82B6_841F_41DA_D04B367DCAE2.text = Valitse kumallla laitteella olet, puhelin vai tietokone.
 HotspotPanoramaOverlayTextImage_C9C9F3C1_FE8D_8EDD_41C7_8B3059A2D4F0.text = Valitse kummalla laitteella olet, puhelin vai tietokone.
 HotspotPanoramaOverlayTextImage_81E647CE_B3A6_4F61_41E2_1F9A81897797.text = Valmista nyt saat siirtyä kipsaushuoneeseen 
-HotspotPanoramaOverlayTextImage_F2EE8595_B3AE_43FB_41D6_110FB824C792.text = Valmista tuli, saat nyt lähteä kotiin
 HotspotPanoramaOverlayTextImage_00BE710F_B362_40DB_41E4_21FEB89972D3.text = Valmista tuli, saat nyt lähteä kotiin
+HotspotPanoramaOverlayTextImage_F2EE8595_B3AE_43FB_41D6_110FB824C792.text = Valmista tuli, saat nyt lähteä kotiin
 HotspotPanoramaOverlayTextImage_88FE74B2_BD70_EABB_41E5_7AEAC1BE40E9.text = Valvontanäyttö auttaa henkilökuntaa varmistamaan, että nukut mukavasti leikkauksen aikana.
 HotspotPanoramaOverlayTextImage_1FE9C0D6_1F20_B95C_41A7_0BFF859ED8E3.text = Valvontanäyttö auttaa henkilökuntaa varmistamaan, että nukut mukavasti leikkauksen aikana.
-HotspotPanoramaOverlayTextImage_8B4A5C28_BD71_9957_41E5_1D5A330522B6.text = Valvontanäytössä on monia painikkeita, valoja ja numeroita.
 HotspotPanoramaOverlayTextImage_1FE9C0D8_1F20_B954_41BF_38B269AC3C76.text = Valvontanäytössä on monia painikkeita, valoja ja numeroita.
+HotspotPanoramaOverlayTextImage_8B4A5C28_BD71_9957_41E5_1D5A330522B6.text = Valvontanäytössä on monia painikkeita, valoja ja numeroita.
 HotspotPanoramaOverlayTextImage_8E10671A_2A5A_0411_41A6_3B87670BBEF4.text = Vanhemmat saavat koko ajan olla kanssasi.
 HotspotPanoramaOverlayTextImage_825E555F_7ADA_C5A6_41D9_DB50E1AF8B6A.text = Vanhemmat saavat koko ajan olla kanssasi.
 HotspotPanoramaOverlayTextImage_22B89C9E_567B_8E2A_41C2_FCDA1495EA2C.text = Vanhemmat voivat tukea lastaan pysymään paikalla tutkimuksen aikana ennen nukahtamista.
@@ -780,7 +775,16 @@ HotspotPanoramaOverlayTextImage_26D86BE1_05DC_FC7D_417C_B8E4B645D936.text = Vere
 HotspotPanoramaOverlayTextImage_9BFBF888_8106_3490_41D6_8F13AD12331A.text = Verensokeria mitataan erilaisilla mittareilla. 
 HotspotPanoramaOverlayTextImage_3592E975_47A0_E9F4_41C2_CCECD62AFF4D.text = Verensokerin mittaus tuntuu pienenä nipistyksenä
 HotspotPanoramaOverlayTextImage_97EBABA0_8101_F49C_41D8_8B43BAEAF07D.text = Verensokeriseuranta
-HotspotPanoramaOverlayTextImage_44929D40_6585_EF1D_41D6_CEA7864F88DF.text = Voimme myös opetella erilaisia kirjaimia ja sanoja, leikkiä, pelata ja monenlaista muuta touhua! 
+HotspotPanoramaOverlayTextImage_200E6CC3_20E0_49AB_41B6_EA7623EBAE83.text = Voide tulee laastarissa tai voidetuubista. \
+Molemmat puuduttavat ihoa yhtä hyvin.
+HotspotPanoramaOverlayTextImage_B8A7144F_B7F6_D607_41DC_05BDD1C6C30A.text = Voide tulee laastarissa tai voidetuubista. \
+Molemmat puuduttavat ihoa yhtä hyvin.
+HotspotPanoramaOverlayTextImage_200C1601_20E7_D8A7_41BA_993BF1863E04.text = Voide tulee laastarissa tai voidetuubista. \
+Molemmat puuduttavat ihoa yhtä hyvin.
+HotspotPanoramaOverlayTextImage_20248C06_2120_C899_41A7_700DCD983B0E.text = Voide tulee laastarissa tai voidetuubista. \
+Molemmat puuduttavat ihoa yhtä hyvin.
+HotspotPanoramaOverlayTextImage_200FDFC2_20E0_47A5_41A6_6A5B9DA8681A.text = Voide tulee laastarissa tai voidetuubista. \
+Molemmat puuduttavat ihoa yhtä hyvin.
 HotspotPanoramaOverlayTextImage_648CD2BC_B813_B20A_41D4_EE532791C157.text = Voit juoda vettä.  \
 Henkilökunta ilmoittaa sinulle, kun et saa enää juoda.
 HotspotPanoramaOverlayTextImage_750E903B_1F21_B93C_41B4_2E7C0420091E.text = Voit juoda vettä.  \
@@ -822,7 +826,7 @@ imlevel_3FA2B071_B815_CECD_41D5_89AE35027E48.url = media/panorama_00BAD0FE_B362_
 imlevel_3FB2540F_B815_D655_41D7_B62F35E7B774.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_h1kiqetw_fi-FI.png
 imlevel_30130DD3_B815_D1CD_41DE_52D299F93637.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_o2niwnvy_fi-FI.png
 imlevel_3030AD98_B815_B67B_41BF_FC9C224B64D9.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_prkgc17w_fi-FI.png
-imlevel_30C931C8_B812_51DB_41E5_EB1BE45D76B8.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_svtdg6uv_fi-FI.png
+imlevel_9AB078EB_B9BE_E1DF_41C5_33CC493448AB.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_svtdg6uv_fi-FI.png
 imlevel_30C5037C_B812_52BB_41AE_597914B8AEBE.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_w2h4kj7m_fi-FI.png
 imlevel_3076D92C_B815_DE5B_41CD_0CA3D5FF2027.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_wzlz983z_fi-FI.png
 imlevel_3057C3EB_B815_F1DD_41C6_713C5634AE55.url = media/panorama_00BAD0FE_B362_413D_41E1_D2F9172C2CBF_HS_xir0catq_fi-FI.png
@@ -834,7 +838,7 @@ imlevel_3DF589D1_0601_DFE4_418C_77C3A30A200A.url = media/panorama_01720C2A_B362_
 imlevel_3FF7A94B_B815_BEDD_41E3_FAA454BA6558.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_hqf2jwbb_fi-FI.png
 imlevel_3F9A9CD5_B815_B7F5_419B_B3CC5AA3E27C.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_nz5m0b58_fi-FI.png
 imlevel_3FE22443_B815_B6CD_4199_5D88B04CD005.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_o5y7ha5o_fi-FI.png
-imlevel_3F998D1F_B815_B675_41DF_1BF79C7A56BF.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_pggyxu5b_fi-FI.png
+imlevel_9DC296A9_B9BE_E05B_41C0_535E9169C1FC.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_pggyxu5b_fi-FI.png
 imlevel_3DF62A9F_0601_DD9C_4191_68991125DADA.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_scthluzn_fi-FI.png
 imlevel_3F8C6B85_B815_B255_41E4_652F5B8B2E88.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_thucs1ey_fi-FI.png
 imlevel_3DFD7B67_0601_DCAC_4192_87C2F9529347.url = media/panorama_01720C2A_B362_C0DA_41DD_98991C3D6E41_HS_u38tz89e_fi-FI.png
@@ -886,105 +890,105 @@ imlevel_20A1253F_2121_F89B_41A4_A9DEFA365AE8.url = media/panorama_1FE9C0C8_1F20_
 imlevel_20A137FE_2121_C79D_419F_43FCE5CFD41A.url = media/panorama_1FE9C0C8_1F20_B9B4_41B5_90652AC2FCD2_HS_tyg9wb92_fi-FI.png
 imlevel_20A13A01_2121_C867_41AE_119AC9A3886A.url = media/panorama_1FE9C0C8_1F20_B9B4_41B5_90652AC2FCD2_HS_vqevwmf7_fi-FI.png
 imlevel_C28994ED_2ACA_0426_41C0_A2F7BB7F3C20.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_0cdu2pdg_fi-FI.png
-imlevel_20A0AE9B_2120_C99B_41A3_93CE86E97D4D.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_1mlsvl00_fi-FI.png
-imlevel_20A0CA75_2120_48AF_41B2_7DF1B648A96D.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_2n86fjtl_fi-FI.png
-imlevel_20A0A21D_2120_F89F_41B6_7F0836E8B378.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_427droq9_fi-FI.png
-imlevel_20A09189_2120_D867_41BC_3E626CF2DDFC.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_4duvqk24_fi-FI.png
-imlevel_20A0B39A_2120_D865_41B7_23295DE31C38.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_5q8gk8to_fi-FI.png
-imlevel_20A0D5AB_2120_5BBA_419F_F4DB331E3C43.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_7t2fc7wr_fi-FI.png
-imlevel_20A09BBF_2120_CF9B_41BD_8420C2BABE08.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_9aud84u5_fi-FI.png
-imlevel_20A0BCCC_2120_C9FD_4183_FF1FE0A36246.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_ag1zemde_fi-FI.png
-imlevel_20A0870C_2120_B87D_41B4_6556286A9E97.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_flkr2i8r_fi-FI.png
-imlevel_20A0D003_2120_586B_41BC_C618E8472B81.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_h83b94qf_fi-FI.png
-imlevel_20A0ACF4_2120_C9AD_4191_EDF2BC9A067F.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_l1m5zdb2_fi-FI.png
+imlevel_9AC24BCD_B9BE_A7DB_41E3_B2397E455290.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_1mlsvl00_fi-FI.png
+imlevel_9A0C2476_B9BE_A0C9_41D6_279B2AFBA334.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_2n86fjtl_fi-FI.png
+imlevel_9ADD8822_B9BE_A049_41D2_C1165E4C4DA3.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_427droq9_fi-FI.png
+imlevel_9AFDF360_B9BE_A0C9_41CD_A6F6D8148F41.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_4duvqk24_fi-FI.png
+imlevel_9A3F5D62_B9BE_A0C9_41C2_E963416040CE.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_5q8gk8to_fi-FI.png
+imlevel_9A70F7C1_B9BE_AFCB_41CF_3492B97C422B.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_7t2fc7wr_fi-FI.png
+imlevel_9AECA615_B9BE_A04B_41B6_356078E1CE1E.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_9aud84u5_fi-FI.png
+imlevel_9A2CDF68_B9BE_A0D9_41E2_8D891649580B.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_ag1zemde_fi-FI.png
+imlevel_9A9B7DB7_B9BE_E3B7_41DC_06E30998834D.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_flkr2i8r_fi-FI.png
+imlevel_9A0695EF_B9BE_A3D7_41D9_532F74B28752.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_h83b94qf_fi-FI.png
+imlevel_9AC8CA36_B9BE_A049_41A1_5E7FBDE5B1B2.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_l1m5zdb2_fi-FI.png
 imlevel_20A075F5_2120_5BAC_4164_002228083448.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_ozyr1xit_fi-FI.png
-imlevel_20A09617_2120_D86B_41C0_2D5378489291.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_pa8jl2qm_fi-FI.png
-imlevel_20A07DB0_2120_4BA4_41BB_CABF7D87ACC6.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_qsug3x3i_fi-FI.png
-imlevel_20A0C2AC_2120_B9BD_417E_0851A343385D.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_r6f2txmx_fi-FI.png
-imlevel_20A08FA0_2120_C7A5_4176_B39B1124ECF0.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_wtiipt4c_fi-FI.png
-imlevel_20A07BCF_2120_4FFC_41B1_E4A49B562CEF.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_xis3b9d3_fi-FI.png
-imlevel_20A0C87E_2120_489D_41B3_33206FC70BCA.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_xqw6pj9m_fi-FI.png
-imlevel_20A08953_2120_C8EB_41B5_7F39B35115AB.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_ypceewmf_fi-FI.png
-imlevel_20A170F3_2120_59AB_41A6_913D227E7E5C.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_0h0f6ebe_fi-FI.png
-imlevel_20A19409_2120_D867_418B_D82DE039A4D3.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_18piwsxq_fi-FI.png
-imlevel_20A18101_2120_B867_41B3_8DFC43DE3AEA.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_20qvvlqa_fi-FI.png
-imlevel_20A18E9E_2120_C99D_41A1_F66AB4778D94.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_22v718rq_fi-FI.png
-imlevel_20A14038_2121_B8A5_41BD_2164E176B7B0.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_78xo4jfr_fi-FI.png
-imlevel_20A15FD7_2120_47EB_41B7_C45CD83FDC98.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_aie73q4t_fi-FI.png
+imlevel_9AF2E471_B9BE_A0CB_41E0_65D0053CE2B8.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_pa8jl2qm_fi-FI.png
+imlevel_9AA02C57_B9BE_E0F7_41E5_1F3646B013E8.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_qsug3x3i_fi-FI.png
+imlevel_9A1860EC_B9BE_A1D9_41D7_B296D8E5CACB.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_r6f2txmx_fi-FI.png
+imlevel_9A802183_B9BE_A04F_41E1_F9AF8E3A046C.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_wtiipt4c_fi-FI.png
+imlevel_9AB5CA89_B9BE_E05B_41DF_A2172CD535BA.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_xis3b9d3_fi-FI.png
+imlevel_9A1422A9_B9BE_A05B_41E5_85D053234C15.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_xqw6pj9m_fi-FI.png
+imlevel_9A96FFD6_B9BE_DFC9_41AC_65DF71D93385.url = media/panorama_1FFC3093_1F27_D9D2_41B0_83883B2A25C4_HS_ypceewmf_fi-FI.png
+imlevel_9D1238E4_B9BE_61C9_41CF_456410B67D35.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_0h0f6ebe_fi-FI.png
+imlevel_9D41F4A4_B9BD_A049_41D6_0118F480C979.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_18piwsxq_fi-FI.png
+imlevel_9D692E19_B9BE_607B_41E0_0D7B8474BB13.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_20qvvlqa_fi-FI.png
+imlevel_9D495329_B9BD_A05B_41DA_6E879AE8199E.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_22v718rq_fi-FI.png
+imlevel_9DFB692A_B9BE_6059_41E4_5D779939072E.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_78xo4jfr_fi-FI.png
+imlevel_9D3614BE_B9BE_61B9_41DC_7664390CE798.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_aie73q4t_fi-FI.png
 imlevel_20A13B1E_2121_C89D_41B1_9D837E398971.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_b50ol6uq_fi-FI.png
-imlevel_20A14D63_2120_48AB_41B3_2F2F7BB60022.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_dqfyzoze_fi-FI.png
-imlevel_20A177A8_2120_47A5_4171_C47807371DFB.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_fcsaovq5_fi-FI.png
-imlevel_20A153C7_2120_5FEB_41A2_9EF7834FC34B.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_gj84wjuu_fi-FI.png
+imlevel_9DDD4E7F_B9BE_60B7_41E5_B4B9994C7CC6.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_dqfyzoze_fi-FI.png
+imlevel_9D784C16_B9BE_6049_41E6_FB2FC676240D.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_fcsaovq5_fi-FI.png
+imlevel_9DD63024_B9BE_6049_41C2_A240F1CFC84A.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_gj84wjuu_fi-FI.png
 imlevel_20A19BC1_2120_CFE7_41A4_967AE17484E0.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_i5c1mfxc_fi-FI.png
-imlevel_20A14B3A_2120_48A5_41AF_C07DB591D1D0.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_ih7km4gt_fi-FI.png
-imlevel_20A18705_2120_B86F_4185_8C2F23865735.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_k6lmwdvy_fi-FI.png
-imlevel_20A16633_2120_78AB_41A3_85B65814167F.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_kykw00ry_fi-FI.png
-imlevel_20A17295_2120_586F_4193_C609A73EA294.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_pmq10o4j_fi-FI.png
-imlevel_20A199D6_2120_CBED_4196_A57B8F8B690F.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_pquhp2r9_fi-FI.png
-imlevel_20A141FE_2121_BB9D_41A4_7D0772F3DBEA.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_qjwdyl9e_fi-FI.png
-imlevel_20A155A5_2120_5BAF_419F_7EF4630CC995.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_verzsi2o_fi-FI.png
-imlevel_20A15A3E_2120_489D_41BD_8735D7B42DB3.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_w2pzzcpd_fi-FI.png
-imlevel_20A18CD2_2120_C9E5_41A0_6DA1E2F9C140.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_y7voedb1_fi-FI.png
-imlevel_3C3C0CA6_2447_AA2F_41B5_DC9162417088.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_13nh4axm_fi-FI.png
-imlevel_3ED0277E_2447_E637_41BF_ECA9AC80B5AD.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_2kq7m35t_fi-FI.png
-imlevel_3E30D0BC_2447_FA37_41B7_526458540638.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_3g97xj5y_fi-FI.png
-imlevel_20A1B751_2120_D8E7_4144_C6A1EF70140F.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_765ztjex_fi-FI.png
-imlevel_3EC56299_2447_FEFE_41B7_3283FED57F7C.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_7qev5rh1_fi-FI.png
-imlevel_3E4136CE_2447_A662_41A1_729E750AF663.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_9swvkd0n_fi-FI.png
-imlevel_20A1C241_2120_B8E7_41BF_BA99720DCF3F.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_b981cabe_fi-FI.png
-imlevel_3EF83CB7_2447_EAC8_419B_DBEB431AACE6.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_c00a2bl8_fi-FI.png
-imlevel_3E558865_2447_AA26_418D_300D86E7A15F.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_cb3xbvox_fi-FI.png
-imlevel_20A1B567_2120_D8AB_4186_16BE0319B77E.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_g4errlu5_fi-FI.png
-imlevel_20A1A3E8_2120_FFA5_418B_762A0F5FDAFD.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_gpbkda79_fi-FI.png
-imlevel_20A1BC8C_2120_C87D_4197_BF076BA9C8C1.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_gpik66g0_fi-FI.png
-imlevel_3E264B5B_2447_EE76_41B9_4CD9E5AA12B0.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_hloa5aab_fi-FI.png
-imlevel_20A1A21A_2120_F865_4199_B0CB80BB0AA2.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_j2rxy9vv_fi-FI.png
-imlevel_3E7DACFB_2447_AA2E_41B5_D0C6F5E304E1.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_jkgx6nqe_fi-FI.png
-imlevel_3E1D75DF_2447_DA6A_4196_375179FD81DD.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_q4u0o1zb_fi-FI.png
+imlevel_9DE1DC54_B9BE_60C9_41DE_22CCF4E6C9F0.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_ih7km4gt_fi-FI.png
+imlevel_9D646F9F_B9BE_6076_41A5_67E1E232F120.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_k6lmwdvy_fi-FI.png
+imlevel_9D26D6D1_B9BE_61CB_4185_8D77EEB3A84F.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_kykw00ry_fi-FI.png
+imlevel_9D0F3A81_B9BE_604B_41C1_6C92D3E4E626.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_pmq10o4j_fi-FI.png
+imlevel_9CBCC679_B9BD_A0BB_41E6_1151CB8BD3B9.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_pquhp2r9_fi-FI.png
+imlevel_9DF75AEF_B9BE_61D7_41DD_303CA7CBC778.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_qjwdyl9e_fi-FI.png
+imlevel_9DC40205_B9BE_604B_41E3_B6CEC346BAB9.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_verzsi2o_fi-FI.png
+imlevel_9D3DB315_B9BE_604B_41E4_D7665B7A41F7.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_w2pzzcpd_fi-FI.png
+imlevel_9D50315A_B9BD_A0F9_41DB_69A5425E533B.url = media/panorama_200C15F7_20E7_DB6B_41A3_DDB58C8BBA3D_HS_y7voedb1_fi-FI.png
+imlevel_9CD235FF_B9BD_A3B7_41B0_AC3744EA4100.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_13nh4axm_fi-FI.png
+imlevel_9C7D93D1_B9BD_E7CB_41D4_51E69CEFA762.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_2kq7m35t_fi-FI.png
+imlevel_9C0E9087_B9BD_E057_41DA_8074730CEB29.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_3g97xj5y_fi-FI.png
+imlevel_9CFD5138_B9BD_A0B9_41E6_2F826DAC5796.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_765ztjex_fi-FI.png
+imlevel_9C05425A_B9BD_E0F9_41DB_C4D6118F0F2D.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_7qev5rh1_fi-FI.png
+imlevel_9CCC1811_B9BD_A04B_41D7_E832803C4E3F.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_9swvkd0n_fi-FI.png
+imlevel_9CE0F3EB_B9BD_A7DF_41D9_C761BFB4C885.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_b981cabe_fi-FI.png
+imlevel_9C6935B2_B9BD_E049_41D7_5E54FF45D640.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_c00a2bl8_fi-FI.png
+imlevel_9C3B19AD_B9BD_A05B_41BF_75AA942D3AB1.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_cb3xbvox_fi-FI.png
+imlevel_9C87DF5C_B9BD_A0F9_41E2_E1360C426D7C.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_g4errlu5_fi-FI.png
+imlevel_9CA40A23_B9BD_A04F_41E6_1BA28EBA3DC5.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_gpbkda79_fi-FI.png
+imlevel_9CF5924B_B9BD_A0DF_41D3_8FE8CC058306.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_gpik66g0_fi-FI.png
+imlevel_9C1DDEC5_B9BD_A1CB_41E2_A85F54D4AF26.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_hloa5aab_fi-FI.png
+imlevel_9CAA7860_B9BD_A0C9_41E2_5D3F35EBC169.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_j2rxy9vv_fi-FI.png
+imlevel_9C31EB3E_B9BD_A0B9_41E2_55AF9745A219.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_jkgx6nqe_fi-FI.png
+imlevel_9C213D3E_B9BD_A0B9_41D4_8570227F880D.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_q4u0o1zb_fi-FI.png
 imlevel_20A19CDB_2120_C99B_41A1_9302D7C019C8.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_qocqqiv2_fi-FI.png
 imlevel_3E8D0EA0_2447_E6C7_419D_89C06336E556.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_vte5bveu_fi-FI.png
-imlevel_20A1AF45_2120_C8EF_41B8_9200FBB53F28.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_wyelu6b1_fi-FI.png
-imlevel_20A1AD1A_2120_C865_41BE_B6CA76EAE2AC.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_ywlo096n_fi-FI.png
+imlevel_9C890DAE_B9BD_A059_41C7_F7C5868E94A5.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_wyelu6b1_fi-FI.png
+imlevel_9C9F0B85_B9BD_A04B_41D9_21CF11D24BFA.url = media/panorama_200E6CB8_20E0_49E5_41A8_9842201A76CA_HS_ywlo096n_fi-FI.png
 imlevel_3E851FB9_2447_E6C6_4194_5A1CA016F8FE.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_4m9j9q4z_fi-FI.png
-imlevel_3D63089D_2447_AAC8_4186_95643AD3DF75.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_9sz3tn5n_fi-FI.png
-imlevel_3D861096_2458_5AAE_41A9_99B5953FC719.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_eleoq1v2_fi-FI.png
-imlevel_3DBE160E_2458_59A3_4192_F84831838945.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_ercy37am_fi-FI.png
-imlevel_3F495E98_2447_A6CE_4186_B66DB13A59B4.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_f0qisj4n_fi-FI.png
-imlevel_3D6ED6C5_2447_A6BB_41A8_E7AAC347EAF5.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_gns5cts1_fi-FI.png
-imlevel_3E525BEE_2458_AE67_41BD_793C301232FF.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_kog8o1fz_fi-FI.png
-imlevel_3D2137E7_2458_6670_41BA_FB0B5280BB3C.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_l1bzae7w_fi-FI.png
+imlevel_9FA9A084_B9BD_E049_41D0_28A12D9BABA4.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_9sz3tn5n_fi-FI.png
+imlevel_9FDDEC91_B9BD_E04B_41D5_A68F3508490C.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_eleoq1v2_fi-FI.png
+imlevel_9FCE9E1A_B9BD_E079_41E3_4FBCB1D3C190.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_ercy37am_fi-FI.png
+imlevel_9C488ACA_B9BD_E1D9_41CF_6F514C4F01E4.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_f0qisj4n_fi-FI.png
+imlevel_9FB03EA8_B9BD_E059_41D0_98D585B0BB29.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_gns5cts1_fi-FI.png
+imlevel_9F3B3FD5_B9BD_DFCB_41D2_BBC7923EDCDB.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_kog8o1fz_fi-FI.png
+imlevel_9F8FA543_B9BD_E0CF_41E1_0EC346ABFE33.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_l1bzae7w_fi-FI.png
 imlevel_3E1399C3_2458_AA95_41C0_B8CCEADBA9A1.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_ln7khmza_fi-FI.png
-imlevel_3E5C0DB7_2458_AAE6_41AA_F50C17AF76D6.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_ohqk6wn3_fi-FI.png
-imlevel_3DDEF1D9_2458_7A5A_4196_85AA870CC627.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_osli3hzx_fi-FI.png
-imlevel_3E951469_2447_DA44_4197_5C09D81F82E0.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_oz2r4nuw_fi-FI.png
-imlevel_3EA74638_2447_D9C3_41A9_74DF94AC3AEA.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_pjorcs90_fi-FI.png
-imlevel_3DCB6374_2458_7E69_41BB_CC85D8D02C15.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_q2ghkvfh_fi-FI.png
-imlevel_3E69F7E5_2458_A69C_419D_0FA831FDA816.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_rx27i55f_fi-FI.png
-imlevel_3D06B20A_2458_59B7_41BD_4C0CDDBCBE63.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_tnco3v7x_fi-FI.png
-imlevel_3DE2F819_2458_69A6_41B2_9DCEF6DE7B2B.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_tt7d4oh1_fi-FI.png
-imlevel_3F5D40BD_2447_BAC7_41B0_A65A194C8653.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_u5zhukum_fi-FI.png
-imlevel_3D0EACD1_2447_AA56_4193_B8E22F97E4B7.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_vuxwpz4c_fi-FI.png
-imlevel_3E72D2A7_2458_BE99_41B5_345715E16E60.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_xzbihova_fi-FI.png
-imlevel_3FDA02B6_2458_5E96_41B9_228264781D84.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_2ly6lunp_fi-FI.png
-imlevel_3F64BF75_2458_A79F_41AE_7C11DA09FD60.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8708l1w9_fi-FI.png
-imlevel_3E3BE14E_2458_DB93_41B8_2D5C71ED2A4A.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8ofrcb0f_fi-FI.png
-imlevel_3F91EF53_2458_67E6_41BB_2895B2D2926C.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8ttqe3c5_fi-FI.png
+imlevel_9F30419F_B9BD_A077_41E7_0F16FAF77210.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_ohqk6wn3_fi-FI.png
+imlevel_9FF86758_B9BD_E0F9_41B5_DAF53D2D1E61.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_osli3hzx_fi-FI.png
+imlevel_9C619795_B9BD_E04B_41E0_54A374904858.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_oz2r4nuw_fi-FI.png
+imlevel_9C532958_B9BD_E0F9_41B3_44877E1339CC.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_pjorcs90_fi-FI.png
+imlevel_9FF798F1_B9BD_E1CB_41E0_247B06F7ABBA.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_q2ghkvfh_fi-FI.png
+imlevel_9F2794EE_B9BD_A1D9_41DF_063D67DFD6B2.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_rx27i55f_fi-FI.png
+imlevel_9F9D4338_B9BD_E0B9_41DB_79B762B666D3.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_tnco3v7x_fi-FI.png
+imlevel_9FE29A8C_B9BD_E059_41DC_DAFC23394D67.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_tt7d4oh1_fi-FI.png
+imlevel_9C456CEF_B9BD_E1D7_41E1_E44CED3DC5B7.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_u5zhukum_fi-FI.png
+imlevel_9FA63190_B9BD_E049_41D8_2BCDCE332040.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_vuxwpz4c_fi-FI.png
+imlevel_9F29431D_B9BD_A07B_41C7_5D804C8108C5.url = media/panorama_200FDFB8_20E0_47E5_41B3_7546EE029A6D_HS_xzbihova_fi-FI.png
+imlevel_9EFB6D4D_B9BD_A0DB_41CE_4BEEB8145221.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_2ly6lunp_fi-FI.png
+imlevel_9EA2F837_B9BD_A0B7_41D3_E2C7977A61F8.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8708l1w9_fi-FI.png
+imlevel_9F09B8A1_B9BD_A04B_41DC_BC719E8D2DA9.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8ofrcb0f_fi-FI.png
+imlevel_9EE5D258_B9B2_60F9_41DE_96670749D1F0.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8ttqe3c5_fi-FI.png
 imlevel_3E1D6AD9_2458_AEB2_419D_C89CB2140E0D.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_8w72nayr_fi-FI.png
-imlevel_3EA1DCCE_2458_EA83_41C2_12A404149E57.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_981gihj4_fi-FI.png
-imlevel_3FF16854_2458_69EE_41BB_E496F0BEBD23.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_c4tkjc3u_fi-FI.png
-imlevel_3F56B336_2458_DF84_41B4_6AE73DF8F909.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_d1evwdel_fi-FI.png
-imlevel_3FFD8A2A_2458_69A5_41BA_F188FB942E71.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_d9p5ebev_fi-FI.png
-imlevel_3F89A543_2458_7BE1_41BF_1656FD012A51.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_faoewa0q_fi-FI.png
-imlevel_3E0CEF8B_2458_A690_41AC_AE91AA792298.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_icj9itu5_fi-FI.png
-imlevel_3EFCE172_2458_FB85_41AA_B7A570B026A4.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_nmho9skt_fi-FI.png
-imlevel_3EC5ABDF_2458_EEB7_41B1_801AFB2AB9D7.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_nzj3j2oe_fi-FI.png
-imlevel_3E888794_2458_E682_4197_2FA8A321A2AA.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_rve69n6x_fi-FI.png
-imlevel_3F7A5DA8_2458_AAB6_41BF_8B2E96949685.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_tg2uyqes_fi-FI.png
-imlevel_3F227D1A_2458_AB9D_4197_EB3214692617.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_vecnld8t_fi-FI.png
-imlevel_3F1DF45D_2458_B992_41C1_E2320EC8229C.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_vv3xdono_fi-FI.png
+imlevel_9F48E27C_B9BD_A0B9_41D2_0649792F76CB.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_981gihj4_fi-FI.png
+imlevel_9EF7EF0D_B9BD_A05B_41E0_82E98DD45C56.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_c4tkjc3u_fi-FI.png
+imlevel_9EBAC48B_B9BD_A05F_419F_BDB03507AAE8.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_d1evwdel_fi-FI.png
+imlevel_9EED20DB_B9B2_61FF_41E4_6994FBFAD3D0.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_d9p5ebev_fi-FI.png
+imlevel_9ED01432_B9B2_6049_41E6_593609248F1F.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_faoewa0q_fi-FI.png
+imlevel_9F1D36D7_B9BD_A1F7_41E6_833EDDA583C0.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_icj9itu5_fi-FI.png
+imlevel_9F6E2DE2_B9BD_A3C9_41CF_AD24F68C8C13.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_nmho9skt_fi-FI.png
+imlevel_9F733C32_B9BD_A049_41DE_8A7A17E0DE82.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_nzj3j2oe_fi-FI.png
+imlevel_9F5C80D6_B9BD_A1C9_41C6_4BBFB12B850B.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_rve69n6x_fi-FI.png
+imlevel_9EB7269D_B9BD_A07B_41C8_F7C20D64BC54.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_tg2uyqes_fi-FI.png
+imlevel_9E88BBCB_B9BD_A7DF_4169_5F6302093EFC.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_vecnld8t_fi-FI.png
+imlevel_9E99D9CA_B9BD_A3D9_41E2_150A918B9EF2.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_vv3xdono_fi-FI.png
 imlevel_3FB4B73E_2458_67A2_41C0_636AC70D7CD9.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_xu24fcyy_fi-FI.png
-imlevel_3EDA79AF_2458_EA96_41C1_75134BD3C6B9.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_y0r2stxy_fi-FI.png
-imlevel_3E921352_2458_FF84_4171_D4EDF3B26C64.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_z2rq6n35_fi-FI.png
+imlevel_9F067A06_B9BD_A049_41DE_E4430FB047DD.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_y0r2stxy_fi-FI.png
+imlevel_9F65FFC0_B9BD_BFC9_41BD_CDE640268ED0.url = media/panorama_20248BFD_2120_CF6B_41B0_92A9D945A623_HS_z2rq6n35_fi-FI.png
 imlevel_3FBDE856_2458_69E5_41BB_AEF2C0801A3E.url = media/panorama_202F9958_2120_C8B5_41AC_24026C5E9032_HS_4hfknnme_fi-FI.png
 imlevel_3878C4A9_2458_5956_41B1_1F39EE19D116.url = media/panorama_202F9958_2120_C8B5_41AC_24026C5E9032_HS_7nqzxenz_fi-FI.png
 imlevel_385EEF27_2458_67A7_41C0_78CD896C9B82.url = media/panorama_202F9958_2120_C8B5_41AC_24026C5E9032_HS_ci7ncyxg_fi-FI.png
@@ -999,7 +1003,7 @@ imlevel_C5969419_4211_651F_41C1_1494316F4C25.url = media/panorama_220EDF3C_4216_
 imlevel_8819FECE_703D_7856_41D0_54A5DCEADB73.url = media/panorama_220EDF3C_4216_A37F_41BB_3C0FF89EF3D6_HS_8nmx45de_fi-FI.png
 imlevel_A279748D_1F60_79C3_41BA_C1ACE3509232.url = media/panorama_220EDF3C_4216_A37F_41BB_3C0FF89EF3D6_HS_btfid49x_fi-FI.png
 imlevel_3E69590C_B3A2_40D2_41B7_5327940D2E1B.url = media/panorama_220EDF3C_4216_A37F_41BB_3C0FF89EF3D6_HS_gsch9llm_fi-FI.png
-imlevel_C8A473DE_BD10_AED0_41C8_40BB0268C6FE.url = media/panorama_220EDF3C_4216_A37F_41BB_3C0FF89EF3D6_HS_gwppixef_fi-FI.png
+imlevel_9D5312B0_B9BE_A04A_41D6_06F9C1DDD6E4.url = media/panorama_220EDF3C_4216_A37F_41BB_3C0FF89EF3D6_HS_gwppixef_fi-FI.png
 imlevel_A254D244_1F60_7941_41BC_1A15515E1631.url = media/panorama_220EDF3C_4216_A37F_41BB_3C0FF89EF3D6_HS_u4eells8_fi-FI.png
 imlevel_C241F788_70FD_688E_4190_FDA206D81741.url = media/panorama_2FD385F6_4CD6_18BD_41D2_E9E95C301FF5_HS_1wc0hewx_fi-FI.png
 imlevel_26B6F927_4CDA_095C_41C3_8F0A88538186.url = media/panorama_2FD385F6_4CD6_18BD_41D2_E9E95C301FF5_HS_3fkz7uza_fi-FI.png
@@ -1021,7 +1025,7 @@ imlevel_00FD9CB4_006B_30E1_4140_E74638779CD0.url = media/panorama_344F59DA_006B_
 imlevel_00FD922D_006B_33E3_4150_19B17B2B0E1F.url = media/panorama_344F59DA_006B_106F_4157_8CA345C39ECC_HS_qjhl06f3_fi-FI.png
 imlevel_00FD8026_006B_0FE1_4167_AA3EDB80A5A6.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_4jo64d32_fi-FI.png
 imlevel_308E760E_0600_547F_4179_1F15EE09A027.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_a0pum21a_fi-FI.png
-imlevel_00FD756A_006B_F061_415F_54568BE0CD2F.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_cjp9jomr_fi-FI.png
+imlevel_9DA9E188_B9BE_6059_4193_C904F58F8738.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_cjp9jomr_fi-FI.png
 imlevel_00FD9070_006B_3061_416D_13449C3A9E14.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_dpb84mdx_fi-FI.png
 imlevel_00FD8537_006B_11EF_415E_6D447277AB0D.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_f9zq6h73_fi-FI.png
 imlevel_00FD7072_006B_F061_414B_28F4A4B0676C.url = media/panorama_34E42C23_006B_17DC_4147_35EDDE52EE11_HS_iq4zkfns_fi-FI.png
@@ -1048,12 +1052,12 @@ imlevel_00FD2DBF_006B_10DF_4167_326EFB35EDE1.url = media/panorama_380DB38E_0069_
 imlevel_00FD33A5_006B_70E3_415F_8E695F5EC23D.url = media/panorama_380DB38E_0069_10E4_4135_C0627E292564_HS_mmzdevfs_fi-FI.png
 imlevel_00FD455C_006B_11A1_416A_827D22B491CE.url = media/panorama_380DB38E_0069_10E4_4135_C0627E292564_HS_qb1lbnu5_fi-FI.png
 imlevel_00FD34F2_006B_7060_4102_2F2B341994C0.url = media/panorama_380DB38E_0069_10E4_4135_C0627E292564_HS_vuoihvlo_fi-FI.png
-imlevel_A285C559_1F60_5B43_419A_ABA7B1242B08.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_09feodoc_fi-FI.png
+imlevel_9A476F08_B9BE_A059_41E3_5D270AFD7A06.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_09feodoc_fi-FI.png
 imlevel_78289D09_D21F_5FE6_4187_9FCEA1C50ADC.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_0uj9cy3f_fi-FI.png
 imlevel_7848E43E_D21F_2E1D_41B0_23166E9FA5B8.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_7g6mx4j6_fi-FI.png
 imlevel_79B55156_D21F_266D_41D1_0819F6D396BF.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_cg47rh12_fi-FI.png
 imlevel_78028658_D21F_6A66_41D8_67094C4757E2.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_eea3xf4k_fi-FI.png
-imlevel_78405317_D21F_2BEB_41CC_177759D2F8EA.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_fbzte58i_fi-FI.png
+imlevel_9DBE4058_B9BE_60F9_41E7_0F18FF6138E5.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_fbzte58i_fi-FI.png
 imlevel_78D7B58B_D21F_2EFB_41B8_1CF9B451265C.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_j2mwxcy3_fi-FI.png
 imlevel_7ABB92D3_D21F_6A6B_41E9_40B60436C81B.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_kbcr210b_fi-FI.png
 imlevel_78F7AD21_D21F_3E27_419C_E608EBAFA434.url = media/panorama_436CF9C5_D263_267E_41A0_06742BA77093_HS_m5n0vjta_fi-FI.png
@@ -1069,7 +1073,7 @@ imlevel_DAB9265A_511C_9A01_41D2_41CBA7DD69BA.url = media/panorama_4828D9D3_49A0_
 imlevel_D803D7A9_511C_9A03_41D1_5E9926E55FA9.url = media/panorama_4828D9D3_49A0_A9A1_4193_E9EE53514041_HS_h3921dri_fi-FI.png
 imlevel_C3761F0B_2ACA_05E2_41C0_C81872DE780E.url = media/panorama_4828D9D3_49A0_A9A1_4193_E9EE53514041_HS_l4jthka3_fi-FI.png
 imlevel_C17DB007_70FD_2782_41D5_356CE20A6D52.url = media/panorama_4828D9D3_49A0_A9A1_4193_E9EE53514041_HS_ndt1htti_fi-FI.png
-imlevel_C03B129F_2ACA_3CE2_41BE_B090D165D7FF.url = media/panorama_4828D9D3_49A0_A9A1_4193_E9EE53514041_HS_oo2pckrv_fi-FI.png
+imlevel_9D4EF48F_B9BE_A056_41D3_B800940F1333.url = media/panorama_4828D9D3_49A0_A9A1_4193_E9EE53514041_HS_oo2pckrv_fi-FI.png
 imlevel_01654ADD_019B_108D_4175_2A0556068AB1.url = media/panorama_482CD0BA_49A0_B7E2_4191_A5D7B26C5101_HS_0zo9ca12_fi-FI.png
 imlevel_3CD4FB1D_B3A2_40ED_41D2_975B0DC431EA.url = media/panorama_482CD0BA_49A0_B7E2_4191_A5D7B26C5101_HS_16k0rxtc_fi-FI.png
 imlevel_3E5B2CFD_B3A2_412D_41CB_F2860C5D5064.url = media/panorama_482CD0BA_49A0_B7E2_4191_A5D7B26C5101_HS_5blsvwtv_fi-FI.png
@@ -1119,7 +1123,7 @@ imlevel_76A1C043_575B_083D_41C2_E0463B036653.url = media/panorama_4F1B442F_573D_
 imlevel_7682282A_575B_184F_41B5_80C2827EDBF3.url = media/panorama_4F1B442F_573D_085F_41D1_F3E869F8EB3C_HS_wgm6v62m_fi-FI.png
 imlevel_769939D6_575B_1BC7_41CC_147E9194508A.url = media/panorama_4F1B442F_573D_085F_41D1_F3E869F8EB3C_HS_wgthrmq0_fi-FI.png
 imlevel_7250BB0A_575B_F84F_41C1_850D59459454.url = media/panorama_4F1B442F_573D_085F_41D1_F3E869F8EB3C_HS_x1jepe3y_fi-FI.png
-imlevel_76F7D679_575B_08CD_418D_AC5A71877331.url = media/panorama_4F1B442F_573D_085F_41D1_F3E869F8EB3C_HS_xw6rzzm5_fi-FI.png
+imlevel_9D67913B_B9BE_A0BE_41DA_378C97625DF3.url = media/panorama_4F1B442F_573D_085F_41D1_F3E869F8EB3C_HS_xw6rzzm5_fi-FI.png
 imlevel_76973EB2_575B_185F_41C5_EDD912189DF0.url = media/panorama_4F1B442F_573D_085F_41D1_F3E869F8EB3C_HS_ztas0fh2_fi-FI.png
 imlevel_01654E5A_019B_1397_4171_F11C084B32FC.url = media/panorama_7263FDC7_BEF0_BB07_41C1_08F93C5A0F87_HS_07fdrwfw_fi-FI.png
 imlevel_A34E3EF6_C248_8565_41CA_DEBEB7780D52.url = media/panorama_7263FDC7_BEF0_BB07_41C1_08F93C5A0F87_HS_3h5ryr4n_fi-FI.png
@@ -1151,11 +1155,11 @@ imlevel_48095B05_299C_8389_41B5_3422DD746812.url = media/panorama_7A5E9A8D_B4A2_
 imlevel_3DE1CC56_0601_D4EC_4179_D9F8DA512473.url = media/panorama_7A5E9A8D_B4A2_41C4_41C4_00AA46AFFDEE_HS_umed3t3c_fi-FI.png
 imlevel_30DE1473_B812_56CD_41E1_507B1FD817E0.url = media/panorama_7A5E9A8D_B4A2_41C4_41C4_00AA46AFFDEE_HS_wvlz2ego_fi-FI.png
 imlevel_121A798A_668D_B7D7_41BD_928F5D789F90.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_0aziqwwa_fi-FI.png
-imlevel_531C9C11_D221_7E3E_41E7_BE7741564748.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_0kqgo1p6_fi-FI.png
+imlevel_9A2756D5_B9BE_A1CB_41BE_6BD74A6FBA3F.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_0kqgo1p6_fi-FI.png
 imlevel_AB7F6995_0600_5C2E_4181_814B9D8D871E.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_1r9mvbmt_fi-FI.png
 imlevel_C29869D1_2ACA_0C7E_41B9_9FC975A1E56A.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_3ijp0gb2_fi-FI.png
 imlevel_3D4CC04A_0601_ECE7_4192_EAB359B3C5DA.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5ccam6q8_fi-FI.png
-imlevel_3092734E_5669_9A2B_41A7_A8D2C7085A0E.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5tuufzsg_fi-FI.png
+imlevel_9A2EF6A1_B9BE_A04B_41BC_B08D4C951E23.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5tuufzsg_fi-FI.png
 imlevel_78693086_567A_965D_417E_0F20DCECEA03.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_7d4mdwvr_fi-FI.png
 imlevel_7859CE56_567A_8AFD_41C4_50C882822EE7.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_8l5vyvuj_fi-FI.png
 imlevel_7BF3F2A5_567A_7A5F_41CA_24DCEE3FB77D.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_9s915lci_fi-FI.png
@@ -1167,10 +1171,10 @@ imlevel_AB62CA0B_0600_5C3A_4173_1CA8BCA79C90.url = media/panorama_7C6CFB3B_5667_
 imlevel_786C10D1_567A_97F7_41BF_0A811C386BDA.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_m7g09g4d_fi-FI.png
 imlevel_D9DDE325_70FF_2981_41DA_9D0EFB31960F.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_mqddgl11_fi-FI.png
 imlevel_DB11B838_70FF_278F_41D6_288330C534AA.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_nbtaxys0_fi-FI.png
-imlevel_89965A72_D263_5AD1_41D6_975F0F5C1B7D.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_nqa623ka_fi-FI.png
+imlevel_9BDD951D_B9BE_A07B_41E2_F2831FEF1925.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_nqa623ka_fi-FI.png
 imlevel_DB1037FB_70FF_2881_41AF_E0E465110F80.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_otdrcr6c_fi-FI.png
 imlevel_7853EF0A_567A_8A55_41C7_3010C0FC6C87.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_pixrh8mv_fi-FI.png
-imlevel_3D4F8083_0601_EC65_4170_F6033CF34C04.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_ql923ipr_fi-FI.png
+imlevel_9A18971C_B9BE_A079_41E1_59954A59B5D1.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_ql923ipr_fi-FI.png
 imlevel_78576FA6_567A_8A5D_41D0_4EBECDCAEFED.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_recotc7o_fi-FI.png
 imlevel_A5714BA4_1F60_4FC1_41BF_B171162CF500.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_upwiwtkv_fi-FI.png
 imlevel_A24E8F47_1F60_474F_41BE_2EA15C4EDEBF.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_19i0p6bq_fi-FI.png
@@ -1179,7 +1183,7 @@ imlevel_C0D93BFE_70FC_F882_41D5_C1D6DFCF0F28.url = media/panorama_7ED800A4_5666_
 imlevel_627143C4_7A62_C14C_41CD_474D36023E25.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_d4t92n4p_fi-FI.png
 imlevel_7996DC16_567A_8E7D_41C3_2E924FEBD8D4.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_quqphjdr_fi-FI.png
 imlevel_8878CA52_703D_784E_41C2_C044AF81A39E.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_s4ooz384_fi-FI.png
-imlevel_A25EE162_1F60_7B41_4195_F8797DF973F3.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_sbzs953c_fi-FI.png
+imlevel_9D6F4061_B9BE_A0CA_41D8_E516152D2A49.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_sbzs953c_fi-FI.png
 imlevel_8A83DD33_703D_79CE_41C7_7011E1EB4045.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_t0yoz50t_fi-FI.png
 imlevel_A2B3CD2C_1F60_48C1_41B7_4F3E5C36D2C1.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_t210ngzz_fi-FI.png
 imlevel_DD90C0A4_70FF_6886_416B_96E3D3448B81.url = media/panorama_8497520C_9CB4_5365_41E1_1F0AE6BBDC0F_HS_33oeasiv_fi-FI.png
@@ -1259,7 +1263,7 @@ imlevel_867AA2FD_703F_283B_41CC_FB7A70030EED.url = media/panorama_98435F6D_80F5_
 imlevel_86B629BB_703F_383E_41BD_C1B6DD675C90.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_658d9xka_fi-FI.png
 imlevel_866860D5_703F_284B_41B0_54D50FDA919F.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_btktokrj_fi-FI.png
 imlevel_DB9D19B3_70FF_5881_41D6_7494E4269E89.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_e4wpaupq_fi-FI.png
-imlevel_A3DCD1BF_1F60_5B3F_41BD_F497E37A1A1E.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_h7seo8z0_fi-FI.png
+imlevel_9D792B91_B9BE_A04B_41DE_5D36CF408186.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_h7seo8z0_fi-FI.png
 imlevel_DC6C1BD8_70FF_588F_41BC_CA7222F3AE63.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_qx68sn2v_fi-FI.png
 imlevel_525126A2_41FE_A549_41BC_4430C0F6E93A.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_sab29q20_fi-FI.png
 imlevel_90A43855_9E30_8C3D_41D3_361462B3D8B1.url = media/panorama_98435F6D_80F5_5877_41C1_3079560999DE_HS_sj2k19e2_fi-FI.png
@@ -1279,7 +1283,7 @@ imlevel_153F2505_562E_9E40_41C9_50099DCE184E.url = media/panorama_98A2A7BC_80F5_
 imlevel_86C395FD_703F_683A_41CA_BE0F281C4A33.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_1xn5v78g_fi-FI.png
 imlevel_DD78DE85_70FF_5881_41C2_5069BE6C72E7.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_2wzd8c0d_fi-FI.png
 imlevel_874F2514_703F_69CA_41BB_D19B613F84AC.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_cdyd4plu_fi-FI.png
-imlevel_A539DBF1_1F60_4F43_41B3_C24DC2535E52.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_dy114zu7_fi-FI.png
+imlevel_9A1B775E_B9BE_A0F9_41DD_417E2C201321.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_dy114zu7_fi-FI.png
 imlevel_86C5273E_703F_6836_41DB_CF714A865C8B.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_i9j8w2h8_fi-FI.png
 imlevel_86D77935_703F_59CA_41C6_B4737493D32C.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_sun4yard_fi-FI.png
 imlevel_55BAC367_41F1_A3D7_41C1_9B0BB0C833A6.url = media/panorama_98B16851_80F5_5857_41DC_6894701E0569_HS_tluo2rjy_fi-FI.png
@@ -1289,17 +1293,17 @@ imlevel_A3CEBF46_1F60_4741_4193_0A357E8EA066.url = media/panorama_98BC0323_80F5_
 imlevel_869073F4_703F_284A_41D5_B3775B76C94F.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_7rdzfpp1_fi-FI.png
 imlevel_86AE359D_703F_28FA_41D4_AD67BB7E6A06.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_89gwrnod_fi-FI.png
 imlevel_86F8DCAA_703F_58DE_41CE_E52D2B621BC3.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_crwi68iv_fi-FI.png
-imlevel_A3C2FFC5_1F60_4743_41BC_6156DDFA0A87.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_gq2343j1_fi-FI.png
+imlevel_9A0BE984_B9BE_A049_416E_19107778EA05.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_gq2343j1_fi-FI.png
 imlevel_D94B021D_511F_9A00_41D0_6F6572EDE30D.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_l81c74zj_fi-FI.png
 imlevel_5325B49A_41F1_A579_418E_D2EA303FF05C.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_oz9okxrl_fi-FI.png
 imlevel_86FF4D92_703F_58CE_41D1_8B7096A3FC14.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_p2t7oiz5_fi-FI.png
-imlevel_A891E991_29B6_0C0A_41B6_2C72910EC0F3.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_trmwh7ym_fi-FI.png
+imlevel_9A117840_B9BE_A0C9_41D2_39553E8C437A.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_trmwh7ym_fi-FI.png
 imlevel_86A1E69D_703F_28FA_41D9_EBA577785B2E.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_u5t6ehz0_fi-FI.png
 imlevel_868A1F60_703F_584A_41B2_56D09F56E2F6.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_vvm6x2zw_fi-FI.png
 imlevel_DBC7951F_70FF_6981_416F_C17F20801DC4.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_yd3mys6l_fi-FI.png
 imlevel_A3CB3ED2_1F60_4941_41A2_B3C55F7FBB3E.url = media/panorama_98BC0323_80F5_C9F6_41D3_073D23A49249_HS_zpznnppd_fi-FI.png
 imlevel_89CFF7E0_703D_684A_41D4_303485AB3F43.url = media/panorama_9B6D050F_4763_9EFD_41D0_7FD898EDFD0F_HS_0pl4k382_fi-FI.png
-imlevel_C281638D_2ACA_3CE6_41AF_DB93311DDA8F.url = media/panorama_9B6D050F_4763_9EFD_41D0_7FD898EDFD0F_HS_2sdk8kgl_fi-FI.png
+imlevel_9D452573_B9BE_A0CE_41D4_9DACA5C9D0B1.url = media/panorama_9B6D050F_4763_9EFD_41D0_7FD898EDFD0F_HS_2sdk8kgl_fi-FI.png
 imlevel_C139DC4D_70FD_3F86_41D6_0D5A22A092EA.url = media/panorama_9B6D050F_4763_9EFD_41D0_7FD898EDFD0F_HS_63olp0w2_fi-FI.png
 imlevel_6C82A635_7A62_C2CC_41AB_9E90BB217249.url = media/panorama_9B6D050F_4763_9EFD_41D0_7FD898EDFD0F_HS_73ra5hk4_fi-FI.png
 imlevel_BB6FDE22_46A0_AACD_41CA_C2852587E975.url = media/panorama_9B6D050F_4763_9EFD_41D0_7FD898EDFD0F_HS_ctmeywvz_fi-FI.png
@@ -1318,7 +1322,7 @@ imlevel_89D6DBC9_703D_585A_41D9_57BDFA9A7C33.url = media/panorama_9C652BD6_5333_
 imlevel_C208D0FB_70FD_2882_41D6_4DEDA4B354C2.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_2kbjr4lp_fi-FI.png
 imlevel_8E0FA3BC_9E30_9C69_41DC_C04ECA3BB94D.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_3pvpl1kb_fi-FI.png
 imlevel_B4A24FF1_53FC_6ADC_41D1_37C6E0505FD0.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_99qmofw0_fi-FI.png
-imlevel_6D4AB512_7A62_C6C5_41D2_89BFFE9C784A.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_b19mpta1_fi-FI.png
+imlevel_9CBC86BB_B9BE_A1BF_41E4_C3433AA76841.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_b19mpta1_fi-FI.png
 imlevel_89E16D7D_703D_583A_41D3_0C12CC286CE0.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_clc2quaz_fi-FI.png
 imlevel_C1520ECB_70FD_3882_41CA_E3D40C101812.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_dofghc1e_fi-FI.png
 imlevel_C170EA1B_70FD_3B82_41C7_967316A2928A.url = media/panorama_9C652BD6_5333_EAF5_41B2_2099CC7FF869_HS_ec47o7rk_fi-FI.png
@@ -1355,7 +1359,7 @@ imlevel_6DAC17AE_7A61_41DD_41D0_BA16F3CE0C92.url = media/panorama_A8AC867D_86B6_
 imlevel_B88A3FE7_70DB_3870_41D1_D335717CED20.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_n4rpnwhd_fi-FI.png
 imlevel_B8905E4A_70DB_3BB0_41CC_AE6A22139A44.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_pv7i1ba4_fi-FI.png
 imlevel_87785FB1_703C_D8CA_41C6_601026DCBE09.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_qdaqaunt_fi-FI.png
-imlevel_DB18125B_511C_7A07_4194_11B311D1DF8C.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_u9wy0d22_fi-FI.png
+imlevel_9D73AD86_B9BE_A049_41CE_9AE5633740B2.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_u9wy0d22_fi-FI.png
 imlevel_DD3CC850_70FF_279F_41A8_7F192021B2AD.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_w3css54r_fi-FI.png
 imlevel_B8A45C6C_70DB_3870_41D0_28A717332124.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_wypzjlbe_fi-FI.png
 imlevel_87715159_703D_287A_41CA_A00FFDF1539A.url = media/panorama_A8AC867D_86B6_84B2_41BF_32161FF4A33A_HS_xqovm3n8_fi-FI.png
@@ -1407,34 +1411,33 @@ imlevel_CA62B0F7_BD11_AAD0_41E5_E200F48CCDF1.url = media/panorama_B95BEDF5_B835_
 imlevel_CA6EE29D_BD11_A950_41D0_8B4295FC8E99.url = media/panorama_B95BEDF5_B835_D640_41D0_0E374BAFBB50_HS_ttzlilv7_fi-FI.png
 imlevel_A2281AB0_1F60_49C1_41BB_EC1292DDF392.url = media/panorama_B95BEDF5_B835_D640_41D0_0E374BAFBB50_HS_tuz6wqhp_fi-FI.png
 imlevel_C42CDB6F_BD11_BFF0_41A2_380701D7F317.url = media/panorama_B95BEDF5_B835_D640_41D0_0E374BAFBB50_HS_weo9njop_fi-FI.png
-imlevel_89AE75E1_703D_284A_41D7_F8C34D7F3662.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_1jpjcnah_fi-FI.png
-imlevel_8983516C_703D_285A_41D1_DEC0CDE81637.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_2gxh0ton_fi-FI.png
+imlevel_9F3A3A43_B9BE_E0CF_41AA_A7DDC5CB8E43.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_1jpjcnah_fi-FI.png
+imlevel_9F8E3035_B9BE_E04B_41D5_E6490ECCAFBC.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_2gxh0ton_fi-FI.png
 imlevel_8952DD46_703D_3856_41D7_CD2313933969.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_32x412y5_fi-FI.png
-imlevel_894AD99D_703D_38FA_41D1_E903421D818B.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_6kpjdvez_fi-FI.png
+imlevel_9B55E427_B9BE_E057_41DC_BDD57A861C2C.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_5l8h2rfy_fi-FI.png
 imlevel_D016A765_563A_7A09_418F_7DE8159B7103.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_81vvxhc7_fi-FI.png
-imlevel_C3713002_70FD_E783_41D5_2351E76A869B.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_8fsuk5oh_fi-FI.png
-imlevel_C3EF0154_70FD_E986_41CC_AB65D905654E.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_dguw8g65_fi-FI.png
+imlevel_9CB137D8_B9BE_AFF9_41DE_A8B0000A0FED.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_8fsuk5oh_fi-FI.png
+imlevel_9D7CF25C_B9BE_E0F9_41DF_8F51B9CDD1A9.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_dguw8g65_fi-FI.png
 imlevel_C1D215BB_70FD_E882_41CF_AB44CAD110B5.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_dkj8egcb_fi-FI.png
-imlevel_7B856FC9_6AD4_F23E_41CB_46472C17073A.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_eorjm8xz_fi-FI.png
-imlevel_C1AF5744_70FD_E986_41B0_9869CC5561B1.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_f7xxarkt_fi-FI.png
-imlevel_6D4E063F_7A62_C33B_419A_B232F121D5F5.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_htbw5w9k_fi-FI.png
-imlevel_C2358086_70FD_2882_41BB_66A972E2B054.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_imj6sf9y_fi-FI.png
+imlevel_9CADAC57_B9BE_E0F7_41D1_9AF34813636C.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_eorjm8xz_fi-FI.png
+imlevel_9FAFDBAD_B9BE_A05B_41D9_B856272F7AAB.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_f7xxarkt_fi-FI.png
+imlevel_9D54078A_B9BE_E059_41E7_116EAD7BB534.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_htbw5w9k_fi-FI.png
 imlevel_89680ED1_703D_384A_41BF_2E1F68285645.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_ixiws4wk_fi-FI.png
-imlevel_C1F4C144_70FD_E986_41D2_018441400A56.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_jdieio70_fi-FI.png
+imlevel_9CB798FD_B9BE_A1BB_41BF_E9F94D8C9FAF.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_jdieio70_fi-FI.png
 imlevel_C1A448DB_70FD_F882_41D9_090D91D199CA.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_jumvvdzt_fi-FI.png
 imlevel_C448EC5D_70FD_3F87_41CC_E1F031358CE1.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_kupeag31_fi-FI.png
-imlevel_C47F0995_70FD_3886_41D6_31F90DC34CB8.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_m5aa8y9m_fi-FI.png
+imlevel_9B58C2E5_B9BE_E1CB_41DA_96F04C49E2B0.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_m5aa8y9m_fi-FI.png
 imlevel_C3591439_70FD_EF8E_41DB_B2779143E013.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_sricskcz_fi-FI.png
-imlevel_C1B5DB07_70FD_F982_41AC_4E761E573C31.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_tk7xms08_fi-FI.png
+imlevel_9D19CD37_B9BE_A0B7_41D1_E74A83D7399E.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_tk7xms08_fi-FI.png
 imlevel_C3B91ECE_70FD_D882_4186_4A26BB3F85D9.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_tqg268v6_fi-FI.png
-imlevel_899EC3AA_703D_28DE_41D3_E49D2264B892.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_uf0sbo9f_fi-FI.png
+imlevel_9FE7056D_B9BE_E0DB_41B8_7A12BB46E07A.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_uf0sbo9f_fi-FI.png
 imlevel_7864FA01_6AD4_F22E_41D8_1D08EFE48FF5.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_wc9jb1ao_fi-FI.png
-imlevel_C21DD428_70FD_2F8E_41D0_DDFE6D721773.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_x200wtz4_fi-FI.png
+imlevel_9CA65E1E_B9BE_E079_41DE_2814DDE81E80.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_x200wtz4_fi-FI.png
 imlevel_62E34918_7A62_CEC5_41D4_DA6890C25D5D.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_xw0kgej8_fi-FI.png
-imlevel_89443B79_703D_383A_41BC_D79269D7E049.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_zut3urby_fi-FI.png
+imlevel_9DEF6132_B9BE_E049_41D6_3BBD08BDB786.url = media/panorama_D57F4280_562A_BA09_41CB_282FEC44CE24_HS_zut3urby_fi-FI.png
 imlevel_20A0E348_2120_78E5_41B0_8BBDBC95854F.url = media/panorama_EA930C6B_1F20_C94B_41B6_77C39B9F4F9B_HS_hqtk1lx8_fi-FI.png
 imlevel_20A0DDAC_2120_4BBD_418C_AA90E6E558F0.url = media/panorama_EA930C6B_1F20_C94B_41B6_77C39B9F4F9B_HS_jr82zwyc_fi-FI.png
-imlevel_20A0E6AF_2120_79BB_41A6_A4DDFCBF5881.url = media/panorama_EA930C6B_1F20_C94B_41B6_77C39B9F4F9B_HS_vsql6kne_fi-FI.png
+imlevel_9D92C582_B9BE_6049_41DA_7E1E46F999A9.url = media/panorama_EA930C6B_1F20_C94B_41B6_77C39B9F4F9B_HS_vsql6kne_fi-FI.png
 imlevel_20A0D8E3_2120_49AB_41B7_09EF17F75191.url = media/panorama_EA930C6B_1F20_C94B_41B6_77C39B9F4F9B_HS_x2qnl0vc_fi-FI.png
 imlevel_20A0E4B3_2120_79AB_419D_831AA08EFD78.url = media/panorama_EA930C6B_1F20_C94B_41B6_77C39B9F4F9B_HS_xj97o5s4_fi-FI.png
 imlevel_3DAA9D82_B3AD_C3D7_41CB_CE973BE6E403.url = media/panorama_FCECA988_B39D_C3D5_41E1_5F6C606EEBA0_HS_5a5legac_fi-FI.png
@@ -1602,9 +1605,6 @@ imlevel_C5FAC52C_420E_A735_41D0_5D8F43AC13BA.url = media/popup_379C6EE5_4237_650
 imlevel_3DF569C1_0601_DFE4_4193_36CD67F138C5.url = media/popup_3AA45E09_05F4_17B6_4164_B5E96C786B3E_fi-FI_0_0.png
 imlevel_3DF379C1_0601_DFE4_4180_0B5448AB3824.url = media/popup_3AA45E09_05F4_17B6_4164_B5E96C786B3E_fi-FI_0_1.png
 imlevel_3DF369C2_0601_DFE4_4195_CBDE9B310880.url = media/popup_3AA45E09_05F4_17B6_4164_B5E96C786B3E_fi-FI_0_2.png
-imlevel_7899A9B2_D21F_2625_41E5_AEADC2666A26.url = media/popup_43138C38_D261_7E16_41E8_165581AB1711_fi-FI_0_0.png
-imlevel_789A49B2_D21F_2625_41E1_380FA03CA25F.url = media/popup_43138C38_D261_7E16_41E8_165581AB1711_fi-FI_0_1.png
-imlevel_789A59B2_D21F_2625_41DA_2D3791A13DA0.url = media/popup_43138C38_D261_7E16_41E8_165581AB1711_fi-FI_0_2.png
 imlevel_78F76274_D21F_2A2D_41E4_A70B94EE05ED.url = media/popup_4313DC35_D261_7E1E_41C5_EED2C72F4756_fi-FI_0_0.png
 imlevel_78F70274_D21F_2A2D_41E6_E55C17FA9323.url = media/popup_4313DC35_D261_7E1E_41C5_EED2C72F4756_fi-FI_0_1.png
 imlevel_78D6F277_D21F_2A2B_41AC_9C02E0051A25.url = media/popup_4313DC35_D261_7E1E_41C5_EED2C72F4756_fi-FI_0_2.png
@@ -1623,6 +1623,10 @@ imlevel_379D3120_E73B_18FE_41EB_9378917C1F5F.url = media/popup_511FAC67_3861_EA3
 imlevel_A2F7337E_1F60_5F41_41A0_1111B55C2DD1.url = media/popup_5B0C8A33_1F20_C937_41A8_6FF569CA2960_fi-FI_0_0.png
 imlevel_A2F7237E_1F60_5F41_41A9_861539485E2D.url = media/popup_5B0C8A33_1F20_C937_41A8_6FF569CA2960_fi-FI_0_1.png
 imlevel_A2F7037E_1F60_5F41_41B1_61F416B8ACC7.url = media/popup_5B0C8A33_1F20_C937_41A8_6FF569CA2960_fi-FI_0_2.png
+imlevel_9D93057B_B9BE_60BF_41D7_AD21806F0AF3.url = media/popup_6260C0DA_4864_E5DE_41C0_B3FF88C3B517_fi-FI_0_0.png
+imlevel_9D93157B_B9BE_60BF_41E3_37C7BC4DE57F.url = media/popup_6260C0DA_4864_E5DE_41C0_B3FF88C3B517_fi-FI_0_1.png
+imlevel_9DF8B919_B9BE_607B_41E6_6E88BAF9F9C6.url = media/popup_64809F89_487D_FC3B_41C3_995CE1D3DC18_fi-FI_0_0.png
+imlevel_9DF88919_B9BE_607B_41D1_83FAB08488A6.url = media/popup_64809F89_487D_FC3B_41C3_995CE1D3DC18_fi-FI_0_1.png
 imlevel_2B1B245E_E73B_3942_41D6_227DF1E682FD.url = media/popup_64ECFD4D_7BEE_D248_41C1_445372E3AA7F_fi-FI_0_0.png
 imlevel_2B1BC45E_E73B_3942_41E5_F3157080AAC7.url = media/popup_64ECFD4D_7BEE_D248_41C1_445372E3AA7F_fi-FI_0_1.png
 imlevel_2B1BE45F_E73B_3942_41EB_25A38B1F0B11.url = media/popup_64ECFD4D_7BEE_D248_41C1_445372E3AA7F_fi-FI_0_2.png
@@ -1653,6 +1657,8 @@ imlevel_37C0EBD6_E73B_2F42_418C_3ED9161BD20A.url = media/popup_66663745_7BE6_5E6
 imlevel_37C54C4D_E73B_2946_41C6_DB4D87178879.url = media/popup_6676E2A4_7BE6_5621_41D2_FC0942508D54_fi-FI_0_0.png
 imlevel_37C57C4E_E73B_2942_41C7_DCE28E4036E9.url = media/popup_6676E2A4_7BE6_5621_41D2_FC0942508D54_fi-FI_0_1.png
 imlevel_37CA9C4E_E73B_2942_41D5_6738F9C8999B.url = media/popup_6676E2A4_7BE6_5621_41D2_FC0942508D54_fi-FI_0_2.png
+imlevel_9A546C7F_B9BE_A0B7_41DE_5ED0B709DCDE.url = media/popup_6757449B_4863_AC5E_41B4_D744F46B8045_fi-FI_0_0.png
+imlevel_9A540C7F_B9BE_A0B7_41A0_82CC2AD8E11E.url = media/popup_6757449B_4863_AC5E_41B4_D744F46B8045_fi-FI_0_1.png
 imlevel_291548A9_E73B_E9CE_41E5_EF267AE844A4.url = media/popup_678000E0_7BEB_D24C_41CF_8F4106862996_fi-FI_0_0.png
 imlevel_291528AA_E73B_E9C2_41AE_A00F5CB94EBA.url = media/popup_678000E0_7BEB_D24C_41CF_8F4106862996_fi-FI_0_1.png
 imlevel_291508AA_E73B_E9C2_41E9_B54B921C7302.url = media/popup_678000E0_7BEB_D24C_41CF_8F4106862996_fi-FI_0_2.png
@@ -1677,6 +1683,8 @@ imlevel_111E9D1B_4C76_39BD_41B9_2B75C0F16986.url = media/popup_6AD97DBB_4BD6_58E
 imlevel_C5A96663_BD11_69F0_41CF_8DAB8CDF7899.url = media/popup_6AE72850_B816_5E1B_41DD_E8AE1CCE0208_fi-FI_0_0.png
 imlevel_C5A97663_BD11_69F0_41C3_AF7E15B049FA.url = media/popup_6AE72850_B816_5E1B_41DD_E8AE1CCE0208_fi-FI_0_1.png
 imlevel_C5A98663_BD11_69F0_41E3_811BA5725D24.url = media/popup_6AE72850_B816_5E1B_41DD_E8AE1CCE0208_fi-FI_0_2.png
+imlevel_9DB62176_B9BE_60C9_41E2_253ABD6DB88D.url = media/popup_6B40DCBC_486C_FC5B_41D2_10A76CAAC811_fi-FI_0_0.png
+imlevel_9DB63176_B9BE_60C9_4175_8C502C8274B4.url = media/popup_6B40DCBC_486C_FC5B_41D2_10A76CAAC811_fi-FI_0_1.png
 imlevel_15B79C9B_562E_8E41_41D1_93D4F80B8EF6.url = media/popup_6C1EA0DC_5627_97C0_41AD_59E6921C39B3_fi-FI_0_0.png
 imlevel_15B49C9C_562E_8E47_41CB_532A27757994.url = media/popup_6C1EA0DC_5627_97C0_41AD_59E6921C39B3_fi-FI_0_1.png
 imlevel_15B48C9C_562E_8E47_419F_8964F6EFC37C.url = media/popup_6C1EA0DC_5627_97C0_41AD_59E6921C39B3_fi-FI_0_2.png
@@ -1698,9 +1706,6 @@ imlevel_00FD373E_006B_71E0_416E_F4D42B01E22C.url = media/popup_71642257_00BB_107
 imlevel_00FD4164_006B_1060_4150_FC1DB1266FE0.url = media/popup_73026BB2_00B9_1036_4141_83C6747E82E2_fi-FI_0_0.png
 imlevel_00FD4164_006B_1060_4162_9FB5A7199F85.url = media/popup_73026BB2_00B9_1036_4141_83C6747E82E2_fi-FI_0_1.png
 imlevel_00FD4164_006B_1060_4149_B66271C0A9BC.url = media/popup_73026BB2_00B9_1036_4141_83C6747E82E2_fi-FI_0_2.png
-imlevel_A1AE35E5_1F60_FB40_418A_5C5DEFD52869.url = media/popup_750EC03E_1F21_B934_41BF_6ACD226C992C_fi-FI_0_0.png
-imlevel_A1AE05E5_1F60_FB40_41B8_2A24252A918B.url = media/popup_750EC03E_1F21_B934_41BF_6ACD226C992C_fi-FI_0_1.png
-imlevel_A1AE15E5_1F60_FB40_41AB_4E245141F82B.url = media/popup_750EC03E_1F21_B934_41BF_6ACD226C992C_fi-FI_0_2.png
 imlevel_A1AD65F6_1F60_FB40_4198_D21CB912D91B.url = media/popup_750F2035_1F21_B934_41AD_68E00F9609EB_fi-FI_0_0.png
 imlevel_A1AC65F6_1F60_FB40_41B3_C791FAD66E26.url = media/popup_750F2035_1F21_B934_41AD_68E00F9609EB_fi-FI_0_1.png
 imlevel_A1AC45F6_1F60_FB40_41A7_E1A19842E26D.url = media/popup_750F2035_1F21_B934_41AD_68E00F9609EB_fi-FI_0_2.png
@@ -2146,6 +2151,7 @@ panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7.label = Q360 MRI preparation room
 video_55F022E0_4BD7_E863_41A6_8141D175FA9F.label = Saturation meter video
 video_534EA8D7_387E_ABDD_4130_1A9B61C039D4.label = SwipeControls
 panorama_AB2518AE_EA1F_7712_41D8_E9DA6F1DEB77.label = TYKS_luukuvaushuone
+video_5A3305C4_485C_AC30_41C5_7094A5888A06.label = TakingBloodSugar
 video_6E60132D_73D7_5A68_41BA_4A5C10A4E664.label = Thinking_Animation
 panorama_380DB38E_0069_10E4_4135_C0627E292564.label = Toimintaterapeutin huone
 panorama_2030495B_2120_48AB_41B6_C712B4BE6BF1.label = Toipumishuone_murtumaPolkuun
@@ -2167,44 +2173,46 @@ panorama_482CD0BA_49A0_B7E2_4191_A5D7B26C5101.label = toimenpidehuone 2
 video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B.label = video x-ray machine
 
 ### Video
-videolevel_DDF46665_2ADA_045E_4179_2B0013FFFFE1.url = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_fi-FI.mp4
-videolevel_DDF46665_2ADA_045E_4179_2B0013FFFFE1.posterURL = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_poster_fi-FI.jpg
-videolevel_DDBC25B0_2ADA_0436_41A9_02C8B80EF9DC.url = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_fi-FI.mp4
-videolevel_DDBC25B0_2ADA_0436_41A9_02C8B80EF9DC.posterURL = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_poster_fi-FI.jpg
-videolevel_DDF1A846_2ADA_0C5B_418E_9C63C500E81B.url = media/video_5194BF8C_3821_A63C_4160_BC283316A882_fi-FI.mp4
-videolevel_DDF1A846_2ADA_0C5B_418E_9C63C500E81B.posterURL = media/video_5194BF8C_3821_A63C_4160_BC283316A882_poster_fi-FI.jpg
-videolevel_DDF38A27_2ADA_0FDA_41B0_696BEC21804B.url = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_fi-FI.mp4
-videolevel_DDF38A27_2ADA_0FDA_41B0_696BEC21804B.posterURL = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_poster_fi-FI.jpg
-videolevel_DD9A8B7E_2ADA_0C2B_41BF_BD58BAD5C0BD.url = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_fi-FI.mp4
-videolevel_DD9A8B7E_2ADA_0C2B_41BF_BD58BAD5C0BD.posterURL = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_poster_fi-FI.jpg
-videolevel_D269ED53_2ADA_0479_41B2_2DC92FFAD15E.url = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_fi-FI.mp4
-videolevel_D269ED53_2ADA_0479_41B2_2DC92FFAD15E.posterURL = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_poster_fi-FI.jpg
-videolevel_D27D5F4E_2ADA_046A_41A5_BD77F0F7F357.url = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_fi-FI.mp4
-videolevel_D27D5F4E_2ADA_046A_41A5_BD77F0F7F357.posterURL = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_poster_fi-FI.jpg
-videolevel_DDB3B7A4_2ADA_04DE_41A4_8B75EA7149AF.url = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_fi-FI.mp4
-videolevel_DDB3B7A4_2ADA_04DE_41A4_8B75EA7149AF.posterURL = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_poster_fi-FI.jpg
-videolevel_DDC1EFD9_2ADA_0469_41A2_8A4F3AD156AA.url = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_fi-FI.mp4
-videolevel_DDC1EFD9_2ADA_0469_41A2_8A4F3AD156AA.posterURL = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_poster_fi-FI.jpg
-videolevel_DDF8F275_2ADA_1C3E_4197_16FA21376B4C.url = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_fi-FI.mp4
-videolevel_DDF8F275_2ADA_1C3E_4197_16FA21376B4C.posterURL = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_poster_fi-FI.jpg
-videolevel_DC5F34D6_2ADA_047A_41BF_848CBC9DFFD6.url = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_fi-FI.mp4
-videolevel_DC5F34D6_2ADA_047A_41BF_848CBC9DFFD6.posterURL = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_poster_fi-FI.jpg
-videolevel_DDCDEBFF_2ADA_0C2A_41BB_3131D79D836F.url = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_fi-FI.mp4
-videolevel_DDCDEBFF_2ADA_0C2A_41BB_3131D79D836F.posterURL = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_poster_fi-FI.jpg
-videolevel_DDCF2DDA_2ADA_046A_41BF_766673388888.url = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_fi-FI.mp4
-videolevel_DDCF2DDA_2ADA_046A_41BF_766673388888.posterURL = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_poster_fi-FI.jpg
-videolevel_D2713125_2ADA_1DDE_41C3_5F0EE79917CB.url = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_fi-FI.mp4
-videolevel_D2713125_2ADA_1DDE_41C3_5F0EE79917CB.posterURL = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_poster_fi-FI.jpg
-videolevel_DD872986_2ADA_0CDB_41BF_A57A386BDB1B.url = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_fi-FI.mp4
-videolevel_DD872986_2ADA_0CDB_41BF_A57A386BDB1B.posterURL = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_poster_fi-FI.jpg
-videolevel_DDFA7475_2ADA_0439_41AB_9BEACC63248A.url = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_fi-FI.mp4
-videolevel_DDFA7475_2ADA_0439_41AB_9BEACC63248A.posterURL = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_poster_fi-FI.jpg
-videolevel_DDFE807F_2ADA_1C2A_41BC_BE70A91D3DA0.url = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_fi-FI.mp4
-videolevel_DDFE807F_2ADA_1C2A_41BC_BE70A91D3DA0.posterURL = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_poster_fi-FI.jpg
-videolevel_DDD541B6_2ADA_7C3B_41B9_EB3A2B937E8E.url = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_fi-FI.mp4
-videolevel_DDD541B6_2ADA_7C3B_41B9_EB3A2B937E8E.posterURL = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_poster_fi-FI.jpg
-videolevel_DDA853C0_2ADA_7C57_41B0_9252C06A1493.url = media/video_F9EAC053_C822_F871_41A8_308A428BF794_fi-FI.mp4
-videolevel_DDA853C0_2ADA_7C57_41B0_9252C06A1493.posterURL = media/video_F9EAC053_C822_F871_41A8_308A428BF794_poster_fi-FI.jpg
+videolevel_90937EB5_B9B2_A04A_41A7_461EA13E627C.url = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_fi-FI.mp4
+videolevel_90937EB5_B9B2_A04A_41A7_461EA13E627C.posterURL = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_poster_fi-FI.jpg
+videolevel_9036AACE_B9B2_A1D9_41D7_9020333293D8.url = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_fi-FI.mp4
+videolevel_9036AACE_B9B2_A1D9_41D7_9020333293D8.posterURL = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_poster_fi-FI.jpg
+videolevel_908CB027_B9B2_A057_41DB_71BDF93E90EC.url = media/video_5194BF8C_3821_A63C_4160_BC283316A882_fi-FI.mp4
+videolevel_908CB027_B9B2_A057_41DB_71BDF93E90EC.posterURL = media/video_5194BF8C_3821_A63C_4160_BC283316A882_poster_fi-FI.jpg
+videolevel_90F81197_B9B2_A077_41E5_AE7C2AA6E681.url = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_fi-FI.mp4
+videolevel_90F81197_B9B2_A077_41E5_AE7C2AA6E681.posterURL = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_poster_fi-FI.jpg
+videolevel_900A5F5C_B9B2_A0F9_4158_264A6848FE80.url = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_fi-FI.mp4
+videolevel_900A5F5C_B9B2_A0F9_4158_264A6848FE80.posterURL = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_poster_fi-FI.jpg
+videolevel_9007A0DE_B9B2_E1F9_41D3_80D7EC2A51A5.url = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_fi-FI.mp4
+videolevel_9007A0DE_B9B2_E1F9_41D3_80D7EC2A51A5.posterURL = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_poster_fi-FI.jpg
+videolevel_9073B25D_B9B2_E0FB_41DA_DAF7E692E42C.url = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_fi-FI.mp4
+videolevel_9073B25D_B9B2_E0FB_41DA_DAF7E692E42C.posterURL = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_poster_fi-FI.jpg
+videolevel_905B2557_B9B2_E0F7_41E1_550689036F12.url = media/video_5A3305C4_485C_AC30_41C5_7094A5888A06_fi-FI.mp4
+videolevel_905B2557_B9B2_E0F7_41E1_550689036F12.posterURL = media/video_5A3305C4_485C_AC30_41C5_7094A5888A06_poster_fi-FI.jpg
+videolevel_9022CC57_B9B2_A0F7_41E6_C65A893FB075.url = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_fi-FI.mp4
+videolevel_9022CC57_B9B2_A0F7_41E6_C65A893FB075.posterURL = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_poster_fi-FI.jpg
+videolevel_90DDB643_B9B2_A0CF_41C0_EC83FF050BD0.url = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_fi-FI.mp4
+videolevel_90DDB643_B9B2_A0CF_41C0_EC83FF050BD0.posterURL = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_poster_fi-FI.jpg
+videolevel_90ABEB99_B9B2_A07B_41D3_438761181DFD.url = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_fi-FI.mp4
+videolevel_90ABEB99_B9B2_A07B_41D3_438761181DFD.posterURL = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_poster_fi-FI.jpg
+videolevel_9E7D5FD1_B9B2_5FCB_41DE_9B47304EB28D.url = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_fi-FI.mp4
+videolevel_9E7D5FD1_B9B2_5FCB_41DE_9B47304EB28D.posterURL = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_poster_fi-FI.jpg
+videolevel_90F4F321_B9B2_A04B_41DA_56C437C2FC57.url = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_fi-FI.mp4
+videolevel_90F4F321_B9B2_A04B_41DA_56C437C2FC57.posterURL = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_poster_fi-FI.jpg
+videolevel_90E014A4_B9B2_A049_41D0_CE22F65E4C6A.url = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_fi-FI.mp4
+videolevel_90E014A4_B9B2_A049_41D0_CE22F65E4C6A.posterURL = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_poster_fi-FI.jpg
+videolevel_906FD3D9_B9B2_E7FB_41D0_C0D4F3ED5457.url = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_fi-FI.mp4
+videolevel_906FD3D9_B9B2_E7FB_41D0_C0D4F3ED5457.posterURL = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_poster_fi-FI.jpg
+videolevel_901E5DD8_B9B2_A3F9_41E6_236D58ECCCB2.url = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_fi-FI.mp4
+videolevel_901E5DD8_B9B2_A3F9_41E6_236D58ECCCB2.posterURL = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_poster_fi-FI.jpg
+videolevel_90A76D32_B9B2_A049_41E6_53527E86CF96.url = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_fi-FI.mp4
+videolevel_90A76D32_B9B2_A049_41E6_53527E86CF96.posterURL = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_poster_fi-FI.jpg
+videolevel_90BFCA24_B9B2_A049_41E2_2CB10F3C6FDA.url = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_fi-FI.mp4
+videolevel_90BFCA24_B9B2_A049_41E2_2CB10F3C6FDA.posterURL = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_poster_fi-FI.jpg
+videolevel_90C917BF_B9B2_AFB7_41D8_859FDEB94666.url = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_fi-FI.mp4
+videolevel_90C917BF_B9B2_AFB7_41D8_859FDEB94666.posterURL = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_poster_fi-FI.jpg
+videolevel_90C5694D_B9B2_A0DB_41E1_8D9425000460.url = media/video_F9EAC053_C822_F871_41A8_308A428BF794_fi-FI.mp4
+videolevel_90C5694D_B9B2_A0DB_41E1_8D9425000460.posterURL = media/video_F9EAC053_C822_F871_41A8_308A428BF794_poster_fi-FI.jpg
 
 ### Video Subtitles
 
