@@ -32,12 +32,12 @@ Astma vaikeuttaa ilman kulkua.
 HotspotPanoramaOverlayTextImage_46E6B4E9_65BD_FEEF_41D5_548F3B0643DD.text = Autan sinua toipumaan.  \
 Jos tarvitset joskus pyörätuolia tai kävelysauvoja, niin autan ja ohjaan myös niiden kanssa kulkemiseen.
 HotspotPanoramaOverlayTextImage_6CDF6BE0_7E21_0F0D_41D0_78BB7B12E1C3.text = Botox
-HotspotPanoramaOverlayTextImage_7F712E71_46A1_EBD2_41B1_E66CDB0D650B.text = Botox1 \
-
 HotspotPanoramaOverlayTextImage_01625C42_B362_C14A_41CE_154544332F45.text = Botox1 \
 
-HotspotPanoramaOverlayTextImage_0163EC43_B362_C14A_41D6_31061C2F2152.text = Botox2
+HotspotPanoramaOverlayTextImage_7F712E71_46A1_EBD2_41B1_E66CDB0D650B.text = Botox1 \
+
 HotspotPanoramaOverlayTextImage_7C9D394A_46A0_E931_41C7_BDC475084313.text = Botox2
+HotspotPanoramaOverlayTextImage_0163EC43_B362_C14A_41D6_31061C2F2152.text = Botox2
 HotspotPanoramaOverlayTextImage_9654B75F_8102_1DE9_41C2_7615CB1E69CA.text = Diabeteksessa haima ei kuitenkaan enää pysty valmistamaan insuliinia 
 HotspotPanoramaOverlayTextImage_6D90093D_7E2F_0B77_41C1_B0F616F0B3B7.text = Diabetes
 HotspotPanoramaOverlayTextImage_91ED1BCA_80DC_BA6E_41DA_379B3A38CFD9.text = Diabetes-sairaus tulee, kun mahassasi oleva elin nimeltä haima ei enää pysty valmistamaan insuliinihormonia.
@@ -46,13 +46,13 @@ HotspotPanoramaOverlayTextImage_D6636C5D_C862_4BE7_41E3_9BAE497E3898.text = Engl
 HotspotPanoramaOverlayTextImage_6F0AC66B_76A5_A70E_41D8_73E306267170.text = English
 HotspotPanoramaOverlayTextImage_A09FE7A0_B7EE_51B2_41E1_C35F5A51E02A.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
+HotspotPanoramaOverlayTextImage_200E6CCA_20E0_49A5_41B3_3AAD76C4FCA6.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
+Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_200FDFC9_20E0_47A7_41A8_278DAC8B2D00.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_200C1608_20E7_D8A5_41BE_EE99CF881A3C.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_20248C0D_2120_C8AB_4156_2D9F56F63226.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
-Se voi tuntua vähän kylmältä. 
-HotspotPanoramaOverlayTextImage_200E6CCA_20E0_49A5_41B3_3AAD76C4FCA6.text = Ennen lääkekorkin laittamista iho puhdistetaan puhdistuslapulla.  \
 Se voi tuntua vähän kylmältä. 
 HotspotPanoramaOverlayTextImage_017F9C3F_B362_C13A_41E2_E6BF99240EA5.text = Ennen toimenpidettä saat lääkekorkin.  \
 Se voidaan laittaa sinulle jo ennen toimenpidettä tai vasta leikkaussalissa
@@ -61,70 +61,70 @@ Tämä aiheuttaa liman muodostumista.
 HotspotPanoramaOverlayTextImage_204AE1E9_007B_7020_414B_715614F9B18F.text = Fysioterapeutin huone
 HotspotPanoramaOverlayTextImage_59C14B63_46E0_A9C4_41AE_FD4B40933A2D.text = Fysioterapeutti
 HotspotPanoramaOverlayTextImage_0171CC33_B362_C0CA_41D7_FF76AF0DF4C1.text = Fysioterapeutti 
-HotspotPanoramaOverlayTextImage_017E3C3E_B362_C13A_41E0_D5791A972A85.text = Fysioterapeutti tai toimintaterapeutti tekee tutkimusta varten mittauksia jaloistasi tai käsistäsi.
 HotspotPanoramaOverlayTextImage_6809C2CC_46A0_F8CF_4185_60D92A3DAE5C.text = Fysioterapeutti tai toimintaterapeutti tekee tutkimusta varten mittauksia jaloistasi tai käsistäsi.
+HotspotPanoramaOverlayTextImage_017E3C3E_B362_C13A_41E0_D5791A972A85.text = Fysioterapeutti tai toimintaterapeutti tekee tutkimusta varten mittauksia jaloistasi tai käsistäsi.
 HotspotPanoramaOverlayTextImage_01792C3A_B362_C13A_41E3_7EEA99C1EAC5.text = Fysioterapeuttisi tai toimintaterapeuttisi haluaa videoida kävelyäsi tai käsiesi käyttöä, jotta hän osaa arvioida kuinka paljon tukea tarvitset. 
 HotspotPanoramaOverlayTextImage_B7291670_86B5_84D2_41D2_B544967A7B79.text = Fysioterapeuttisi tai toimintaterapeuttisi haluaa videoida kävelyäsi tai käsiesi käyttöä, jotta hän osaa arvioida kuinka paljon tukea tarvitset. 
-HotspotPanoramaOverlayTextImage_D0F5BC79_C823_CB93_41DF_14C67E7CD65C.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_20248BFE_2120_CF69_4184_459C9C60D101.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_FE2B0525_D891_F5A0_41CC_E0BD244FA54C.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_FD3DC2B1_D890_ACA0_41E8_FF512710DE44.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_F013405F_D890_ABE0_41BC_6EFD49B75C64.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_B1DA0F88_D861_BF29_41BB_A0FFD3745CD5.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_2030495C_2120_48AD_41BD_AFCD6F9E8504.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_202F995A_2120_C8B5_41A3_FC5069674666.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_FD3DC2B1_D890_ACA0_41E8_FF512710DE44.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_8E126725_2A5A_0433_41BE_598C074ECC8C.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B1CBEF48_D826_5F18_419E_D047C050DCC1.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B08DBA53_D8E3_E105_41A3_2C6196C79973.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_9A93851E_4763_991F_41AE_A868FE8D163C.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_3894D7E2_4276_A330_417A_30B32702F824.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_780C68EF_B812_5E1E_41DB_5974B1A9C827.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_443B0B3D_4BD2_3F19_41A6_F500FF245BA3.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_2E37E915_4CDA_097C_41CC_94B63F994691.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_20248BFE_2120_CF69_4184_459C9C60D101.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_D0F5BC79_C823_CB93_41DF_14C67E7CD65C.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_202F995A_2120_C8B5_41A3_FC5069674666.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_DD572253_00B9_7055_4165_CD2A7D7336DB.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_433D5C29_D261_7E36_41CF_EFE49958D57A.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_9511D69D_533C_9D77_41B0_A031EEF3911C.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_98688767_5334_9BD3_41CB_D80E0433E033.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_200C15F8_20E7_DB65_41AD_967A6799A5E0.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_F9B46D2B_4761_E93A_41CF_1F78C8AB5C14.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_B014DE58_D86E_6128_41E6_503FCF9B21B7.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_B06164BD_D861_E16C_41E8_9B805BBE33A4.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_9511D69D_533C_9D77_41B0_A031EEF3911C.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_200FDFB9_20E0_47E7_41AB_8DDAAD6CF800.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_98688767_5334_9BD3_41CB_D80E0433E033.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_28BDC0E4_562A_960F_41D3_64BF72776C00.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_EF723BE5_AE31_7D87_41C8_1BA457695561.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_A69CD12A_B366_4331_41E3_FE7316F31962.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_FCEDF989_B39D_C3D7_41D2_EB36E3E4567A.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_D7C33B2F_FE8E_BF8E_41E8_6019BCE309B4.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_AB3C98BC_EA1F_7776_41E4_46CC47D17AD2.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_0160DC48_B362_C146_41E3_2A4595171376.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B13AD5CC_D8E1_A300_41C1_282B03D83A86.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_00BCE117_B362_40CB_41DB_37FB3439B7B7.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B0A6626C_D8E2_6101_41D8_AF19A70B05B6.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_798316A4_B4A6_C1FA_41C6_2AE55E7B18EF.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B8B7643D_B7F6_D60B_41D4_DF44C262E7B5.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_BBE5887A_D823_E1F1_41D0_6575F954DBB0.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_59E893AA_00AF_302A_4153_E39452F06055.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_EB562615_1F27_D8DF_41A1_36CBD55DE1A8.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B1D6A3BA_D82E_E77E_41E7_F7CFB9E0EE42.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_85242792_0099_10CF_4151_6F6A3EE82511.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_200E6CBA_20E0_49E5_41AE_28478B905F86.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B95C7253_B832_B241_41CF_B8605F907A14.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_FE2B0525_D891_F5A0_41CC_E0BD244FA54C.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_7262ADC8_BEF0_BB09_41DE_D62EDCAFC8E5.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B1E35A84_D822_A10F_41C4_E472DC5C7F7A.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_28BDC0E4_562A_960F_41D3_64BF72776C00.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_9A93851E_4763_991F_41AE_A868FE8D163C.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_200FDFB9_20E0_47E7_41AB_8DDAAD6CF800.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_B1F7DEA8_D827_A11E_41D3_4A3860FF0C24.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_433D5C29_D261_7E36_41CF_EFE49958D57A.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_10DC505E_006B_101B_4138_99AC80790A88.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_B1C4D126_D823_A315_41EB_336AB23E18AE.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_F9B46D2B_4761_E93A_41CF_1F78C8AB5C14.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_200C15F8_20E7_DB65_41AD_967A6799A5E0.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_C6416313_00A9_31DB_4162_B7B4D63640E7.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_3894D7E2_4276_A330_417A_30B32702F824.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_0160DC48_B362_C146_41E3_2A4595171376.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_59E893AA_00AF_302A_4153_E39452F06055.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B1CBEF48_D826_5F18_419E_D047C050DCC1.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_85242792_0099_10CF_4151_6F6A3EE82511.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_A22B48EF_00FB_305D_4162_A61B4767581A.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_B25E9781_00E9_F0C1_415E_96A10AAE3EDC.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_F013405F_D890_ABE0_41BC_6EFD49B75C64.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_EF723BE5_AE31_7D87_41C8_1BA457695561.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_A69CD12A_B366_4331_41E3_FE7316F31962.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_10DC505E_006B_101B_4138_99AC80790A88.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_BBE5887A_D823_E1F1_41D0_6575F954DBB0.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_C6416313_00A9_31DB_4162_B7B4D63640E7.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_D7C33B2F_FE8E_BF8E_41E8_6019BCE309B4.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_FCEDF989_B39D_C3D7_41D2_EB36E3E4567A.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B13AD5CC_D8E1_A300_41C1_282B03D83A86.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B1E35A84_D822_A10F_41C4_E472DC5C7F7A.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_200E6CBA_20E0_49E5_41AE_28478B905F86.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_AB3C98BC_EA1F_7776_41E4_46CC47D17AD2.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B08DBA53_D8E3_E105_41A3_2C6196C79973.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_443B0B3D_4BD2_3F19_41A6_F500FF245BA3.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B1C4D126_D823_A315_41EB_336AB23E18AE.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_2E37E915_4CDA_097C_41CC_94B63F994691.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_B1D07AEE_D822_6118_41D6_6A06617109A3.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_753E202F_1F21_B8D4_41A1_8A4123822FFB.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_DD572253_00B9_7055_4165_CD2A7D7336DB.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B95C7253_B832_B241_41CF_B8605F907A14.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_00BCE117_B362_40CB_41DB_37FB3439B7B7.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B0A6626C_D8E2_6101_41D8_AF19A70B05B6.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_EB562615_1F27_D8DF_41A1_36CBD55DE1A8.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_1FE9C0C9_1F20_B9B4_41B1_4E16D8CD7FA2.text = Haluatko varmasti poistua aloitus ruutuun?
-HotspotPanoramaOverlayTextImage_200FDFBF_20E0_47DB_41BC_5B95BF373C23.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
-HotspotPanoramaOverlayTextImage_20248C03_2120_C89F_41BE_A69CD74D757A.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
-HotspotPanoramaOverlayTextImage_B5407463_0600_D40D_418C_7EE7AC377431.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
-HotspotPanoramaOverlayTextImage_200C15FE_20E7_DB5D_419F_309417B20E52.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_780C68EF_B812_5E1E_41DB_5974B1A9C827.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_753E202F_1F21_B8D4_41A1_8A4123822FFB.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B8B7643D_B7F6_D60B_41D4_DF44C262E7B5.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_798316A4_B4A6_C1FA_41C6_2AE55E7B18EF.text = Haluatko varmasti poistua aloitus ruutuun?
+HotspotPanoramaOverlayTextImage_B1D6A3BA_D82E_E77E_41E7_F7CFB9E0EE42.text = Haluatko varmasti poistua aloitus ruutuun?
 HotspotPanoramaOverlayTextImage_200E6CC0_20E0_49A5_41B1_AB8C69DDCA3E.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_200FDFBF_20E0_47DB_41BC_5B95BF373C23.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_200C15FE_20E7_DB5D_419F_309417B20E52.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_B5407463_0600_D40D_418C_7EE7AC377431.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
+HotspotPanoramaOverlayTextImage_20248C03_2120_C89F_41BE_A69CD74D757A.text = Halutessasi voit maata sängyllä tai istua vanhemman sylissä.
 HotspotPanoramaOverlayTextImage_A7B9F4EE_D990_94F2_41E6_B931C4B3DBEE.text = Happi on ylimääräistä raitista ilmaa.  \
 Happi helpottaa hengittämistä.  \
 Keho tarvitsee happea voidakseen hyvin. 
@@ -132,8 +132,8 @@ HotspotPanoramaOverlayTextImage_B3376348_D990_EDCC_4186_D3B6CB689764.text = Happ
 Katso videolta, miten se tehdään.
 HotspotPanoramaOverlayTextImage_BCCFDEA7_8176_84D0_41D1_A9E09CD2168F.text = Hei, ja tervetuloa Mobile Hospital kierrokselle.
 HotspotPanoramaOverlayTextImage_C9D743AF_FE8D_8EA5_41D3_D5F29A0D3798.text = Hei, ja tervetuloa Mobile Hospital kierrokselle.
-HotspotPanoramaOverlayTextImage_A696612F_B366_430F_41E4_9828AF1BE93B.text = Hei, olet tulossa botox hoitoon
 HotspotPanoramaOverlayTextImage_FCEF798B_B39D_C3EB_41E4_44A6C8620CA4.text = Hei, olet tulossa botox hoitoon
+HotspotPanoramaOverlayTextImage_A696612F_B366_430F_41E4_9828AF1BE93B.text = Hei, olet tulossa botox hoitoon
 HotspotPanoramaOverlayTextImage_8065E87C_85EE_7848_41D7_C8F21CAF3677.text = Hei, tulit takaisin kipsin poistoon!
 HotspotPanoramaOverlayTextImage_D9D6B3D6_561E_FA02_41CC_8C66637BCD4B.text = Heippa!  \
 Minä olen fysioterapeutti.  \
@@ -149,16 +149,16 @@ HotspotPanoramaOverlayTextImage_B1CB1D62_D997_B5FD_41C9_93290E588696.text = Heng
 HotspotPanoramaOverlayTextImage_B8072DD4_D970_B4C3_41D0_6AF157C81A68.text = Hengität lääkkeitä, jotka auttavat avaamaan ahtaita hengitysteitä.  \
 Se helpottaa hengitystä.  \
 Kun tunnet olosi paremmaksi, voit mennä kotiin. 
-HotspotPanoramaOverlayTextImage_8BD66785_BD70_975F_41DE_5066D19DF328.text = Hengität suuria, syviä hengityksiä niin, että kehosi on täynnä happea. 
 HotspotPanoramaOverlayTextImage_1FE9C0E1_1F20_B974_41B6_99E463DDADC2.text = Hengität suuria, syviä hengityksiä niin, että kehosi on täynnä happea. 
+HotspotPanoramaOverlayTextImage_8BD66785_BD70_975F_41DE_5066D19DF328.text = Hengität suuria, syviä hengityksiä niin, että kehosi on täynnä happea. 
 HotspotPanoramaOverlayTextImage_84D29A31_D98F_9F43_41B2_820786F5B337.text = Hengität syvään ja pidätät hengitystä niin kauan kuin pystyt.  \
 Pian alat tuntea olosi paremmaksi.  \
 Katso videolta, miten se tehdään. 
-HotspotPanoramaOverlayTextImage_200E6CC5_20E0_49AF_41BC_9C4C8EF3F632.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
+HotspotPanoramaOverlayTextImage_A285C0BA_B7F5_CF8B_41D3_E20277889B21.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
 HotspotPanoramaOverlayTextImage_200FDFC4_20E0_47AD_41AB_6AE3B42EAC5B.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
 HotspotPanoramaOverlayTextImage_20248C08_2120_C8A9_41BB_0189B5D72DF0.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
 HotspotPanoramaOverlayTextImage_200C1604_20E7_D8AD_4196_463FB5C1B0F7.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
-HotspotPanoramaOverlayTextImage_A285C0BA_B7F5_CF8B_41D3_E20277889B21.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
+HotspotPanoramaOverlayTextImage_200E6CC5_20E0_49AF_41BC_9C4C8EF3F632.text = Hihna auttaa tekemään verisuonista näkyvämpiä.
 HotspotPanoramaOverlayTextImage_57D14DB9_4BF2_78DC_41BC_3145CD139A6B.text = Hoitaja laittaa kasvoillesi maskin, jonka kautta saat hengitellä ilokaasua. 
 HotspotPanoramaOverlayTextImage_7977396B_659B_F7E0_41C4_838835253D5C.text = Huolehdin, että saat syömistä ja juomista. \
 Varmistan myös, että sinulla ja vanhemmillasi on hyvä ja turvallinen olo. \
@@ -169,17 +169,18 @@ HotspotPanoramaOverlayTextImage_C9D683B1_FE8D_8EBD_41D6_7C5CF10AC490.text = Hyv�
 HotspotPanoramaOverlayTextImage_B9DB541A_82B5_843A_41D2_5463B87E75CB.text = Hyvä, pystyt katsomaan ympärillesi vetämällä hiirellä.
 HotspotPanoramaOverlayTextImage_A6BF444E_00F9_105F_4160_9A4D06F7E0A8.text = Hän on kiinnostunut, mitä sinulle kuuluu
 HotspotPanoramaOverlayTextImage_6CED75F7_7E2F_1AF3_41C1_FDBFB4DD7E1C.text = ICU
+HotspotPanoramaOverlayTextImage_9FC48FAD_04EC_EE28_4180_096E7489FD35.text = Ilokaasu
 HotspotPanoramaOverlayTextImage_9EF1A468_94B4_FC59_41E7_5AB920C1C6A8.text = Ilokaasu
 HotspotPanoramaOverlayTextImage_1FE9C0E4_1F20_B97C_41BD_B19433DC2514.text = Imulaitetta käytetään syljen poistamiseen suusta nukkuessasi.  \
 Kuulostaa samalta, kuin tuuli puhaltaisi ulkona.
 HotspotPanoramaOverlayTextImage_886C3952_BD71_BBF4_41D3_3C1A7CE970BF.text = Imulaitetta käytetään syljen poistamiseen suusta nukkuessasi.  \
 Kuulostaa samalta, kuin tuuli puhaltaisi ulkona.
+HotspotPanoramaOverlayTextImage_B19E4506_46A1_9EDD_41B5_E7D8FE62F90A.text = Infoa vanhemmille
+HotspotPanoramaOverlayTextImage_6E13CD72_4BCE_D860_41CB_78934C5129EE.text = Infoa vanhemmille
+HotspotPanoramaOverlayTextImage_00BFD113_B362_40CB_41D7_AD83C70E79F0.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_0B4A65CB_4CDE_18E6_41C9_EAD71B25AE71.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_59D44A7B_421F_EDC7_41AA_791FEE757B47.text = Infoa vanhemmille
-HotspotPanoramaOverlayTextImage_B19E4506_46A1_9EDD_41B5_E7D8FE62F90A.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_DEF5F232_4212_9D3F_41C3_2EA6A0FC9508.text = Infoa vanhemmille
-HotspotPanoramaOverlayTextImage_00BFD113_B362_40CB_41D7_AD83C70E79F0.text = Infoa vanhemmille
-HotspotPanoramaOverlayTextImage_6E13CD72_4BCE_D860_41CB_78934C5129EE.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_331498E3_5679_961B_41D3_0416FE96549B.text = Infoa vanhemmille
 HotspotPanoramaOverlayTextImage_857BE1DC_D970_ECC2_41C1_F4D239139242.text = Inhalaattori sisältää lääkkeitä, jotka auttavat avaamaan hengitysteitä.  \
 Ensin hengität ulos tyhjentääksesi keuhkosi, sitten asetat suukappaleen huulten väliin.
@@ -197,17 +198,17 @@ Silloin sairaalaan ei tarvitse jäädä yöksi.
 HotspotPanoramaOverlayTextImage_8E638DCC_D970_94DF_41B2_ED6615C556EE.text = Jos hengitystiesi ovat ahtautuneet, voi tuntua vaikealta hengittää.  \
 Tämä voi tapahtua esimerkiksi, jos sinulla on kova flunssa tai astma. 
 HotspotPanoramaOverlayTextImage_397FADA8_4212_E731_41B4_77525A610DC7.text = Jos kipsi painaa, murtuma kohta on kovin kipeä tai kipsi menee rikki, vanhempasi voivat ottaa yhteyttä sairaalaan. 
-HotspotPanoramaOverlayTextImage_B1B553E3_8153_BD0A_41CF_C9B2B35DD920.text = Jos kipsisi on ns. Umpikipsi, halkaistaan se sitten kun sinun ei tarvitse käyttää sitä enää
 HotspotPanoramaOverlayTextImage_00BFE10D_B362_40DF_41DF_FDCEDC5C68BC.text = Jos kipsisi on ns. Umpikipsi, halkaistaan se sitten kun sinun ei tarvitse käyttää sitä enää
+HotspotPanoramaOverlayTextImage_B1B553E3_8153_BD0A_41CF_C9B2B35DD920.text = Jos kipsisi on ns. Umpikipsi, halkaistaan se sitten kun sinun ei tarvitse käyttää sitä enää
 HotspotPanoramaOverlayTextImage_9B51ED8B_976C_6C01_41E2_3F039BD7B43B.text = Jos kuvat otetaan päästäsi, hoitaja laittaa pääsi ympärille muovisen kehyksen.
 HotspotPanoramaOverlayTextImage_20CE7A51_5679_8A36_41B7_B637B5DCBD54.text = Jos lapsen pää heiluu tai lapsi liikkuu paljon, lääkärin on vaikea lukea aivokäyrää.
 HotspotPanoramaOverlayTextImage_AB2198B6_EA1F_7772_41D5_C42B2D793912.text = Jos röntgenkameralla halutaan kuva keuhkoistasi, sinun pitää halata valoruutua ja pysyä ihan paikoillaan.  \
 Kuvaus ei tunnu yhtään.
-HotspotPanoramaOverlayTextImage_200C160D_20E7_D8BF_41AF_06B8BA213572.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
-HotspotPanoramaOverlayTextImage_A530D0CE_B816_4F8E_41D5_A5C083BCF30F.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
-HotspotPanoramaOverlayTextImage_200E6CCE_20E0_49BD_41A9_9132D8344742.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
 HotspotPanoramaOverlayTextImage_20248C11_2120_C8BB_41B4_C9D286B87A41.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
+HotspotPanoramaOverlayTextImage_200E6CCE_20E0_49BD_41A9_9132D8344742.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
 HotspotPanoramaOverlayTextImage_200FDFCE_20E0_47BD_419B_318A3E459E83.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
+HotspotPanoramaOverlayTextImage_A530D0CE_B816_4F8E_41D5_A5C083BCF30F.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
+HotspotPanoramaOverlayTextImage_200C160D_20E7_D8BF_41AF_06B8BA213572.text = Jos sinua jännittää, voit halutessasi leikkiä taikasauvalla tai laittaa silmät kiinni ja kuvitella jotain tosi kivoja asioita. 
 HotspotPanoramaOverlayTextImage_E7377DF7_D8B0_94B8_41EA_E4AE11C6FE83.text = Jos sinun on erittäin vaikea hengittää, sinut siirretään huoneeseen, jota kutsutaan tehohoitohuoneeksi. 
 HotspotPanoramaOverlayTextImage_9810B084_D8B0_EB59_41E4_4F66CFF71130.text = Jos sinun on vaikea hengittää, sinun on mentävä sairaalaan saadaksesi apua.
 HotspotPanoramaOverlayTextImage_44EDB883_6587_D523_41D1_7C4A21FA25DF.text = Jos tarvitset apuvälineitä päivittäisissä askareissasi, minä autan sinua sopivien löytämisessä. 
@@ -215,46 +216,44 @@ HotspotPanoramaOverlayTextImage_767BACE5_658F_ACD0_41CF_78DD22B94ADE.text = Jos 
 HotspotPanoramaOverlayTextImage_7F77F781_659F_7B22_41C7_4F9A4A22FE52.text = Jos tarvitset lääkkeitä, tuon ne sinulle ja autan sinua ottamaan ne.  \
 Pidän huolta siitä, että sinulla ei olisi kipuja.
 HotspotPanoramaOverlayTextImage_54D0ABF1_7B3E_4905_4171_F5E53908DE1D.text = Joskus kätesi tai jalkasi voi vääntyä huonoon asentoon tai olet saanut niihin jonkun iskun.
-HotspotPanoramaOverlayTextImage_200FDFD7_20E0_47AB_4196_8524562CC4A7.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
-HotspotPanoramaOverlayTextImage_200E6CD7_20E0_49AB_41A6_0108CE043E54.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
 HotspotPanoramaOverlayTextImage_200C1616_20E7_D8AD_41B6_4964A2917533.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
-HotspotPanoramaOverlayTextImage_9CE772C7_B812_73F1_41B0_03A6FB684082.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
 HotspotPanoramaOverlayTextImage_20248C1A_2120_C8A9_4193_9D392882B807.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
+HotspotPanoramaOverlayTextImage_9CE772C7_B812_73F1_41B0_03A6FB684082.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
+HotspotPanoramaOverlayTextImage_200E6CD7_20E0_49AB_41A6_0108CE043E54.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
+HotspotPanoramaOverlayTextImage_200FDFD7_20E0_47AB_4196_8524562CC4A7.text = Joskus lääke annostellaan lääkekorkkiin tällaisen lääkepumpun kautta. 
 HotspotPanoramaOverlayTextImage_973191A4_EA09_193F_41EB_3D1EC68CA34F.text = Joskus meidän on nähtävä, miltä keho näyttää sisältä, jotta tiedetään, miten sinua hoidetaan.  \
 Tämä voidaan tehdä röntgenlaitteen avulla.
 HotspotPanoramaOverlayTextImage_EAAEC129_EA1B_76D8_41EB_09422CB841CB.text = Joskus murtuma saadaan hoidettua pelkällä kipsillä. Joskus se pitää korjata leikkaussalissa
 HotspotPanoramaOverlayTextImage_B9421D75_D990_95C0_41E3_950165CE390F.text = Joskus saatat joutua lepäämään hetken ja tekemään sen uudelleen.  \
 Tunnet olosi yleensä paljon paremmaksi jälkeenpäin.  \
 Katso videolta, miten se tehdään.
-HotspotPanoramaOverlayTextImage_1FE9C0E7_1F20_B97C_418B_19D14DE17F1B.text = Joskus side on kova.  \
-Tällaista sidettä kutsutaan kipsiksi.
 HotspotPanoramaOverlayTextImage_8A71F183_BD6F_AB55_41E0_263D872955D7.text = Joskus side on kova.  \
+Tällaista sidettä kutsutaan kipsiksi.
+HotspotPanoramaOverlayTextImage_1FE9C0E7_1F20_B97C_418B_19D14DE17F1B.text = Joskus side on kova.  \
 Tällaista sidettä kutsutaan kipsiksi.
 HotspotPanoramaOverlayTextImage_8179D5E9_95B4_5CA1_4184_E0424910E332.text = Joskus sinulle pitää antaa lääkettä kuvauksen aikana ja silloin käteesi laitetaan lääkekorkki.
 HotspotPanoramaOverlayTextImage_E77E8480_D8B1_AB58_41BB_F15DEE664195.text = Joskus sinun on jäätävä sairaalaan yöksi, jos hengittäminen tuntuu vaikealta.
-HotspotPanoramaOverlayTextImage_20248C02_2120_C899_41B4_E1106D352358.text = Joskus tarvitset lääkekorkin käteesi. \
-Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
 HotspotPanoramaOverlayTextImage_200E6CBE_20E0_49DD_418A_EDB5C35C01D4.text = Joskus tarvitset lääkekorkin käteesi. \
 Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
-HotspotPanoramaOverlayTextImage_200FDFBE_20E0_47DD_41B3_B4B0B98B1D64.text = Joskus tarvitset lääkekorkin käteesi. \
+HotspotPanoramaOverlayTextImage_20248C02_2120_C899_41B4_E1106D352358.text = Joskus tarvitset lääkekorkin käteesi. \
 Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
 HotspotPanoramaOverlayTextImage_B8A0644D_B7F6_D60B_41E0_E49D36711534.text = Joskus tarvitset lääkekorkin käteesi. \
 Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
 HotspotPanoramaOverlayTextImage_200C15FD_20E7_DB5F_41B0_946A7F1D2291.text = Joskus tarvitset lääkekorkin käteesi. \
 Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
-HotspotPanoramaOverlayTextImage_20248C05_2120_C89B_41AB_216154A231CC.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
-Se tekee ihostasi tunnottoman.
+HotspotPanoramaOverlayTextImage_200FDFBE_20E0_47DD_41B3_B4B0B98B1D64.text = Joskus tarvitset lääkekorkin käteesi. \
+Lääkekorkissa on pieni muoviputki, joka laitetaan verisuoneen. 
 HotspotPanoramaOverlayTextImage_B8A0944E_B7F6_D609_41E2_3F5C86312E51.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
-Se tekee ihostasi tunnottoman.
-HotspotPanoramaOverlayTextImage_200E6CC2_20E0_49A5_41BD_F3C814C9536D.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
-Se tekee ihostasi tunnottoman.
-HotspotPanoramaOverlayTextImage_200C1600_20E7_D8A5_41AD_3571FEEED5D8.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
 Se tekee ihostasi tunnottoman.
 HotspotPanoramaOverlayTextImage_200FDFC1_20E0_47A7_4193_8AD45124D571.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
 Se tekee ihostasi tunnottoman.
+HotspotPanoramaOverlayTextImage_200E6CC2_20E0_49A5_41BD_F3C814C9536D.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
+Se tekee ihostasi tunnottoman.
+HotspotPanoramaOverlayTextImage_20248C05_2120_C89B_41AB_216154A231CC.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
+Se tekee ihostasi tunnottoman.
+HotspotPanoramaOverlayTextImage_200C1600_20E7_D8A5_41AD_3571FEEED5D8.text = Jotta lääkekorkin laittaminen ei sattuisi, käteesi laitetaan puuduttavaa taikarasvaa.  \
+Se tekee ihostasi tunnottoman.
 HotspotPanoramaOverlayTextImage_200C1607_20E7_D8AB_41AE_8EF9EC683F4B.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
-Yritä olla ihan paikoillaan. 
-HotspotPanoramaOverlayTextImage_200E6CC8_20E0_49A5_41B4_627DAD40BCC9.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
 Yritä olla ihan paikoillaan. 
 HotspotPanoramaOverlayTextImage_200FDFC7_20E0_47AB_4194_BFB1BEA274D4.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
 Yritä olla ihan paikoillaan. 
@@ -262,25 +261,28 @@ HotspotPanoramaOverlayTextImage_AF0012D8_B7F2_F395_41D4_90ACCF662056.text = Jott
 Yritä olla ihan paikoillaan. 
 HotspotPanoramaOverlayTextImage_20248C0B_2120_C8AF_41B7_FFD240357164.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
 Yritä olla ihan paikoillaan. 
+HotspotPanoramaOverlayTextImage_200E6CC8_20E0_49A5_41B4_627DAD40BCC9.text = Jotta lääkekorkki saadaan hyvin paikoilleen, hoitaja tai lääkäri pitää kädestä tukevasti kiinni.  \
+Yritä olla ihan paikoillaan. 
 HotspotPanoramaOverlayTextImage_871DE57E_D970_95BD_417C_4AD5AF8677D2.text = Jotta saadaan tietää, onko sinulla astma, sinulle tehdään spirometriatesti.
 HotspotPanoramaOverlayTextImage_370289D8_4231_EF0C_41D0_363C90185B95.text = Jumppaa saamiesi ohjeiden mukaan, opit kyllä leikkimään ja liikkumaan kipsisi kanssa. 
 HotspotPanoramaOverlayTextImage_94C01634_8102_1FC5_41CA_A50374531E64.text = KUVA
+HotspotPanoramaOverlayTextImage_750FB03D_1F21_B934_41B1_B7918046FEA9.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
 HotspotPanoramaOverlayTextImage_64AA0DCF_B812_D607_41D9_AEC58FDA1D9A.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
 HotspotPanoramaOverlayTextImage_43130C36_D261_7E1A_41E2_3E04D52006BE.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
-HotspotPanoramaOverlayTextImage_750FB03D_1F21_B934_41B1_B7918046FEA9.text = Kaikkien lääkärien ja hoitajien on oltava täysin varma siitä, että he hoitavat oikeaa henkilöä.
-HotspotPanoramaOverlayTextImage_3953632D_7B2E_B82A_41DD_35D9AD707508.text = Kameraa voidaan liikuttaa huoneessa, jos kuvaa ei oteta sängyn vieressä.
 HotspotPanoramaOverlayTextImage_AB27E8B1_EA1F_770E_41E1_2AE5E75E5B61.text = Kameraa voidaan liikuttaa huoneessa, jos kuvaa ei oteta sängyn vieressä.
+HotspotPanoramaOverlayTextImage_3953632D_7B2E_B82A_41DD_35D9AD707508.text = Kameraa voidaan liikuttaa huoneessa, jos kuvaa ei oteta sängyn vieressä.
 HotspotPanoramaOverlayTextImage_AB2D03C2_46A1_9957_419A_08BDB7005E09.text = Kannattaa itkeä yhdessä, kun itkettää ja nauraa yhdessä, kun naurattaa. 
 HotspotPanoramaOverlayTextImage_9F041D48_531C_EFC4_41B6_0E10FFA771D0.text = Kasvoille ja iholle tulee myös tarroja, ne eivät satu.
 HotspotPanoramaOverlayTextImage_DD5EC256_00B9_705F_4164_B29DA0BADC56.text = Kasvun seurantaan käytetään erilaisia laitteita. 
 HotspotPanoramaOverlayTextImage_080EECD7_2E00_3E06_41B3_F826316E8014.text = Katsotaan laitetta!
+HotspotPanoramaOverlayTextImage_2D64C1C9_5626_B619_41CF_C62481E12B4D.text = Keitä sairaalassa työskentelee?
 HotspotPanoramaOverlayTextImage_6C3CCAAE_4233_6D63_419B_214FE44EBCC7.text = Kertoessa kannattaa käyttää tuttuja sanoja ja pyrkiä mahdollisimman yksinkertaisiin selityksiin.  \
 Lapset, joille on etukäteen kerrottu, tutkimuksista ja toimenpiteistä, kokevat vähemmän pelkoa, jännitystä ja stressiä.
 HotspotPanoramaOverlayTextImage_6F36ADC2_7E23_0B12_41DC_127350619908.text = Kielen Valinta
-HotspotPanoramaOverlayTextImage_8E155713_2A5A_0417_41C3_F3B1CF70BDEE.text = Kipsauksessa tarvitaan seuraavia välineitä.
 HotspotPanoramaOverlayTextImage_90FEBC9F_7ADF_C4AE_41CF_0C8CBB40783F.text = Kipsauksessa tarvitaan seuraavia välineitä.
-HotspotPanoramaOverlayTextImage_DF8F401D_7AEA_5B6F_418D_87A49362F05E.text = Kipsi on eräänlainen side, joka kastetaan ensin veteen ja asetetaan sitten murtuneen jalan tai käden ympärille. 
+HotspotPanoramaOverlayTextImage_8E155713_2A5A_0417_41C3_F3B1CF70BDEE.text = Kipsauksessa tarvitaan seuraavia välineitä.
 HotspotPanoramaOverlayTextImage_8E1A470B_2A5A_05F7_41BC_AE9831AA2FF0.text = Kipsi on eräänlainen side, joka kastetaan ensin veteen ja asetetaan sitten murtuneen jalan tai käden ympärille. 
+HotspotPanoramaOverlayTextImage_DF8F401D_7AEA_5B6F_418D_87A49362F05E.text = Kipsi on eräänlainen side, joka kastetaan ensin veteen ja asetetaan sitten murtuneen jalan tai käden ympärille. 
 HotspotPanoramaOverlayTextImage_7C0A1D18_7D25_C5DD_41D7_D7E5953F2C7D.text = Kipsi voidaan poistaa kipsisaksilla.
 HotspotPanoramaOverlayTextImage_07E2A792_1F60_471A_41AC_DF41DE388A77.text = Kipsin laiton jälkeen saat lähteä kotiin sairaalasta.
 HotspotPanoramaOverlayTextImage_7C0BF3BE_7D3A_5CD3_41DB_ED4EB2E03425.text = Kipsin poistaminen ei satu, mutta jalka tai käsi tuntuu poiston jälkeen erilaiselta, kun sen suojana monta viikkoa ollut kipsi poistetaan.
@@ -288,15 +290,15 @@ HotspotPanoramaOverlayTextImage_7C1013AA_7D25_DCF6_41D4_4392D98DFEB4.text = Kips
 HotspotPanoramaOverlayTextImage_3E833A1D_1F20_C910_4193_A8005C184949.text = Kipsin poiston jälkeen pääset kotiin
 HotspotPanoramaOverlayTextImage_00B89102_B362_40C5_41CA_BF15340E40D9.text = Kipsin sinulle tekee joko fysioterapeutti tai toimintaterapeutti, jonka tapasit jo aiemmin.
 HotspotPanoramaOverlayTextImage_B643DF47_8176_85F8_41B5_DAE42130598A.text = Kipsin sinulle tekee joko fysioterapeutti tai toimintaterapeutti, jonka tapasit jo aiemmin.
-HotspotPanoramaOverlayTextImage_BC06ECB9_814F_8B08_41D2_8D5071C50058.text = Kipsisaha halkaisee vain kipsin se ei kosketa ihoasi tai satu, vaikka se pitääkin kovaa ääntä.
 HotspotPanoramaOverlayTextImage_00BEC10E_B362_40DD_41D9_07C0BCCCF77D.text = Kipsisaha halkaisee vain kipsin se ei kosketa ihoasi tai satu, vaikka se pitääkin kovaa ääntä.
+HotspotPanoramaOverlayTextImage_BC06ECB9_814F_8B08_41D2_8D5071C50058.text = Kipsisaha halkaisee vain kipsin se ei kosketa ihoasi tai satu, vaikka se pitääkin kovaa ääntä.
 HotspotPanoramaOverlayTextImage_7C0E9CC4_7D3A_C4B1_41C8_B83845029FD6.text = Kipsisaha pitää kovaa ääntä, mutta voit pitää kuulokkeita ja kuunnella musiikkia samanaikaisesti.
 HotspotPanoramaOverlayTextImage_7C0DF4D9_7D3E_4450_41A5_5CFE1A37D963.text = Kipsisaha voi vaikuttaa pelottavalta, mutta se ei satuta sinua. Sen ääni on kova – kuuntele. 
 HotspotPanoramaOverlayTextImage_7C0D0BBE_7D3F_CCD0_41C4_AAB36133A10B.text = Kipsisahaa tarvitaan joskus kovan kipsin poistoon.
-HotspotPanoramaOverlayTextImage_00B80106_B362_40CD_41E2_1391D6CBB29D.text = Kipsisi voi olla irroitettava, jolloin voit ottaa kipsin välillä pois.
 HotspotPanoramaOverlayTextImage_B1E202A8_814D_9F56_41B9_2841D869D090.text = Kipsisi voi olla irroitettava, jolloin voit ottaa kipsin välillä pois.
-HotspotPanoramaOverlayTextImage_B08ECFFD_8152_84CC_41D2_33FDA78F5587.text = Kipsisi voi olla myös Umpikipsi, mikä tarkoittaa, että kipsi on paikallaan koko ajan ja voit myös nukkua sen kanssa 
+HotspotPanoramaOverlayTextImage_00B80106_B362_40CD_41E2_1391D6CBB29D.text = Kipsisi voi olla irroitettava, jolloin voit ottaa kipsin välillä pois.
 HotspotPanoramaOverlayTextImage_00BEE109_B362_40C7_41E2_880247155BFA.text = Kipsisi voi olla myös Umpikipsi, mikä tarkoittaa, että kipsi on paikallaan koko ajan ja voit myös nukkua sen kanssa 
+HotspotPanoramaOverlayTextImage_B08ECFFD_8152_84CC_41D2_33FDA78F5587.text = Kipsisi voi olla myös Umpikipsi, mikä tarkoittaa, että kipsi on paikallaan koko ajan ja voit myös nukkua sen kanssa 
 HotspotPanoramaOverlayTextImage_A540FC24_7ADD_CB97_41DC_07C504911DB8.text = Kipsisidoksia voi olla erilaisia ja erivärisiä.
 HotspotPanoramaOverlayTextImage_8E15B710_2A5A_0411_419B_1F19FC539AD2.text = Kipsisidoksia voi olla erilaisia ja erivärisiä.
 HotspotPanoramaOverlayTextImage_25D38853_7AE6_CA3B_41C6_5B07F9F462CD.text = Kirahvi on loukannut jalkansa.
@@ -313,12 +315,12 @@ HotspotPanoramaOverlayTextImage_AF0CF08F_0099_30C4_4160_998B10998F6D.text = Kort
 HotspotPanoramaOverlayTextImage_6939F48A_BEF3_A9F7_4183_E1AD4BE01E0B.text = Kun heräät, sinulla on jo kipsit valmiina
 HotspotPanoramaOverlayTextImage_AB2258B9_EA1F_777E_41E5_381099B0FCC8.text = Kun keuhkoista otetaan kuva, pitää välillä vetää keuhkot täyteen ilmaa ja pidättää hengitystä hetki.  \
 Hoitaja sanoo, kun voit taas hengittää.
-HotspotPanoramaOverlayTextImage_8E15370D_2A5A_05F3_41B4_00EA7F9F8E7A.text = Kun kipsi kuivuu, siitä tulee kova kuori, joka suojaa murtunutta kohtaa, kuten jalkaa. 
 HotspotPanoramaOverlayTextImage_B800034B_7AE6_5D81_41C8_1887C6E032A5.text = Kun kipsi kuivuu, siitä tulee kova kuori, joka suojaa murtunutta kohtaa, kuten jalkaa. 
+HotspotPanoramaOverlayTextImage_8E15370D_2A5A_05F3_41B4_00EA7F9F8E7A.text = Kun kipsi kuivuu, siitä tulee kova kuori, joka suojaa murtunutta kohtaa, kuten jalkaa. 
 HotspotPanoramaOverlayTextImage_AB27F8B4_EA1F_7776_41EB_77FD1616B5B4.text = Kun kuva otetaan, sinun pitää esimerkiksi kättä tai jalkaa ihan paikallaan, että saadaan hyvä kuva.
+HotspotPanoramaOverlayTextImage_5B78C38D_B9F3_D209_41D9_BB39B1101A32.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen.
 HotspotPanoramaOverlayTextImage_750E6040_1F21_B94C_41A0_716066444F51.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen.
 HotspotPanoramaOverlayTextImage_4312EC3B_D261_7E0A_41E0_0BEDF285F7B9.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen.
-HotspotPanoramaOverlayTextImage_5B78C38D_B9F3_D209_41D9_BB39B1101A32.text = Kun menet toimenpiteeseen, tarvitset lääkekorkin käden tai käsivarren verisuoneen.
 HotspotPanoramaOverlayTextImage_65252471_7FE7_3C6E_4194_D4D206E7BC7D.text = Kun murtuma on parantunut, voidaan kipsi poistaa eri tavoilla.
 HotspotPanoramaOverlayTextImage_EAF90749_AE3F_B68F_41C8_E4809735EE34.text = Kun olet herännyt, tutkimus onkin jo valmis ja saat lähteä kotiin.
 HotspotPanoramaOverlayTextImage_727ADDCE_BEF0_BB09_41D6_3DDC3C785323.text = Kun olet herännyt, voit juoda mehua
@@ -327,12 +329,11 @@ Silloin tarvitset insuliinia, jotta sinun ei tule huono olo.
 HotspotPanoramaOverlayTextImage_015551D8_01BB_308D_4170_AECC33BDF486.text = Kun toimenpide on tehty sinut siirretään heräämöön
 HotspotPanoramaOverlayTextImage_8B420DA1_BD70_BB55_41CB_0BE2ACF3C652.text = Kun toimenpide on valmis, haava peitetään siteellä.
 HotspotPanoramaOverlayTextImage_1FE9C0E5_1F20_B97C_41B4_670A7C41612D.text = Kun toimenpide on valmis, haava peitetään siteellä.
-HotspotPanoramaOverlayTextImage_00BEA112_B362_40C5_4189_C4E42B7DC66A.text = Kuuntele kipsisahan ääni:
 HotspotPanoramaOverlayTextImage_4833E3A8_49A0_99ED_41CD_3423C0F8D63D.text = Kuuntele kipsisahan ääni:
+HotspotPanoramaOverlayTextImage_00BEA112_B362_40C5_4189_C4E42B7DC66A.text = Kuuntele kipsisahan ääni:
 HotspotPanoramaOverlayTextImage_76371A55_658B_760A_41D8_5A46CA22440A.text = Kuuntelen stetoskoopilla, miten sydämesi pumppaa ja ilma kulkee keuhkoissasi.  \
 Minulla on myös korvalamppu, jolla voin katsoa korviisi.
 HotspotPanoramaOverlayTextImage_414E5318_6584_FB35_41D8_210363F62266.text = Kuvaaminen ei satu ollenkaan, mutta laitteemme voivat välillä pitää kovaa ääntä, jota ei tarvitse pelästyä. 
-HotspotPanoramaOverlayTextImage_83F6EFC5_04EC_6E64_4138_E86D435AF26A.text = Kuvantamistutkimukset
 HotspotPanoramaOverlayTextImage_86FD0781_95B4_DD3B_41CB_2886F0FDE5CA.text = Kuvantamistutkimus
 HotspotPanoramaOverlayTextImage_3E533FFB_2E01_F9F6_41C4_C474BE108FFB.text = Kuvattava kohta laitetaan valoruudun päälle.  \
 Kirahvi on loukannut jalkansa.
@@ -343,11 +344,11 @@ Voit harjoitella sitä jo kotona.
 HotspotPanoramaOverlayTextImage_81050D89_95BC_4D6E_41CA_9C9BD677A547.text = Kuvauslaitteeseen ei voi mennä kellon, korujen tai hiuspinnien kanssa ja siksi ne täytyy ottaa pois kuvauksen ajaksi.
 HotspotPanoramaOverlayTextImage_4302C5CB_6585_7F2B_41C8_B7C6C7A70642.text = Kuvista pystymme näkemään kehosi sisällä olevia asioita ja tutkimaan niitä!  \
 Jännää, eikö vain?
-HotspotPanoramaOverlayTextImage_200C1603_20E7_D8AB_41BB_ADEC828F1555.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
-HotspotPanoramaOverlayTextImage_20248C07_2120_C8A7_41A8_71CC625FBB90.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
 HotspotPanoramaOverlayTextImage_A36CE566_B7F6_56B9_41B9_AF96178FFDC4.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
-HotspotPanoramaOverlayTextImage_200FDFC3_20E0_47AB_41A0_D1F1E86327CA.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
+HotspotPanoramaOverlayTextImage_20248C07_2120_C8A7_41A8_71CC625FBB90.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
 HotspotPanoramaOverlayTextImage_200E6CC4_20E0_49AD_4189_6F942A5E5FD6.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
+HotspotPanoramaOverlayTextImage_200C1603_20E7_D8AB_41BB_ADEC828F1555.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
+HotspotPanoramaOverlayTextImage_200FDFC3_20E0_47AB_41A0_D1F1E86327CA.text = Käsivartesi ympärille laitetaan staasi eli hihna, joka hieman puristaa, mutta ei satu.
 HotspotPanoramaOverlayTextImage_B0FCCB2F_81D7_8E5C_41A5_AA25B0FACF1C.text = Laite osaa kertoa kuinka hyvin jaksat hengitellä toimenpiteen aikana.
 HotspotPanoramaOverlayTextImage_6A2F3E17_563E_8A4E_41AD_B35109D86B38.text = Laite piirtää paperille hienoa käyrää aivojesi ja hermostosi toiminnasta
 HotspotPanoramaOverlayTextImage_9AD106B3_9774_3C1D_41C2_385539A71BCD.text = Laite pitää hassuja ääniä: piipitystä ja kolinaa. Älä pelästy! Saat kuulokkeet korville ja voit kuunnella musiikkia. Silloin koneen äänet eivät kuulosta näin kovilta.
@@ -359,13 +360,14 @@ HotspotPanoramaOverlayTextImage_3BCAB0B1_5666_F677_41BD_EB4EB16F3E10.text = Laps
 HotspotPanoramaOverlayTextImage_F3EAF902_47A0_96F3_41CC_F5FC71762C88.text = Lasketaan hiilihydraatteja!
 HotspotPanoramaOverlayTextImage_E8CF7FF5_4212_E33F_41CA_4893E3F16437.text = Lasten murtumat paranevat yleensä hyvin ja nopeammin kuin aikuisten.  \
 Monet käytännön asiat kuten liikkuminen, pukeminen ja peseytyminen voivat aiheuttaa haasteita, mutta nopeasti löydätte keinoja, miten jokapäiväiset asiat sujuvat helpommin. 
-HotspotPanoramaOverlayTextImage_936019F2_BD71_BABB_41C6_5D80BF1B8A8F.text = Leikkauksen aikana makaat kapealla sängyllä, jota kutsutaan leikkauspöydäksi.  \
-Sänky on pehmeä ja lämmin.
 HotspotPanoramaOverlayTextImage_1FE9C0D2_1F20_B954_41BB_1537C3DE2DBB.text = Leikkauksen aikana makaat kapealla sängyllä, jota kutsutaan leikkauspöydäksi.  \
 Sänky on pehmeä ja lämmin.
+HotspotPanoramaOverlayTextImage_936019F2_BD71_BABB_41C6_5D80BF1B8A8F.text = Leikkauksen aikana makaat kapealla sängyllä, jota kutsutaan leikkauspöydäksi.  \
+Sänky on pehmeä ja lämmin.
+HotspotPanoramaOverlayTextImage_8A553082_04FC_12D9_418B_82CF84572242.text = Leikkaussali
 HotspotPanoramaOverlayTextImage_9EED8CE1_94B4_EC4B_41A0_907C283395C4.text = Leikkaussali
-HotspotPanoramaOverlayTextImage_1FE9C0D4_1F20_B95C_41AF_F00F6AF654C9.text = Leikkaussalin valossa on monia erittäin kirkkaita lamppuja.
 HotspotPanoramaOverlayTextImage_8FA0968E_BD73_A96B_41D6_490EC4BA0700.text = Leikkaussalin valossa on monia erittäin kirkkaita lamppuja.
+HotspotPanoramaOverlayTextImage_1FE9C0D4_1F20_B95C_41AF_F00F6AF654C9.text = Leikkaussalin valossa on monia erittäin kirkkaita lamppuja.
 HotspotPanoramaOverlayTextImage_1FE9C0D1_1F20_B954_41B0_A3FF62CEF725.text = Leikkaussalissa on useita henkilöitä pitämässä sinusta huolta.
 HotspotPanoramaOverlayTextImage_97AF0920_BD71_9B57_41CB_CBAD8D8ECCF2.text = Leikkaussalissa on useita henkilöitä pitämässä sinusta huolta.
 HotspotPanoramaOverlayTextImage_9E716D6C_94D4_2C7F_41D1_A67F33622AF0.text = Linkki eri ammattilaisiin
@@ -373,30 +375,29 @@ HotspotPanoramaOverlayTextImage_9AB646B4_5334_BAB5_41CD_B3B091E9A488.text = Lis�
 HotspotPanoramaOverlayTextImage_9B21A013_976C_140A_41E3_8A3818D435E0.text = Liu-ut kelkalla kuvauslaitteen sisälle kuvaustunneliin.  \
 Jos olet hereillä kuvauksen ajan, voit katsoa ohjelmia telkkarista sillä aikaa, kun sinusta otetaan kuvia.
 HotspotPanoramaOverlayTextImage_200E6CCC_20E0_49BD_419F_28392C727CE7.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
-HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_416E_5782E17F1C6C.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
-HotspotPanoramaOverlayTextImage_200FDFCB_20E0_47BB_417C_881A9BFFB179.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
-HotspotPanoramaOverlayTextImage_200C160A_20E7_D8A5_419A_AB31A62F1647.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
 HotspotPanoramaOverlayTextImage_A34D0917_B812_BE9D_41D9_FA6DCD194E2D.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
+HotspotPanoramaOverlayTextImage_200C160A_20E7_D8A5_419A_AB31A62F1647.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
+HotspotPanoramaOverlayTextImage_200FDFCB_20E0_47BB_417C_881A9BFFB179.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
+HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_416E_5782E17F1C6C.text = Lääkekorkin asettamiseksi verisuoneen ihoon on tehtävä pieni reikä neulalla.
 HotspotPanoramaOverlayTextImage_200FDFD6_20E0_47AD_41B4_764A5E3199AE.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
+Lääke voi tuntua viileältä kädessä.
+HotspotPanoramaOverlayTextImage_9A7C0296_B812_D39E_41DA_24B0E82408E1.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
+Lääke voi tuntua viileältä kädessä.
+HotspotPanoramaOverlayTextImage_200C1615_20E7_D8AF_41A4_E6F2CD55E6FE.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
 HotspotPanoramaOverlayTextImage_200E6CD6_20E0_49AD_41AE_E16B5EA90285.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
 HotspotPanoramaOverlayTextImage_20248C19_2120_C8AB_41A9_78E7C0034A72.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
 Lääke voi tuntua viileältä kädessä.
-HotspotPanoramaOverlayTextImage_200C1615_20E7_D8AF_41A4_E6F2CD55E6FE.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
-Lääke voi tuntua viileältä kädessä.
-HotspotPanoramaOverlayTextImage_9A7C0296_B812_D39E_41DA_24B0E82408E1.text = Lääkekorkin kautta sinulle voidaan antaa lääkettä.  \
-Lääke voi tuntua viileältä kädessä.
-HotspotPanoramaOverlayTextImage_7163DDB3_1F20_4BCE_41A3_86B333FFA808.text = Lääkekorkin laittaminen
-HotspotPanoramaOverlayTextImage_200C1605_20E7_D8AF_41BC_38D57EB3D94B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
-Saat sen, joka sopii käteesi parhaiten.
-HotspotPanoramaOverlayTextImage_20248C0A_2120_C8A9_41A2_E9E77E09BD6B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
+HotspotPanoramaOverlayTextImage_AF578DCF_B7F2_518A_41E3_6ECF560ACFA7.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
 HotspotPanoramaOverlayTextImage_200E6CC6_20E0_49AD_41A8_970A27F1AD16.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
-HotspotPanoramaOverlayTextImage_AF578DCF_B7F2_518A_41E3_6ECF560ACFA7.text = Lääkekorkkeja on eri värejä ja kokoja.  \
+HotspotPanoramaOverlayTextImage_20248C0A_2120_C8A9_41A2_E9E77E09BD6B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
 HotspotPanoramaOverlayTextImage_200FDFC6_20E0_47AD_41BC_654C9062844F.text = Lääkekorkkeja on eri värejä ja kokoja.  \
+Saat sen, joka sopii käteesi parhaiten.
+HotspotPanoramaOverlayTextImage_200C1605_20E7_D8AF_41BC_38D57EB3D94B.text = Lääkekorkkeja on eri värejä ja kokoja.  \
 Saat sen, joka sopii käteesi parhaiten.
 HotspotPanoramaOverlayTextImage_82296C74_D970_BBC2_41BA_2CC5A87A9915.text = Lääkettä voidaan hengittää joko inhalaattorilla tai sumuttimella.
 HotspotPanoramaOverlayTextImage_0162AC4E_0199_178C_4158_EEC3C499EC42.text = Lääkäri asettaa pienen neulan avulla anturin ihosi alle.
@@ -404,11 +405,11 @@ HotspotPanoramaOverlayTextImage_858123EB_9CAB_B094_41C4_C0F253702176.text = Lä�
 Tutkimus ei satu yhtään.
 HotspotPanoramaOverlayTextImage_CEE42580_00B9_10B4_415A_2128F0352740.text = Lääkäri on kiinnostunut kuinka, pitkä olet sekä kuinka paljon painat. 
 HotspotPanoramaOverlayTextImage_1C89B3FF_0079_1020_411B_672A1B446B10.text = Lääkärin huone
+HotspotPanoramaOverlayTextImage_750EE03F_1F21_B934_41A0_65A681935706.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
+Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo.
 HotspotPanoramaOverlayTextImage_4313CC39_D261_7E16_41DD_C20172EC8844.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
 Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo.
 HotspotPanoramaOverlayTextImage_6681D108_B9EF_CE08_41C4_6AFC105B3178.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
-Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo.
-HotspotPanoramaOverlayTextImage_750EE03F_1F21_B934_41A0_65A681935706.text = Lääkärin on piirrettävä merkki sinuun ennen toimenpidettä.  \
 Joskus se on nuoli tai viiva, ja se voi olla jopa pieni hahmo.
 HotspotPanoramaOverlayTextImage_00B98104_B362_40CD_41E1_8FEFB09E8D6D.text = Lääkärisi antaa sinulle ohjeet, kuinka sinun pitää kipsiä pitää.
 HotspotPanoramaOverlayTextImage_B16A11E6_814D_FCAE_41D3_633772E98E42.text = Lääkärisi antaa sinulle ohjeet, kuinka sinun pitää kipsiä pitää.
@@ -416,42 +417,42 @@ HotspotPanoramaOverlayTextImage_808247C3_956C_5C20_41E0_A3C3CF905C24.text = MRI
 HotspotPanoramaOverlayTextImage_9B4ECB6B_9CF4_5424_41DD_F334C83ED092.text = MRI
 HotspotPanoramaOverlayTextImage_EA033BC7_FF8B_5CC9_41D9_25CF273D8E50.text = Magneettikuvauslaitteella saadaan otettua tosi tarkkoja kuvia ihmisen kehon osista, kuten luista, lihaksista ja nivelistä. 
 HotspotPanoramaOverlayTextImage_911CCF76_5334_6BB5_41D1_D270EADCBAE4.text = Maltathan olla hetken vielä hereillä
-HotspotPanoramaOverlayTextImage_51FB1E48_41F2_A5D9_419A_96D813B974E2.text = Menen EEG tutkimukseen
-HotspotPanoramaOverlayTextImage_88AFE607_04F4_11E6_4175_4A64266B5630.text = Menen Magneettikuvaukseen
-HotspotPanoramaOverlayTextImage_88DA8939_04F4_122A_4189_440646639114.text = Menen Röntgenkuvaukseen
-HotspotPanoramaOverlayTextImage_BE989613_D223_EA26_4190_E561FF45523D.text = Menen Toimenpiteeseen
-HotspotPanoramaOverlayTextImage_8757D172_04D4_1226_4151_D35706DD2105.text = Menen Ultraäänitutkimukseen
-HotspotPanoramaOverlayTextImage_9FC48FAD_04EC_EE28_4180_096E7489FD35.text = Menen botox/ilokaasu  \
-toimenpiteeseen
-HotspotPanoramaOverlayTextImage_8A553082_04FC_12D9_418B_82CF84572242.text = Menen botox/leikkaussali  \
-toimenpiteeseen
-HotspotPanoramaOverlayTextImage_2DC1BDF2_0069_1022_4144_F03776843FAA.text = Menen kuntoutusarvioon
 HotspotPanoramaOverlayTextImage_0BC0C798_1F21_C704_41A1_194606A1676A.text = Mennään ottamaan kuva murtumasta
 HotspotPanoramaOverlayTextImage_943B5DBB_8102_0C34_41DB_C7973986D7C2.text = Mennään potilashuoneeseen
 HotspotPanoramaOverlayTextImage_8CC1BED2_D970_94C8_41E8_A1BB6BA85C03.text = Miksi on vaikea hengittää?
 HotspotPanoramaOverlayTextImage_86A207F7_D970_94CA_41E3_239464CC5E58.text = Mikä on astma?
+HotspotPanoramaOverlayTextImage_8DC53B95_04EC_76E5_418D_D722A3F1E46C.text = Mikä on diabetes ja miten sitä hoidetaan?
 HotspotPanoramaOverlayTextImage_8FF26B94_80DC_BAB4_41D4_1A4E80371658.text = Mikä on diabetes?
 HotspotPanoramaOverlayTextImage_80D73279_D970_6FB9_41A3_A5180B14E1A2.text = Mikä on flunssa?
 HotspotPanoramaOverlayTextImage_A5EAD2D1_D993_ECD1_41E2_43CFC7B66C3D.text = Mikä on happi?
 HotspotPanoramaOverlayTextImage_EA6DE694_FF89_774F_41E0_68E0BC6AED82.text = Mikä on magneettikuvaus?
+HotspotPanoramaOverlayTextImage_8B7ADEE8_04FC_EE28_416F_03F54EFA800C.text = Mikä on murtuma ja miten sitä hoidetaan?
 HotspotPanoramaOverlayTextImage_4C348EFA_7B26_CB04_41DA_F9E85D8C8E45.text = Mikä on murtuma?
 HotspotPanoramaOverlayTextImage_75367032_1F21_B8CC_4196_E582084A1130.text = Mikä on toimenpide?
-HotspotPanoramaOverlayTextImage_43257C2C_D261_7E0E_4192_FE4F0DA03B7F.text = Mikä on toimenpide?
 HotspotPanoramaOverlayTextImage_070883D2_B813_D206_41DA_F3995917D8B1.text = Mikä on toimenpide?
-HotspotPanoramaOverlayTextImage_00B9710B_B362_40DB_41DF_755806FDB38F.text = Mikäli kipsisi on irrotettava ja käytät sitä vain sovittuina aikoina, halkaistaan kipsisi heti sen kuivumisen jälkeen kipsisahalla.
+HotspotPanoramaOverlayTextImage_43257C2C_D261_7E0E_4192_FE4F0DA03B7F.text = Mikä on toimenpide?
 HotspotPanoramaOverlayTextImage_B10C3F6A_81B3_853F_41C8_9176062ACACC.text = Mikäli kipsisi on irrotettava ja käytät sitä vain sovittuina aikoina, halkaistaan kipsisi heti sen kuivumisen jälkeen kipsisahalla.
+HotspotPanoramaOverlayTextImage_00B9710B_B362_40DB_41DF_755806FDB38F.text = Mikäli kipsisi on irrotettava ja käytät sitä vain sovittuina aikoina, halkaistaan kipsisi heti sen kuivumisen jälkeen kipsisahalla.
 HotspotPanoramaOverlayTextImage_EB288A54_2ACA_0C14_41BA_AE0F5F963BBD.text = Milloin pääset kotiin?
-HotspotPanoramaOverlayTextImage_8DC53B95_04EC_76E5_418D_D722A3F1E46C.text = Minulla on diabetes
-HotspotPanoramaOverlayTextImage_8F4DA9BB_04EC_122D_4169_5D7806F1F0A8.text = Minulla on hengitysvaikeuksia
-HotspotPanoramaOverlayTextImage_8B7ADEE8_04FC_EE28_416F_03F54EFA800C.text = Minulla on murtuma
 HotspotPanoramaOverlayTextImage_7A1B3FB8_658B_AB6D_41BB_77770882A49C.text = Minä osaan suunnitella sinulle sopivat ruuat ja juomat.  \
 Voit myös kertoa, mikä on sinun lempiruokasi, tai mitä syötte yleensä kotona. 
 HotspotPanoramaOverlayTextImage_7DE75A8C_6584_D522_418F_B34F03E01450.text = Minä otan verikokeita ja tutkin näytteitä.  \
 Näytteistä voidaan saada paljon tärkeää tietoa voinnistasi. 
+HotspotPanoramaOverlayTextImage_51FB1E48_41F2_A5D9_419A_96D813B974E2.text = Miten aivojeni toimintaa voidaan tutkia?
+HotspotPanoramaOverlayTextImage_88AFE607_04F4_11E6_4175_4A64266B5630.text = Miten kehoni sisältä voidaan ottaa kuvia magneettikameralla?
+HotspotPanoramaOverlayTextImage_88DA8939_04F4_122A_4189_440646639114.text = Miten kehoni sisältä voidaan ottaa kuvia röntgenkameralla?
+HotspotPanoramaOverlayTextImage_8757D172_04D4_1226_4151_D35706DD2105.text = Miten kehoni sisältä voidaan ottaa kuvia ultraäänilaitteella?
+HotspotPanoramaOverlayTextImage_7163DDB3_1F20_4BCE_41A3_86B333FFA808.text = Miten lääkekorkki laitetaan?
+HotspotPanoramaOverlayTextImage_F1718025_E2E3_1F80_41D5_8CE238B49194.text = Miten verikoe otetaan?
 HotspotPanoramaOverlayTextImage_24B6C413_05D4_2BDC_4190_D469DC74CB82.text = Mittanauhan avulla voidaan mitata pääsi kasvua. 
-HotspotPanoramaOverlayTextImage_D97BB71A_7AE6_457C_41D9_C41FD5EBE0AF.text = Mitä on kipsi?
+HotspotPanoramaOverlayTextImage_D68DF3D6_E327_E098_41CD_B2A84568EBB7.text = Mitä botox-hoito on?
+HotspotPanoramaOverlayTextImage_8F4DA9BB_04EC_122D_4169_5D7806F1F0A8.text = Mitä hengitysvaikeudet ovat ja  \
+miten niitä hoidetaan?
 HotspotPanoramaOverlayTextImage_8E032704_2A5A_05F1_418D_C47F12E2B389.text = Mitä on kipsi?
+HotspotPanoramaOverlayTextImage_D97BB71A_7AE6_457C_41D9_C41FD5EBE0AF.text = Mitä on kipsi?
 HotspotPanoramaOverlayTextImage_EB01E453_EA09_3EA7_41E4_B99B4E9460A6.text = Mitä röntgenkuvauksessa tapahtuu? 
+HotspotPanoramaOverlayTextImage_2DC1BDF2_0069_1022_4144_F03776843FAA.text = Mitä tapahtuu kuntoutusarviossa?
+HotspotPanoramaOverlayTextImage_BE989613_D223_EA26_4190_E561FF45523D.text = Mitä tapahtuu, kun tulen toimenpiteeseen leikkaussaliin?
 HotspotPanoramaOverlayTextImage_852DE798_0099_10FB_4161_F87BC8EE6DFA.text = Mitähän näillä tavaroilla voidaankaan tehdä? 
 HotspotPanoramaOverlayTextImage_C61DDD94_561F_8E05_41B3_B623C7E530E6.text = Moi!  \
 Minä olen kirurgi.  \
@@ -469,15 +470,15 @@ Minä olen toimintaterapeutti.  \
 Minun kanssani saa leikkiä ja harjoitella kaikenlaisia askareita! 
 HotspotPanoramaOverlayTextImage_C69E9AFF_562F_8BFB_41B9_A94DDBA1BD3B.text = Moikka!  \
 Minä työskentelen laboratoriossa, jossa tutkitaan erilaisia näytteitä. 
-HotspotPanoramaOverlayTextImage_6E394785_B4AE_CFB8_41E4_C0F311E79BDF.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
 HotspotPanoramaOverlayTextImage_727B2DCD_BEF0_BB0B_41D2_CEADD75BE59B.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
+HotspotPanoramaOverlayTextImage_6E394785_B4AE_CFB8_41E4_C0F311E79BDF.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
 HotspotPanoramaOverlayTextImage_202F9960_2120_C895_41BF_EC30363BCB72.text = Monitori auttaa henkilökuntaa seuraamaan hyvinvointiasi, kunnes olet täysin hereillä.
 HotspotPanoramaOverlayTextImage_E67A5686_FE9B_F68E_41D0_1B17CFF77C97.text = Muista jatkaa murtuneen käden ja jalan jumppaamista saamiesi ohjeiden mukaisesti.
-HotspotPanoramaOverlayTextImage_200C160C_20E7_D8BD_41B0_CF4EA85BCD76.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
 HotspotPanoramaOverlayTextImage_A35354F9_B816_7792_41DB_13DDBC33F0E1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
-HotspotPanoramaOverlayTextImage_200E6CCD_20E0_49BF_41BD_CA5436929EE1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
-HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_41BF_345BAEF80DFF.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
 HotspotPanoramaOverlayTextImage_200FDFCC_20E0_47BD_41AE_67B4B78002BD.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_200E6CCD_20E0_49BF_41BD_CA5436929EE1.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_200C160C_20E7_D8BD_41B0_CF4EA85BCD76.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
+HotspotPanoramaOverlayTextImage_20248C0F_2120_C8A7_41BF_345BAEF80DFF.text = Muistathan, että taikarasva teki ihosta tunnottoman, joten tämä ei tunnu kovin paljon.
 HotspotPanoramaOverlayTextImage_6CC939F7_7E21_0AF3_41D4_74A8134281EB.text = Murtuma
 HotspotPanoramaOverlayTextImage_107ECABB_7AEB_CFA2_41D6_65D77714118D.text = Murtumakohta hoidetaan kipsaamalla.
 HotspotPanoramaOverlayTextImage_E7AB74B2_FE9D_8A87_41E0_16DBE7D0316E.text = Murtumakohta voi aluksi turvota helposti, kun rasitat jalkaasi tai kättäsi paljon.
@@ -493,22 +494,22 @@ HotspotPanoramaOverlayTextImage_8E10271D_2A5A_0413_41B1_EE96050A8544.text = Nyt 
 Lasten murtumat paranevat yleensä muutamissa viikoissa.
 HotspotPanoramaOverlayTextImage_82A56B7E_7D26_4C65_41C5_01ADAEA3265A.text = Nyt murtumasi on hoidossa kipsin alla ja saa parantua rauhassa.  \
 Lasten murtumat paranevat yleensä muutamissa viikoissa.
+HotspotPanoramaOverlayTextImage_70306783_B362_4FC0_41B6_9F6909640122.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_750D5042_1F21_B94C_41A6_3A311A09C85D.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_43135C3D_D261_7E0E_41D3_59B6980350BE.text = Nyt voit siirtyä leikkaussaliin
-HotspotPanoramaOverlayTextImage_70306783_B362_4FC0_41B6_9F6909640122.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_579B207B_B812_4E17_41D6_3B3CEF0F7A33.text = Nyt voit siirtyä leikkaussaliin
 HotspotPanoramaOverlayTextImage_8FC5E01F_AE11_EAB1_41D9_212951D8ADDF.text = Nyt voit siirtyä odotus-aulaan
 HotspotPanoramaOverlayTextImage_9BE58DFE_B365_C319_41DC_C7DC245B4EF6.text = Nyt voit siirtyä toimenpidehuoneeseen. 
 HotspotPanoramaOverlayTextImage_9D6BC73F_AE11_96F1_41B0_C4F59FF1912D.text = Nyt voit siirtyä tutkimushuoneeseen
 HotspotPanoramaOverlayTextImage_C6594317_00A9_31DB_4155_E8FFEDA84736.text = Näillä välineillä lääkäri tutkii sinua. 
-HotspotPanoramaOverlayTextImage_017E8C3C_B362_C13E_41A6_7E8F3313C760.text = Näin hänen on myös helppo arvioida, kuinka paljon hyötyä lääkityksestä on ollut sinulle. 
 HotspotPanoramaOverlayTextImage_594C1637_46E0_9B4D_41C4_CBCFB559B7E9.text = Näin hänen on myös helppo arvioida, kuinka paljon hyötyä lääkityksestä on ollut sinulle. 
+HotspotPanoramaOverlayTextImage_017E8C3C_B362_C13E_41A6_7E8F3313C760.text = Näin hänen on myös helppo arvioida, kuinka paljon hyötyä lääkityksestä on ollut sinulle. 
+HotspotPanoramaOverlayTextImage_750D603F_1F21_B934_41B6_A48086BF2B70.text = Näin kaikki tietävät, mikä kohta korjataan.
 HotspotPanoramaOverlayTextImage_58BCE70C_B9EE_D208_41D3_32E92B6B8A57.text = Näin kaikki tietävät, mikä kohta korjataan.
 HotspotPanoramaOverlayTextImage_43137C3A_D261_7E0A_41C6_C51FAD8E5A13.text = Näin kaikki tietävät, mikä kohta korjataan.
-HotspotPanoramaOverlayTextImage_750D603F_1F21_B934_41B6_A48086BF2B70.text = Näin kaikki tietävät, mikä kohta korjataan.
-HotspotPanoramaOverlayTextImage_8A09BC3B_BD73_99AA_41DC_53C8E3D8D98F.text = Nämä tarroilla varustetut johdot kiinnitetään rintaan.  \
-Johdot kytketään sitten valvontanäyttöön.
 HotspotPanoramaOverlayTextImage_1FE9C0D9_1F20_B954_4189_F1CE43B05408.text = Nämä tarroilla varustetut johdot kiinnitetään rintaan.  \
+Johdot kytketään sitten valvontanäyttöön.
+HotspotPanoramaOverlayTextImage_8A09BC3B_BD73_99AA_41DC_53C8E3D8D98F.text = Nämä tarroilla varustetut johdot kiinnitetään rintaan.  \
 Johdot kytketään sitten valvontanäyttöön.
 HotspotPanoramaOverlayTextImage_B1ABC593_D990_B55E_41E4_6866899349D1.text = Nämä tarroilla varustetut johdot kiinnitetään rintaan.  \
 Johdot kytketään sitten valvontanäyttöön.  \
@@ -516,21 +517,21 @@ Se osoittaa, kuinka sydämesi toimii ja lyö.
 HotspotPanoramaOverlayTextImage_10C180AE_006F_103C_411C_E9D90BF88360.text = Olet tullut kuntoutusarviojaksolle. 
 HotspotPanoramaOverlayTextImage_91266523_5334_9F53_41C3_7444CAAD59B9.text = Olet valmistautunut tutkimukseen jo kotona varmasti valvomalla hiukan enemmän yöllä kuin normaalisti.
 HotspotPanoramaOverlayTextImage_E3FDC9F5_B39E_433C_41C5_B2EDDA931124.text = Olethan muistanut olla aamulla syömättä ja juomatta ennen toimenpidettä.
-HotspotPanoramaOverlayTextImage_A7B4C14E_B812_4E8E_41A8_AF13D4CC7AF2.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
+HotspotPanoramaOverlayTextImage_200E6CD2_20E0_49A5_41B3_EAB04722F01C.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
-HotspotPanoramaOverlayTextImage_200C1611_20E7_D8A7_417A_F32F307766CA.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
+HotspotPanoramaOverlayTextImage_A7B4C14E_B812_4E8E_41A8_AF13D4CC7AF2.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
 HotspotPanoramaOverlayTextImage_200FDFD2_20E0_47A5_4199_8CAD50CA0404.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
-HotspotPanoramaOverlayTextImage_200E6CD2_20E0_49A5_41B3_EAB04722F01C.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
+HotspotPanoramaOverlayTextImage_200C1611_20E7_D8A7_417A_F32F307766CA.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
 HotspotPanoramaOverlayTextImage_20248C15_2120_C8BB_41B1_EDC9CB50B555.text = On tärkeää, että lääkekorkki on kiinnitetty kunnolla.  \
 Siksi se on teipattu tukevasti erityisellä teipillä.
 HotspotPanoramaOverlayTextImage_63F47DBB_B815_D60E_41DD_61E63A1692B7.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
 Siksi et saa syödä mitään ruokaa. 
-HotspotPanoramaOverlayTextImage_432CDC33_D261_7E1A_41D6_19B734B67BC1.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
-Siksi et saa syödä mitään ruokaa. 
 HotspotPanoramaOverlayTextImage_750E303A_1F21_B93C_41A4_5C1BF43899CA.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
+Siksi et saa syödä mitään ruokaa. 
+HotspotPanoramaOverlayTextImage_432CDC33_D261_7E1A_41D6_19B734B67BC1.text = On tärkeää, että vatsasi on tyhjä, kun menet toimenpiteeseen.  \
 Siksi et saa syödä mitään ruokaa. 
 HotspotPanoramaOverlayTextImage_8424336D_0099_305A_4138_26BABC22D2A0.text = Onpa iso pallo, jaksatko nostaa sitä? 
 HotspotPanoramaOverlayTextImage_7697560A_00BF_13D6_412E_CEF990853BB8.text = Osaakohan kirahvi kävellä sinistä viivaa pitkin?  \
@@ -539,23 +540,23 @@ HotspotPanoramaOverlayTextImage_B04A474E_009B_1044_413A_92C1182817D8.text = Osaa
 Entä sinä? 
 HotspotPanoramaOverlayTextImage_6A2B8BDE_00B9_106F_4159_4F24F9A8E6C8.text = Osaatko laittaa kolikoita possuun?
 HotspotPanoramaOverlayTextImage_288410E6_562A_960B_41D0_0D4959FEAD1D.text = Paina hahmoja tervehtiäksesi heitä!
-HotspotPanoramaOverlayTextImage_8E13C71F_2A5A_040F_419E_FDB0C4D5746F.text = Paranemiseen vaikuttaa se, missä murtumasi on ja millainen se on.
 HotspotPanoramaOverlayTextImage_7C01BBBC_7D26_CCE7_41D6_EE37D9DC4D66.text = Paranemiseen vaikuttaa se, missä murtumasi on ja millainen se on.
+HotspotPanoramaOverlayTextImage_8E13C71F_2A5A_040F_419E_FDB0C4D5746F.text = Paranemiseen vaikuttaa se, missä murtumasi on ja millainen se on.
 HotspotPanoramaOverlayTextImage_1A8790A0_7AE6_BA70_41BA_695F321E959A.text = Pidä kättä tai jalkaa ihan paikallaan kun kuva otetaan.  \
 Näin saadaan hyvä kuva. 
-HotspotPanoramaOverlayTextImage_200E6CD0_20E0_49A5_4197_724F4A54C9A2.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
-Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_20248C13_2120_C8BF_41AC_DF1B22B1D6AF.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
-Vain pehmeä muoviputki jää verisuoneen.
-HotspotPanoramaOverlayTextImage_A78DD55E_B812_768E_41E0_CC7129458FAC.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
 Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_200FDFD0_20E0_47A5_418B_6916C7B72F31.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
 Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_200C160F_20E7_D8BB_41B9_A68566EFD123.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
 Vain pehmeä muoviputki jää verisuoneen.
+HotspotPanoramaOverlayTextImage_200E6CD0_20E0_49A5_4197_724F4A54C9A2.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
+Vain pehmeä muoviputki jää verisuoneen.
+HotspotPanoramaOverlayTextImage_A78DD55E_B812_768E_41E0_CC7129458FAC.text = Pistoksen jälkeen neula poistetaan ja hävitetään.  \
+Vain pehmeä muoviputki jää verisuoneen.
 HotspotPanoramaOverlayTextImage_B541CBBC_8156_8C02_41C8_4C9AADF4AECC.text = Placeholder
-HotspotPanoramaOverlayTextImage_6F90DCA2_76A4_EB3B_41DA_54009129D6CD.text = Polski
 HotspotPanoramaOverlayTextImage_D725BB8D_C863_CD64_41E6_129358EC75AC.text = Polski
+HotspotPanoramaOverlayTextImage_6F90DCA2_76A4_EB3B_41DA_54009129D6CD.text = Polski
 HotspotPanoramaOverlayTextImage_1DF3EDAA_0079_1020_414D_7EDA3FE00220.text = Psykologin huone
 HotspotPanoramaOverlayTextImage_A21668F3_00FB_3045_4165_A025B8B91DC9.text = Psykologin kanssa pääset tekemään erilaisia tehtäviä ja myös keskustelemaan kiinnostavista aiheista. 
 HotspotPanoramaOverlayTextImage_1CDE92A1_0079_3020_411D_1EE03BB47788.text = Puheterapeutin huone
@@ -577,25 +578,25 @@ HotspotPanoramaOverlayTextImage_BD590D95_82BE_8409_41E0_3AC9DF5F009E.text = Pä�
 HotspotPanoramaOverlayTextImage_C9D713B2_FE8D_8EBF_41EA_4FE50465575D.text = Pääset valitsemaan kierroksen vieressä olevista valikoista.
 HotspotPanoramaOverlayTextImage_84682342_00E7_104E_4155_FF37ED2BF793.text = Pääsetkö tämän esteen yli? 
 HotspotPanoramaOverlayTextImage_59E1B3AE_00AF_302A_4159_3E0D64318F40.text = Pöydän ääressä voi tehdä kivoja juttuja  
-HotspotPanoramaOverlayTextImage_8B068185_BD77_6B5E_41D9_EE8A1BCA74D6.text = Raikasta ilmaa kutsutaan myös hapeksi.  \
-Keho tarvitsee happea voidakseen hyvin.
 HotspotPanoramaOverlayTextImage_1FE9C0DC_1F20_B94C_41BE_52F984D11805.text = Raikasta ilmaa kutsutaan myös hapeksi.  \
 Keho tarvitsee happea voidakseen hyvin.
-HotspotPanoramaOverlayTextImage_200C1612_20E7_D8A5_41AA_17633F0AF194.text = Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_8B068185_BD77_6B5E_41D9_EE8A1BCA74D6.text = Raikasta ilmaa kutsutaan myös hapeksi.  \
+Keho tarvitsee happea voidakseen hyvin.
 HotspotPanoramaOverlayTextImage_9AE68EAA_B81E_B3B6_41E4_3A1ECC4BFCF5.text = Ruiskuja käytetään lääkkeen antamiseen.  \
-Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_200FDFD3_20E0_47AB_4193_3E796D2D4750.text = Ruiskuja käytetään lääkkeen antamiseen.  \
 Niitä on erikokoisia.
 HotspotPanoramaOverlayTextImage_200E6CD3_20E0_49AA_41AB_763DEE28A410.text = Ruiskuja käytetään lääkkeen antamiseen.  \
 Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_200FDFD3_20E0_47AB_4193_3E796D2D4750.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
+HotspotPanoramaOverlayTextImage_200C1612_20E7_D8A5_41AA_17633F0AF194.text = Ruiskuja käytetään lääkkeen antamiseen.  \
+Niitä on erikokoisia.
 HotspotPanoramaOverlayTextImage_20248C16_2120_C8B9_419B_A529F1617DB2.text = Ruiskuja käytetään lääkkeen antamiseen.  \
 Niitä on erikokoisia.
-HotspotPanoramaOverlayTextImage_20248C17_2120_C8A7_41B6_073D68F8EB58.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
-HotspotPanoramaOverlayTextImage_9BCF3493_B81E_D795_41E2_FD335B782165.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_200FDFD4_20E0_47AD_41AC_5CEB9A82EB24.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
+HotspotPanoramaOverlayTextImage_9BCF3493_B81E_D795_41E2_FD335B782165.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_200C1613_20E7_D8AB_41AD_80DAE6D782AA.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_200E6CD4_20E0_49AD_4188_1F2E74BC4ED4.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
+HotspotPanoramaOverlayTextImage_20248C17_2120_C8A7_41B6_073D68F8EB58.text = Ruiskut sopivat täydellisesti pienen muoviputken aukkoon. 
 HotspotPanoramaOverlayTextImage_4C5D5FDE_7B26_493C_41C5_8699FE8BF4B5.text = Röntgenkuvalla saadaan selville, millainen murtuma sinulla on.
 HotspotPanoramaOverlayTextImage_26F5E489_7ADB_BAE2_41B3_49448CCE8E3C.text = Röntgenkuvassa kuvattava kohta laitetaan valoruudun päälle. 
 HotspotPanoramaOverlayTextImage_12C5E53C_7AE5_BABE_4195_2428808D414B.text = Röntgenkuvasta lääkäri voi nähdä, onko sinulla murtumaa ja miten se hoidetaan.
@@ -613,14 +614,14 @@ HotspotPanoramaOverlayTextImage_94DF1F53_810E_0C7E_41DA_CB6765966EC2.text = Saat
 HotspotPanoramaOverlayTextImage_6FFE1A70_563E_8AC1_41C3_BE83DB57FEC4.text = Saat puhallella hyrrää tutkimuksen aikana.  \
 Yritä saada se pyörimään niin lujaa kuin pystyt!
 HotspotPanoramaOverlayTextImage_821356E8_D993_94C0_41E1_96B082B0F0D1.text = Saatat joutua jatkamaan inhaloitavien lääkkeiden käyttöä kotona. 
+HotspotPanoramaOverlayTextImage_7B3AE891_B4AE_C1DB_41D7_25B8EA324B21.text = Saatat tuntea ensin väsymystä ja huimausta.  \
+Silloin sinun kannattaa nukkua vielä hetki.
 HotspotPanoramaOverlayTextImage_727DEDCC_BEF0_BB09_41E2_1BBDEE44FBC3.text = Saatat tuntea ensin väsymystä ja huimausta.  \
 Silloin sinun kannattaa nukkua vielä hetki.
 HotspotPanoramaOverlayTextImage_202F995E_2120_C8AD_41B7_157086D0643F.text = Saatat tuntea ensin väsymystä ja huimausta.  \
 Silloin sinun kannattaa nukkua vielä hetki.
-HotspotPanoramaOverlayTextImage_7B3AE891_B4AE_C1DB_41D7_25B8EA324B21.text = Saatat tuntea ensin väsymystä ja huimausta.  \
-Silloin sinun kannattaa nukkua vielä hetki.
-HotspotPanoramaOverlayTextImage_B90D6794_814F_8403_41DA_B6A2E9FB8241.text = Saatoit myös huomata että pystyt katsomaan ympärillesi kääntämällä puhelinta.
 HotspotPanoramaOverlayTextImage_C9CA93C3_FE8D_8EDD_41E9_F042E50C4B08.text = Saatoit myös huomata että pystyt katsomaan ympärillesi kääntämällä puhelinta.
+HotspotPanoramaOverlayTextImage_B90D6794_814F_8403_41DA_B6A2E9FB8241.text = Saatoit myös huomata että pystyt katsomaan ympärillesi kääntämällä puhelinta.
 HotspotPanoramaOverlayTextImage_FC1AE11C_4761_9919_415F_476FC430919A.text = Sairaalassa harjoitellaan yhdessä hiilareiden laskemista aina, kun syöt.  \
 Hoitajat ja ravitsemusterapeutti auttavat sinua ja vanhempia.
 HotspotPanoramaOverlayTextImage_01701C30_B362_C0C6_41A1_2C8247555E77.text = Sairaanhoitaja
@@ -647,32 +648,32 @@ HotspotPanoramaOverlayTextImage_91C3C66A_80D5_4AC1_41C9_36EAC638645B.text = Sen 
 HotspotPanoramaOverlayTextImage_BDAD4C3A_D990_BB42_41D7_348327175AF2.text = Siellä on useita erilaisia koneita, jotka helpottavat hengittämistä.  \
 Siellä hoitaja on aina vieressäsi.  \
 Myös tuttu aikuinen voi pysyä kanssasi.
-HotspotPanoramaOverlayTextImage_202F9961_2120_C897_4191_3850763EBCD1.text = Siirryt nyt lastenosastolle toipumaan
 HotspotPanoramaOverlayTextImage_03981D27_2974_8793_41B7_BD7914D1D3BB.text = Siirryt nyt lastenosastolle toipumaan
+HotspotPanoramaOverlayTextImage_202F9961_2120_C897_4191_3850763EBCD1.text = Siirryt nyt lastenosastolle toipumaan
+HotspotPanoramaOverlayTextImage_750E303D_1F21_B934_4174_E6436B4BEA17.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
 HotspotPanoramaOverlayTextImage_43128C36_D261_7E1A_41C5_9D9A70009CCA.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
 HotspotPanoramaOverlayTextImage_645EDDDB_B9ED_B608_41E5_46A121D68E61.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
-HotspotPanoramaOverlayTextImage_750E303D_1F21_B934_4174_E6436B4BEA17.text = Siksi sinun on käytettävä ranneketta, jossa lukee nimesi ja syntymäaikasi. 
 HotspotPanoramaOverlayTextImage_B010F123_AE11_EA90_41D3_82E8FC17022E.text = Sinua saattaakin jo hieman nukuttaa. 
 HotspotPanoramaOverlayTextImage_A358F64E_D997_F733_41C4_92935463FAFD.text = Sinulla on oma huone.  \
 Tuttu aikuinen voi pysyä kanssasi.
+HotspotPanoramaOverlayTextImage_60C959FE_B816_BE07_41D4_84FBCE6827D3.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
 HotspotPanoramaOverlayTextImage_750F8039_1F21_B93C_41B2_3F03F97629CB.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
 HotspotPanoramaOverlayTextImage_43133C32_D261_7E1A_41E5_C16D252A69BA.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
-HotspotPanoramaOverlayTextImage_60C959FE_B816_BE07_41D4_84FBCE6827D3.text = Sinulla on oma sänky, jossa voit lepäillä ja odottaa vuoroasi.
 HotspotPanoramaOverlayTextImage_87A4CAF5_D971_FCCE_41E9_5379DCCFACE1.text = Sinulla on tukkoinen nenä ja turvotusta kurkussa.  \
 Tämä voi vaikeuttaa hengittämistä.
-HotspotPanoramaOverlayTextImage_B95C7256_B832_B243_41C1_EB0B2DC8C0E7.text = Sinulla saa aina olla äiti, isä tai muu  tuntemasi aikuinen mukanasi, kun menet leikkaussaliin.
 HotspotPanoramaOverlayTextImage_1FE9C0CE_1F20_B94C_41BB_ECE6F9888285.text = Sinulla saa aina olla äiti, isä tai muu  tuntemasi aikuinen mukanasi, kun menet leikkaussaliin.
+HotspotPanoramaOverlayTextImage_B95C7256_B832_B243_41C1_EB0B2DC8C0E7.text = Sinulla saa aina olla äiti, isä tai muu  tuntemasi aikuinen mukanasi, kun menet leikkaussaliin.
 HotspotPanoramaOverlayTextImage_98CCF35E_94D4_1455_41E0_78B5E36FBEEC.text = Sinulle ja vanhemmille opetetaan verensokerin mittaaminen, niin osaatte tehdä sen itse kotona.
 HotspotPanoramaOverlayTextImage_96E9D9D2_8102_14BE_41D6_4B2365480C00.text = Sinulta mitataan verensokeria, jotta sinulle osataan antaa oikea määrä insuliinilääkettä ja tiedetään, että voit hyvin. 
 HotspotPanoramaOverlayTextImage_7DD4700C_6587_D522_41B0_E9AE42E48A55.text = Sinulta voidaan ottaa erilaisia näytteitä, esimerkiksi verikoe tai pissanäyte.
-HotspotPanoramaOverlayTextImage_635A8218_B815_D20B_41C3_55DF08932ECD.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
-HotspotPanoramaOverlayTextImage_4324CC30_D261_7E16_41E8_11E8E8824F28.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
 HotspotPanoramaOverlayTextImage_750E2037_1F21_B934_415A_528BD5A2096C.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
-HotspotPanoramaOverlayTextImage_6FF37419_B812_7602_41DB_D321ABD9D871.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
-Et tunne yhtään mitään.
+HotspotPanoramaOverlayTextImage_4324CC30_D261_7E16_41E8_11E8E8824F28.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
+HotspotPanoramaOverlayTextImage_635A8218_B815_D20B_41C3_55DF08932ECD.text = Sinun on myös vaihdettava sairaalavaatteisiin. 
 HotspotPanoramaOverlayTextImage_75364034_1F21_B934_41AA_6F5433DC8A76.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
 Et tunne yhtään mitään.
 HotspotPanoramaOverlayTextImage_43252C2E_D261_7E0A_41E1_911AF37AF3D8.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
+Et tunne yhtään mitään.
+HotspotPanoramaOverlayTextImage_6FF37419_B812_7602_41DB_D321ABD9D871.text = Sitten hän korjaa sen. Korjauksen aikana nukut lääkkeen avulla.  \
 Et tunne yhtään mitään.
 HotspotPanoramaOverlayTextImage_85DB58CE_BD70_9AEA_41E1_C6C48BE6B718.text = Sitten nähdään, kuinka sydämesi toimii ja lyö.
 HotspotPanoramaOverlayTextImage_1FE9C0DA_1F20_B954_41B2_00EBFDAF81FB.text = Sitten nähdään, kuinka sydämesi toimii ja lyö.
@@ -686,8 +687,8 @@ HotspotPanoramaOverlayTextImage_D77706C6_C862_44E7_41C1_FE1967BC3DDA.text = Sven
 HotspotPanoramaOverlayTextImage_5E0A5AF4_4BD6_D943_41C4_767A55A4E689.text = Tapaat kliinisen neurofysiologin
 HotspotPanoramaOverlayTextImage_4118F11B_6585_7728_41C2_A79993202A23.text = Tapaat minut esimerkiksi silloin, jos sinulla on murtuma ja se pitää korjata. 
 HotspotPanoramaOverlayTextImage_982AA805_532C_F557_41B0_8F0A41B23537.text = Tapaat tänään sairaanhoitajan sekä kliinisen neurofysiologin. 
-HotspotPanoramaOverlayTextImage_01737C2D_B362_C0DE_41DF_1BEA1B295102.text = Tapaat tänään sairaanhoitajan, fysioterapeutin tai toimintaterapeutin.
 HotspotPanoramaOverlayTextImage_AB2AC0E6_86BD_9DC4_41DB_A12A2066B4ED.text = Tapaat tänään sairaanhoitajan, fysioterapeutin tai toimintaterapeutin.
+HotspotPanoramaOverlayTextImage_01737C2D_B362_C0DE_41DF_1BEA1B295102.text = Tapaat tänään sairaanhoitajan, fysioterapeutin tai toimintaterapeutin.
 HotspotPanoramaOverlayTextImage_7B31AF7E_6585_ABE0_41AA_3D97734C88CE.text = Tarvittaessa avustan lääkäriä toimenpiteissä.  \
 Tuon sinulle tarvittaessa leluja leikittäväksi tai piirustusvälineitä. 
 HotspotPanoramaOverlayTextImage_B487E676_46A0_9B3C_41AD_8E4DC36C33F8.text = Tieto lapsen pitkäaikaisesta sairaudesta synnyttää surua, pettymystä ja ahdistusta.  \
@@ -697,11 +698,11 @@ Vanhemmat voivat sanoin ja omalla käytöksellään viestiä lapselle, että til
 HotspotPanoramaOverlayTextImage_7537E033_1F21_B8CC_41AF_4797EA7B3479.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
 HotspotPanoramaOverlayTextImage_6D448C2C_B812_F602_41E3_7A91C9349737.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
 HotspotPanoramaOverlayTextImage_43240C2D_D261_7E0E_41D3_0C5A650C414C.text = Toimenpide tarkoittaa sitä, että lääkäri katsoo kehosi sisälle nähdäkseen, mikä on rikki tai ei ole oikein. 
-HotspotPanoramaOverlayTextImage_615B69A4_B812_5E04_4139_93CB03817880.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
-Siksi sinun pitää käydä suihkussa. 
 HotspotPanoramaOverlayTextImage_750FB036_1F21_B934_41AA_AB01FD5AE3BB.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
 Siksi sinun pitää käydä suihkussa. 
 HotspotPanoramaOverlayTextImage_4324AC2F_D261_7E0A_41D7_E4A7C7572D9B.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
+Siksi sinun pitää käydä suihkussa. 
+HotspotPanoramaOverlayTextImage_615B69A4_B812_5E04_4139_93CB03817880.text = Toimenpiteen aikana kaiken on oltava erityisen puhdasta.  \
 Siksi sinun pitää käydä suihkussa. 
 HotspotPanoramaOverlayTextImage_78213699_B4A2_41CA_41E5_497CBA8F4AA5.text = Toimenpiteen jälkeen heräät sängyssäsi.  \
 Aikuinen, joka oli kanssasi, kun nukahdit, istuu vieressäsi.
@@ -715,8 +716,8 @@ HotspotPanoramaOverlayTextImage_59E5CC39_46E0_6F44_41C7_63855DCE3F07.text = Toim
 HotspotPanoramaOverlayTextImage_9A65AE76_5334_EDB5_41D1_DB6BBC7895C3.text = Toinen vanhemmista saa tulla tutkimukseen mukaasi ja olla vierelläsi koko tutkimuksen ajan. 
 HotspotPanoramaOverlayTextImage_B6758917_81D5_8A9E_41CB_665A37112BB6.text = Toinen vanhemmistasi saa olla vierelläsi, kunnes nukahdat 
 HotspotPanoramaOverlayTextImage_5A072299_4BD6_2919_419A_E06DAC45800E.text = Toinen vanhemmistasi saa tulla mukaasi
-HotspotPanoramaOverlayTextImage_47F98A7C_46A0_AB4A_41C8_D3EAEE4169E7.text = Toinen vanhemmistasi saa tulla mukaasi
 HotspotPanoramaOverlayTextImage_00BBD100_B362_40C5_41E0_E6867540A7D6.text = Toinen vanhemmistasi saa tulla mukaasi
+HotspotPanoramaOverlayTextImage_47F98A7C_46A0_AB4A_41C8_D3EAEE4169E7.text = Toinen vanhemmistasi saa tulla mukaasi
 HotspotPanoramaOverlayTextImage_29EBBD67_4233_A701_419E_918405E39A93.text = Totut pian kipsiin. \
 Murtumakohta voi alussa olla kipeä.  \
 Kerro kivusta vanhemmille, jolloin he antavat sinulle  lääkettä. 
@@ -760,9 +761,9 @@ Katso videolta, miten se tehdään.
 HotspotPanoramaOverlayTextImage_B36EA3B7_81DF_9DA3_41DB_1173F7E0A03E.text = Tämän kautta saat hengitellä uniainetta, sinua alkaa väsyttämään ja saat ottaa pienet unet.
 HotspotPanoramaOverlayTextImage_57726449_4BF6_2FBC_41D1_814B438D0321.text = Tämän mittarin kasvojen avulla voit kertoa sinun sairaanhoitajallesi miltä sinusta tuntuu.  \
 Onko olosi epämukava vai onko sinulla kaikki hyvin ja vointisi on hyvä.
-HotspotPanoramaOverlayTextImage_1FE9C0E0_1F20_B974_41B4_C92FDDADAC50.text = Tämän naamarin kautta hengität ylimääräistä raitista ilmaa, jota kutsutaan hapeksi.  \
-Happi on hyvä keholle.
 HotspotPanoramaOverlayTextImage_8834C0D6_BD71_EAFA_41D7_C96325ECF75C.text = Tämän naamarin kautta hengität ylimääräistä raitista ilmaa, jota kutsutaan hapeksi.  \
+Happi on hyvä keholle.
+HotspotPanoramaOverlayTextImage_1FE9C0E0_1F20_B974_41B4_C92FDDADAC50.text = Tämän naamarin kautta hengität ylimääräistä raitista ilmaa, jota kutsutaan hapeksi.  \
 Happi on hyvä keholle.
 HotspotPanoramaOverlayTextImage_728FC2E6_420E_A2E3_418F_39BD3864625D.text = Tämän sovelluksen avulla voit tutustua yhdessä lapsen kanssa kuvantamistutkimuksissa käytettäviin laitteisiin ja siihen, miten tutkimus etenee. 
 HotspotPanoramaOverlayTextImage_86FC32A7_95BC_34A6_41DF_17D396FB9CB1.text = Tässä huoneessa hoitajat valvovat kuvausta ja katsovat, että sinulla on kaikki hyvin.  \
@@ -777,25 +778,24 @@ HotspotPanoramaOverlayTextImage_7C0F56D8_7D3A_4451_41D1_C3C5FEA4B430.text = Täs
 HotspotPanoramaOverlayTextImage_37409006_B82E_4E49_41CF_C75A3C826105.text = Tästä pääset katsomaan lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_55FFE3F6_C2F8_8385_41CD_D088D7594E93.text = Tästä pääset katsomaan lääkekorkin laittamisen 
 HotspotPanoramaOverlayTextImage_20304964_2120_489D_41B4_5792EBCA6B5A.text = Tästä pääset katsomaan, miten toimit kipsin kanssa kotona
-HotspotPanoramaOverlayTextImage_05F0F595_4CDE_3962_41C4_4B2EFAD8F93A.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
-HotspotPanoramaOverlayTextImage_15CFF066_5627_96C2_41C3_B0D1C4F728BD.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
-HotspotPanoramaOverlayTextImage_5F1F43B3_4213_E347_41B0_B5DE38683F5B.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
+HotspotPanoramaOverlayTextImage_ECC41DFB_AE37_958D_41BF_F57C83A788EF.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_201D8728_20E0_B8EE_4160_E9629E067D4A.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_B6D1D475_F96C_906E_41C7_5AB11F123A81.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
+HotspotPanoramaOverlayTextImage_5F1F43B3_4213_E347_41B0_B5DE38683F5B.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
+HotspotPanoramaOverlayTextImage_15CFF066_5627_96C2_41C3_B0D1C4F728BD.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_B04F3B3E_D9B0_FD4B_41B8_C215A9965390.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
-HotspotPanoramaOverlayTextImage_00BFA111_B362_40C7_41DE_68D6BF3D4289.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
-HotspotPanoramaOverlayTextImage_ECC41DFB_AE37_958D_41BF_F57C83A788EF.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
+HotspotPanoramaOverlayTextImage_05F0F595_4CDE_3962_41C4_4B2EFAD8F93A.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_BF3D9FBB_F963_B0D8_41EE_60E1D0E53FA6.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
-HotspotPanoramaOverlayTextImage_DD5F825B_00B9_7055_4168_571592F0D574.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
+HotspotPanoramaOverlayTextImage_00BFA111_B362_40C7_41DE_68D6BF3D4289.text = Tästä pääset siirtymään takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_B2498789_00E9_F0C1_4166_13FFEC48E515.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
-HotspotPanoramaOverlayTextImage_A21B38F9_00FB_3045_4166_21B763E4060E.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
 HotspotPanoramaOverlayTextImage_866F5713_009F_11CE_4163_13219137C400.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
+HotspotPanoramaOverlayTextImage_A21B38F9_00FB_3045_4166_21B763E4060E.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
 HotspotPanoramaOverlayTextImage_7E6264BF_00A7_1035_4134_FC0CDB59A0A8.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
+HotspotPanoramaOverlayTextImage_DD5F825B_00B9_7055_4168_571592F0D574.text = Tästä pääset takaisin kuntoutusarviojakson aulaan
 HotspotPanoramaOverlayTextImage_D89BFB37_B875_B2A7_41D9_34CCE43928ED.text = Tästä pääset takaisin kuvaushuoneeseen
 HotspotPanoramaOverlayTextImage_8E128720_2A5A_0431_4184_F93EF90349A4.text = Tästä pääset takaisin leikkaussaliin
 HotspotPanoramaOverlayTextImage_A1BF7B75_46A0_A939_41C1_98B8778A161C.text = Tästä pääset takaisin sovelluksen alkuun!
 HotspotPanoramaOverlayTextImage_44F001A3_FF8D_8B6C_41E2_5AD3935ED8FC.text = Tästä pääset takaisin sovelluksen alkuun!
-HotspotPanoramaOverlayTextImage_2D64C1C9_5626_B619_41CF_C62481E12B4D.text = Tästä pääset tapaamaan henkilökuntaa
 HotspotPanoramaOverlayTextImage_6763E725_BEF1_F73D_41E2_0F94678897CA.text = Tästä pääset tutustumaan kipsin tekoon ja poistoon
 HotspotPanoramaOverlayTextImage_BADE8AE9_9DDD_B6FC_41E2_CDC29D5853D6.text = Tästä voit katsoa, kun hoitaja laittaa kirahville sensorin.
 HotspotPanoramaOverlayTextImage_20108F75_20E0_C76C_41BF_24FA584942B3.text = Tästä voit siirtyä takaisin leikkaussali polkuun
@@ -817,9 +817,9 @@ HotspotPanoramaOverlayTextImage_73C9C230_622F_0207_41D3_C11EE087DC8C.text = Tä�
 HotspotPanoramaOverlayTextImage_2027BFFF_2120_C769_41AD_8CAE98CD8CC6.text = Täältä pääset tutustumaan kipsin laittoon 
 HotspotPanoramaOverlayTextImage_1FE9C0E8_1F20_B974_41A0_1FF45306E4C7.text = Täältä siirryt toiseen huoneeseen heräämään
 HotspotPanoramaOverlayTextImage_3286A10F_1FE0_58E0_41B8_0FD6D3699E6A.text = Täältä siirryt toiseen huoneeseen heräämään
-HotspotPanoramaOverlayTextImage_60949A5E_B9F2_520D_41E5_4771F8A89F89.text = Täältä voit katsoa lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_750EE041_1F21_B94C_41BC_BBF1EA8EEFF5.text = Täältä voit katsoa lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_43127C3C_D261_7E0E_41E2_116651D2BEBF.text = Täältä voit katsoa lääkekorkin laittamisen
+HotspotPanoramaOverlayTextImage_60949A5E_B9F2_520D_41E5_4771F8A89F89.text = Täältä voit katsoa lääkekorkin laittamisen
 HotspotPanoramaOverlayTextImage_C298A223_47E3_BB05_41AC_71B16D006418.text = Täältä voit katsoa, kun kirahville laitetaan insuliinipistos.  \
 Se tuntuu pienenä nipistyksenä.
 HotspotPanoramaOverlayTextImage_32CCF4FB_47A0_B8FD_419A_6E04948E368F.text = Täältä voit katsoa, miten hoitaja mittaa verensokerin sormenpäästä.
@@ -836,16 +836,16 @@ HotspotPanoramaOverlayTextImage_C9DE839E_FE8D_8F67_41C3_6A517FBD6049.text = Vali
 HotspotPanoramaOverlayTextImage_BCB6FCAD_82B6_841F_41DA_D04B367DCAE2.text = Valitse kumallla laitteella olet, puhelin vai tietokone.
 HotspotPanoramaOverlayTextImage_C9C9F3C1_FE8D_8EDD_41C7_8B3059A2D4F0.text = Valitse kummalla laitteella olet, puhelin vai tietokone.
 HotspotPanoramaOverlayTextImage_81E647CE_B3A6_4F61_41E2_1F9A81897797.text = Valmista nyt saat siirtyä kipsaushuoneeseen. 
-HotspotPanoramaOverlayTextImage_F2EE8595_B3AE_43FB_41D6_110FB824C792.text = Valmista tuli, saat nyt lähteä kotiin
 HotspotPanoramaOverlayTextImage_00BE710F_B362_40DB_41E4_21FEB89972D3.text = Valmista tuli, saat nyt lähteä kotiin
-HotspotPanoramaOverlayTextImage_1FE9C0D6_1F20_B95C_41A7_0BFF859ED8E3.text = Valvontanäyttö auttaa henkilökuntaa varmistamaan, että nukut mukavasti leikkauksen aikana.
+HotspotPanoramaOverlayTextImage_F2EE8595_B3AE_43FB_41D6_110FB824C792.text = Valmista tuli, saat nyt lähteä kotiin
 HotspotPanoramaOverlayTextImage_88FE74B2_BD70_EABB_41E5_7AEAC1BE40E9.text = Valvontanäyttö auttaa henkilökuntaa varmistamaan, että nukut mukavasti leikkauksen aikana.
+HotspotPanoramaOverlayTextImage_1FE9C0D6_1F20_B95C_41A7_0BFF859ED8E3.text = Valvontanäyttö auttaa henkilökuntaa varmistamaan, että nukut mukavasti leikkauksen aikana.
 HotspotPanoramaOverlayTextImage_BF5A9271_D993_AFDD_41BF_612E6B289173.text = Valvontanäyttö auttaa henkilökuntaa varmistamaan, että voit hyvin.  \
 Valvontanäytössä on monia painikkeita, valoja ja numeroita.
-HotspotPanoramaOverlayTextImage_8B4A5C28_BD71_9957_41E5_1D5A330522B6.text = Valvontanäytössä on monia painikkeita, valoja ja numeroita.
 HotspotPanoramaOverlayTextImage_1FE9C0D8_1F20_B954_41BF_38B269AC3C76.text = Valvontanäytössä on monia painikkeita, valoja ja numeroita.
-HotspotPanoramaOverlayTextImage_8E10671A_2A5A_0411_41A6_3B87670BBEF4.text = Vanhemmat saavat koko ajan olla kanssasi.
+HotspotPanoramaOverlayTextImage_8B4A5C28_BD71_9957_41E5_1D5A330522B6.text = Valvontanäytössä on monia painikkeita, valoja ja numeroita.
 HotspotPanoramaOverlayTextImage_825E555F_7ADA_C5A6_41D9_DB50E1AF8B6A.text = Vanhemmat saavat koko ajan olla kanssasi.
+HotspotPanoramaOverlayTextImage_8E10671A_2A5A_0411_41A6_3B87670BBEF4.text = Vanhemmat saavat koko ajan olla kanssasi.
 HotspotPanoramaOverlayTextImage_22B89C9E_567B_8E2A_41C2_FCDA1495EA2C.text = Vanhemmat voivat tukea lastaan pysymään paikalla tutkimuksen aikana ennen nukahtamista.
 HotspotPanoramaOverlayTextImage_B6700575_46A0_793C_41D1_E438C26CCDE2.text = Vanhempien ei kuitenkaan tarvitse olla liian reippaita.  \
 Lapsen on hyvä nähdä, kun vanhemmat näyttävät tunteitaan.
@@ -857,31 +857,31 @@ HotspotPanoramaOverlayTextImage_26D86BE1_05DC_FC7D_417C_B8E4B645D936.text = Vere
 HotspotPanoramaOverlayTextImage_9BFBF888_8106_3490_41D6_8F13AD12331A.text = Verensokeria mitataan erilaisilla mittareilla. 
 HotspotPanoramaOverlayTextImage_3592E975_47A0_E9F4_41C2_CCECD62AFF4D.text = Verensokerin mittaus tuntuu pienenä nipistyksenä
 HotspotPanoramaOverlayTextImage_97EBABA0_8101_F49C_41D8_8B43BAEAF07D.text = Verensokeriseuranta
-HotspotPanoramaOverlayTextImage_20248C06_2120_C899_41A7_700DCD983B0E.text = Voide tulee laastarissa tai voidetuubista. \
-Molemmat puuduttavat ihoa yhtä hyvin.
-HotspotPanoramaOverlayTextImage_200C1601_20E7_D8A7_41BA_993BF1863E04.text = Voide tulee laastarissa tai voidetuubista. \
+HotspotPanoramaOverlayTextImage_200E6CC3_20E0_49AB_41B6_EA7623EBAE83.text = Voide tulee laastarissa tai voidetuubista. \
 Molemmat puuduttavat ihoa yhtä hyvin.
 HotspotPanoramaOverlayTextImage_B8A7144F_B7F6_D607_41DC_05BDD1C6C30A.text = Voide tulee laastarissa tai voidetuubista. \
 Molemmat puuduttavat ihoa yhtä hyvin.
 HotspotPanoramaOverlayTextImage_200FDFC2_20E0_47A5_41A6_6A5B9DA8681A.text = Voide tulee laastarissa tai voidetuubista. \
 Molemmat puuduttavat ihoa yhtä hyvin.
-HotspotPanoramaOverlayTextImage_200E6CC3_20E0_49AB_41B6_EA7623EBAE83.text = Voide tulee laastarissa tai voidetuubista. \
+HotspotPanoramaOverlayTextImage_200C1601_20E7_D8A7_41BA_993BF1863E04.text = Voide tulee laastarissa tai voidetuubista. \
+Molemmat puuduttavat ihoa yhtä hyvin.
+HotspotPanoramaOverlayTextImage_20248C06_2120_C899_41A7_700DCD983B0E.text = Voide tulee laastarissa tai voidetuubista. \
 Molemmat puuduttavat ihoa yhtä hyvin.
 HotspotPanoramaOverlayTextImage_A3B7BC88_D990_FB3E_41E2_143145C1B9BE.text = Voit hengittää happea sieraimissasi olevien happiviiksien kautta.  \
 Happi virtaa nenään ja auttaa sinua hengittämään helpommin.
 HotspotPanoramaOverlayTextImage_648CD2BC_B813_B20A_41D4_EE532791C157.text = Voit juoda vettä.  \
 Henkilökunta ilmoittaa sinulle, kun et saa enää juoda.
-HotspotPanoramaOverlayTextImage_432C7C34_D261_7E1E_41CE_04D2B309D5DE.text = Voit juoda vettä.  \
-Hoitajat ilmoittavat sinulle, kun et saa enää juoda.
 HotspotPanoramaOverlayTextImage_750E903B_1F21_B93C_41B4_2E7C0420091E.text = Voit juoda vettä.  \
+Hoitajat ilmoittavat sinulle, kun et saa enää juoda.
+HotspotPanoramaOverlayTextImage_432C7C34_D261_7E1E_41CE_04D2B309D5DE.text = Voit juoda vettä.  \
 Hoitajat ilmoittavat sinulle, kun et saa enää juoda.
 HotspotPanoramaOverlayTextImage_59207B44_D990_BD37_41D4_C1038D17C832.text = Voit myös hengittää happea pehmeän maskin läpi.  \
 Maski asetetaan nenän ja suun päälle.
 HotspotPanoramaOverlayTextImage_CE3309CA_00BB_10B4_415D_0A21F035EFF8.text = Voit nyt siirtyä hoitajan kanssa mittaushuoneeseen.  
 HotspotPanoramaOverlayTextImage_4CF5263E_B4AD_C0EB_41C1_43225731720D.text = Voit nyt siirtyä magneettikuvaukseen
-HotspotPanoramaOverlayTextImage_A44E8F11_B362_5F13_41C5_FEB2794F17FC.text = Voit nyt siirtyä potilashuoneeseen
-HotspotPanoramaOverlayTextImage_FCEFF98C_B39D_C3ED_41CD_326A5C9EA0CF.text = Voit nyt siirtyä potilashuoneeseen
 HotspotPanoramaOverlayTextImage_B9BDD03F_D990_AB41_41DE_571D43AA32C8.text = Voit nyt siirtyä potilashuoneeseen
+HotspotPanoramaOverlayTextImage_FCEFF98C_B39D_C3ED_41CD_326A5C9EA0CF.text = Voit nyt siirtyä potilashuoneeseen
+HotspotPanoramaOverlayTextImage_A44E8F11_B362_5F13_41C5_FEB2794F17FC.text = Voit nyt siirtyä potilashuoneeseen
 HotspotPanoramaOverlayTextImage_72C764FA_00B9_1036_4150_434A21046E60.text = Voit päästä kiipeilemään myös puolapuilla
 HotspotPanoramaOverlayTextImage_732EBB13_4233_6320_41CA_806032EE5D97.text = Voitte myös yhdessä harjoitella asioita, joita lasta pyydetään tekemään tutkimuksen aikana, esimerkiksi makaamaan liikkumatta tai pidättämään hengitystä viiteen laskien.
 HotspotPanoramaOverlayTextImage_843BAD48_009B_305A_4154_375AD0E62144.text = Välillä fysioterapeutti jumppauttaa jalkojasi 
@@ -1100,7 +1100,7 @@ imlevel_40A884E6_D997_F4EE_41E2_5CCB39F9B062.url = media/panorama_2FD385F6_4CD6_
 imlevel_41C207AB_D997_F566_41C3_ADCE4A830D93.url = media/panorama_2FD385F6_4CD6_18BD_41D2_E9E95C301FF5_HS_xo2s5wzm_fi-FI.png
 imlevel_9F33D95D_DED8_E938_41E2_C35EDCB3A8A5.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_7rzb9hd7_fi-FI.png
 imlevel_9F3EC792_DED8_D908_41C9_CB6D06A32F8A.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_bsuouuqy_fi-FI.png
-imlevel_9F084E67_DEDF_2B08_41D6_F9D7C9F3E036.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_i9bhvaly_fi-FI.png
+imlevel_81B35CE8_E32D_20DE_41E7_FE81AA5114B1.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_i9bhvaly_fi-FI.png
 imlevel_9F14D2F1_DED8_DB08_41C1_6FE98EEB065D.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_ic54dnn1_fi-FI.png
 imlevel_9F02B08B_DED8_D718_41E7_D26B53A67AB3.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_id5kmky7_fi-FI.png
 imlevel_9F297545_DED8_D908_41D0_4783F6CAC9C9.url = media/panorama_3398BA28_006B_302B_4155_328812162ACC_HS_nny82zgs_fi-FI.png
@@ -1243,28 +1243,29 @@ imlevel_BFBC6C40_BF4A_FF98_41DF_347EB3416972.url = media/panorama_7A5E9A8D_B4A2_
 imlevel_9A01C049_D39E_43D4_41BD_FDC30A431083.url = media/panorama_7A5E9A8D_B4A2_41C4_41C4_00AA46AFFDEE_HS_umed3t3c_fi-FI.png
 imlevel_BFBC627F_BF4A_E868_41A4_570D637BFA59.url = media/panorama_7A5E9A8D_B4A2_41C4_41C4_00AA46AFFDEE_HS_wvlz2ego_fi-FI.png
 imlevel_121A798A_668D_B7D7_41BD_928F5D789F90.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_0aziqwwa_fi-FI.png
-imlevel_BFE8F39C_BECB_E889_41D9_E94B4705A7E2.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_0kqgo1p6_fi-FI.png
-imlevel_9B2D2D82_DEDF_2908_41E9_DFC0D5F3B4E5.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_1r9mvbmt_fi-FI.png
+imlevel_A63CA457_E325_2791_41EA_20621C2CE826.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_0kqgo1p6_fi-FI.png
+imlevel_A62E96BF_E325_2091_41C9_A62CC8650D9C.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_1r9mvbmt_fi-FI.png
 imlevel_BFB9C1FB_BF4A_286F_41E5_A27CB3181EA4.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_3ijp0gb2_fi-FI.png
-imlevel_9B237DF9_DEDF_28F8_41C2_B0A3D42E6475.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5ccam6q8_fi-FI.png
-imlevel_BFB9C64A_BF4A_2BA9_41DA_347304ECAAEE.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5tuufzsg_fi-FI.png
-imlevel_BFB9C6ED_BF4A_286B_41BD_BD1865016031.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_7d4mdwvr_fi-FI.png
+imlevel_A786B237_E325_2391_41D6_8BE9902CE57B.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5ccam6q8_fi-FI.png
+imlevel_A7939F67_E325_21B1_41D9_5C29616F5B48.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_5tuufzsg_fi-FI.png
+imlevel_A62905D1_E325_2091_41E3_955CA603D8FE.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_6jbgileg_fi-FI.png
+imlevel_A78B10AE_E325_20B3_41E9_8266DF5718AA.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_7d4mdwvr_fi-FI.png
 imlevel_BFB9C3F9_BF4A_286B_41D7_79A60CA52E81.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_8l5vyvuj_fi-FI.png
 imlevel_BFB9B6A7_BF4A_68E7_41D3_0D06AA062D95.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_9s915lci_fi-FI.png
 imlevel_BFB9BE5D_BF4A_5BAB_41DE_A2DE8C945303.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_dkazgiox_fi-FI.png
 imlevel_BFB9C499_BF4A_28AB_41E3_13B9784B55A9.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_fe024016_fi-FI.png
 imlevel_7BB3CA22_567A_8A55_41A5_B3AC45C0B7F1.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_immr7b5t_fi-FI.png
-imlevel_0B17EA61_D8B1_BF3D_41C8_660F067EC35E.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_jih2bnai_fi-FI.png
-imlevel_BFF3344D_BEDE_6F8F_41D4_7E45162E8C8F.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_jsqfa548_fi-FI.png
-imlevel_BFB9C757_BF4A_29A7_41E4_0C3283F6489A.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_m7g09g4d_fi-FI.png
+imlevel_A7950033_E325_3F91_41E3_F4949A8588C7.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_jih2bnai_fi-FI.png
+imlevel_A31FD82E_E325_2FB3_417E_4E3FD7AA99D2.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_jsqfa548_fi-FI.png
+imlevel_A78F6120_E325_21B0_41E3_D37533ED2860.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_m7g09g4d_fi-FI.png
 imlevel_BFB9B95C_BF4A_59A9_41E6_496984962DD8.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_mqddgl11_fi-FI.png
-imlevel_4C4E993A_D990_BD67_41E1_CD31552E4EA3.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_nbtaxys0_fi-FI.png
+imlevel_81857911_E32D_2171_41E2_445DE40A82BF.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_nbtaxys0_fi-FI.png
 imlevel_BFEED125_BEC6_29B9_41E6_E1662E2C2B47.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_nqa623ka_fi-FI.png
-imlevel_C0135B3C_C15E_D990_41E0_D244AA607F5F.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_otdrcr6c_fi-FI.png
-imlevel_BFF333ED_BEDE_688F_41C0_2A3249C8F5C7.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_pixrh8mv_fi-FI.png
-imlevel_9B202E47_DEDF_2B08_41DC_EDB38A422439.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_ql923ipr_fi-FI.png
-imlevel_4D9ED835_D990_BB6D_41E6_0EBA548256C3.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_recotc7o_fi-FI.png
-imlevel_BFB9C988_BF4A_38A9_41CF_3DC0A5E1BC03.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_upwiwtkv_fi-FI.png
+imlevel_818BCA81_E32D_2351_41B0_03143D686D24.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_o2j9gbmx_fi-FI.png
+imlevel_A782D1AD_E325_20B0_41DC_E545D855DF5C.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_otdrcr6c_fi-FI.png
+imlevel_A7367E97_E325_2091_41C2_5064EFAC8482.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_pixrh8mv_fi-FI.png
+imlevel_B0C02737_E363_6197_41DA_82F47E7534B7.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_ql923ipr_fi-FI.png
+imlevel_A634F557_E325_2191_41EA_CBE536EE8911.url = media/panorama_7C6CFB3B_5667_8AA9_41B1_DD77A9CB808F_HS_upwiwtkv_fi-FI.png
 imlevel_BFBB369F_BF4E_68A7_41CF_C042BEA2020C.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_19i0p6bq_fi-FI.png
 imlevel_BFBB4646_BF4E_2B99_41E2_EDF073CBA756.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_9f5zgpx7_fi-FI.png
 imlevel_BFBB41C6_BF4E_2898_41DA_A11470DF8125.url = media/panorama_7ED800A4_5666_F65E_41C2_A45529F878AB_HS_c4spjge0_fi-FI.png
@@ -1290,7 +1291,7 @@ imlevel_BFBADD17_BF4F_D9A7_41DE_8184429E95BE.url = media/panorama_86E3C854_95BC_
 imlevel_BFBADF4C_BF4F_D9A9_41AB_EC5BB587EDC8.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_jowyf6rq_fi-FI.png
 imlevel_BFBAC961_BF4E_3998_41E6_DDDDB8A2AECA.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_jyxhol5c_fi-FI.png
 imlevel_BFBAC7C2_BF4E_2898_41E2_93F553E88C6A.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_lreqk21f_fi-FI.png
-imlevel_BFBACEBD_BF4E_38E8_41E3_D28B2F773D3F.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_somq1m3c_fi-FI.png
+imlevel_A31F49B0_E325_20AF_41E9_75AC4E77B208.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_somq1m3c_fi-FI.png
 imlevel_BFBAD1D7_BF4E_28A7_41E5_11F360392601.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_trqi61vo_fi-FI.png
 imlevel_BFBAD83D_BF4E_27E8_41A4_C090CE95D297.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_uf4wjoce_fi-FI.png
 imlevel_BFBAD52E_BF4E_29E8_41D5_52E58E7B7582.url = media/panorama_86E3C854_95BC_33F9_41C6_4F86DB91ECD7_HS_ylp13bfh_fi-FI.png
@@ -2310,46 +2311,46 @@ panorama_482CD0BA_49A0_B7E2_4191_A5D7B26C5101.label = toimenpidehuone 2
 video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B.label = video x-ray machine
 
 ### Video
-videolevel_928B6D8C_DEB9_290C_41B3_D8FA25B5B43B.url = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_fi-FI.mp4
-videolevel_928B6D8C_DEB9_290C_41B3_D8FA25B5B43B.posterURL = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_poster_fi-FI.jpg
-videolevel_930B2704_DEB9_7AFC_41E9_91C57774BE88.url = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_fi-FI.mp4
-videolevel_930B2704_DEB9_7AFC_41E9_91C57774BE88.posterURL = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_poster_fi-FI.jpg
-videolevel_937B40AD_DEB9_570C_41CB_FDD5944418F1.url = media/video_5194BF8C_3821_A63C_4160_BC283316A882_fi-FI.mp4
-videolevel_937B40AD_DEB9_570C_41CB_FDD5944418F1.posterURL = media/video_5194BF8C_3821_A63C_4160_BC283316A882_poster_fi-FI.jpg
-videolevel_936B63DC_DEB9_590C_41E5_45E6430241EB.url = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_fi-FI.mp4
-videolevel_936B63DC_DEB9_590C_41E5_45E6430241EB.posterURL = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_poster_fi-FI.jpg
-videolevel_93DB1061_DEB9_5734_41E5_6C4DF20071E6.url = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_fi-FI.mp4
-videolevel_93DB1061_DEB9_5734_41E5_6C4DF20071E6.posterURL = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_poster_fi-FI.jpg
-videolevel_93CB2391_DEB9_5914_41E2_AC08C838C7CF.url = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_fi-FI.mp4
-videolevel_93CB2391_DEB9_5914_41E2_AC08C838C7CF.posterURL = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_poster_fi-FI.jpg
-videolevel_93BB26D7_DEB9_5B1C_41D5_61C25B55E9B9.url = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_fi-FI.mp4
-videolevel_93BB26D7_DEB9_5B1C_41D5_61C25B55E9B9.posterURL = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_poster_fi-FI.jpg
-videolevel_939B7D35_DEB9_291C_41D2_4851F14D95F1.url = media/video_5A3305C4_485C_AC30_41C5_7094A5888A06_fi-FI.mp4
-videolevel_939B7D35_DEB9_291C_41D2_4851F14D95F1.posterURL = media/video_5A3305C4_485C_AC30_41C5_7094A5888A06_poster_fi-FI.jpg
-videolevel_93FB0A1D_DEB9_6B0C_41B6_8D87E5E98167.url = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_fi-FI.mp4
-videolevel_93FB0A1D_DEB9_6B0C_41B6_8D87E5E98167.posterURL = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_poster_fi-FI.jpg
-videolevel_933B0D7C_DEB9_690C_41D3_3573D8C45C03.url = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_fi-FI.mp4
-videolevel_933B0D7C_DEB9_690C_41D3_3573D8C45C03.posterURL = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_poster_fi-FI.jpg
-videolevel_92AC971B_DEB9_3914_41CA_20BE28A6270D.url = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_fi-FI.mp4
-videolevel_92AC971B_DEB9_3914_41CA_20BE28A6270D.posterURL = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_poster_fi-FI.jpg
-videolevel_951CE673_DEB9_DB1B_41B7_783641EF35C3.url = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_fi-FI.mp4
-videolevel_951CE673_DEB9_DB1B_41B7_783641EF35C3.posterURL = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_poster_fi-FI.jpg
-videolevel_935B6711_DEB9_5917_41EB_22E4D1F75101.url = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_fi-FI.mp4
-videolevel_935B6711_DEB9_5917_41EB_22E4D1F75101.posterURL = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_poster_fi-FI.jpg
-videolevel_934B4A30_DEB9_6B14_41E3_4490252A94DC.url = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_fi-FI.mp4
-videolevel_934B4A30_DEB9_6B14_41E3_4490252A94DC.posterURL = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_poster_fi-FI.jpg
-videolevel_93ACEA03_DEB9_2AF4_41E6_5D737F47DC0E.url = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_fi-FI.mp4
-videolevel_93ACEA03_DEB9_2AF4_41E6_5D737F47DC0E.posterURL = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_poster_fi-FI.jpg
-videolevel_93EB3D45_DEB9_697C_41E5_F90827226BEB.url = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_fi-FI.mp4
-videolevel_93EB3D45_DEB9_697C_41E5_F90827226BEB.posterURL = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_poster_fi-FI.jpg
-videolevel_929B5A70_DEB9_2B14_41D1_CD00A38FC794.url = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_fi-FI.mp4
-videolevel_929B5A70_DEB9_2B14_41D1_CD00A38FC794.posterURL = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_poster_fi-FI.jpg
-videolevel_92A953FB_DEB9_3914_41E0_CF9AF79E76FF.url = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_fi-FI.mp4
-videolevel_92A953FB_DEB9_3914_41E0_CF9AF79E76FF.posterURL = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_poster_fi-FI.jpg
-videolevel_932B10A3_DEB9_7734_41E3_E7BBA2B562BE.url = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_fi-FI.mp4
-videolevel_932B10A3_DEB9_7734_41E3_E7BBA2B562BE.posterURL = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_poster_fi-FI.jpg
-videolevel_931B23DA_DEB9_7914_41E2_43F3DD3A5BE8.url = media/video_F9EAC053_C822_F871_41A8_308A428BF794_fi-FI.mp4
-videolevel_931B23DA_DEB9_7914_41E2_43F3DD3A5BE8.posterURL = media/video_F9EAC053_C822_F871_41A8_308A428BF794_poster_fi-FI.jpg
+videolevel_87DFC360_E323_61CA_41E3_9DC632C24902.url = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_fi-FI.mp4
+videolevel_87DFC360_E323_61CA_41E3_9DC632C24902.posterURL = media/video_459F69DD_3866_6DC4_4147_EC246946FBC2_poster_fi-FI.jpg
+videolevel_8659A3CD_E323_20DA_41E7_CBADB06EF487.url = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_fi-FI.mp4
+videolevel_8659A3CD_E323_20DA_41E7_CBADB06EF487.posterURL = media/video_5033189F_73D0_B627_4195_E9049EE22DCF_poster_fi-FI.jpg
+videolevel_87CFD73A_E323_61BE_41E4_CA81EE142398.url = media/video_5194BF8C_3821_A63C_4160_BC283316A882_fi-FI.mp4
+videolevel_87CFD73A_E323_61BE_41E4_CA81EE142398.posterURL = media/video_5194BF8C_3821_A63C_4160_BC283316A882_poster_fi-FI.jpg
+videolevel_87FF1B75_E323_61CA_41D9_AD0394E6EAC0.url = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_fi-FI.mp4
+videolevel_87FF1B75_E323_61CA_41D9_AD0394E6EAC0.posterURL = media/video_534EA8D7_387E_ABDD_4130_1A9B61C039D4_poster_fi-FI.jpg
+videolevel_86696F57_E323_21F6_41D0_5C7BBC14E701.url = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_fi-FI.mp4
+videolevel_86696F57_E323_21F6_41D0_5C7BBC14E701.posterURL = media/video_53561215_4BD2_EBDD_41C2_4F5ABE6BEFBB_poster_fi-FI.jpg
+videolevel_8619737A_E323_21BE_41E8_95A9A788220B.url = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_fi-FI.mp4
+videolevel_8619737A_E323_21BE_41E8_95A9A788220B.posterURL = media/video_53920295_4BF2_68D4_41B7_117FAB92EAFB_poster_fi-FI.jpg
+videolevel_860AC757_E323_21F6_41D4_09EE75DAEC4B.url = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_fi-FI.mp4
+videolevel_860AC757_E323_21F6_41D4_09EE75DAEC4B.posterURL = media/video_55F022E0_4BD7_E863_41A6_8141D175FA9F_poster_fi-FI.jpg
+videolevel_862AAF25_E323_214A_41E8_583593C296D6.url = media/video_5A3305C4_485C_AC30_41C5_7094A5888A06_fi-FI.mp4
+videolevel_862AAF25_E323_214A_41E8_583593C296D6.posterURL = media/video_5A3305C4_485C_AC30_41C5_7094A5888A06_poster_fi-FI.jpg
+videolevel_8649A7A4_E323_214A_41CA_BA116DB6EEF1.url = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_fi-FI.mp4
+videolevel_8649A7A4_E323_214A_41CA_BA116DB6EEF1.posterURL = media/video_6E60132D_73D7_5A68_41BA_4A5C10A4E664_poster_fi-FI.jpg
+videolevel_8788C7A4_E323_614A_41E8_AD7303240D14.url = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_fi-FI.mp4
+videolevel_8788C7A4_E323_614A_41E8_AD7303240D14.posterURL = media/video_9773893E_97AC_3465_41DA_AD524BE8E529_poster_fi-FI.jpg
+videolevel_872E0B72_E323_21CE_41DE_02E90C8132D3.url = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_fi-FI.mp4
+videolevel_872E0B72_E323_21CE_41DE_02E90C8132D3.posterURL = media/video_996270F0_80DC_C9B0_41E0_0638B63514B3_poster_fi-FI.jpg
+videolevel_81ACB998_E323_217A_41DA_5AD2A9AE4AB9.url = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_fi-FI.mp4
+videolevel_81ACB998_E323_217A_41DA_5AD2A9AE4AB9.posterURL = media/video_9A62585B_80DD_B8F2_41A0_99113911BE8F_poster_fi-FI.jpg
+videolevel_87EF1F90_E323_614A_41E8_A0FB5BDF69FF.url = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_fi-FI.mp4
+videolevel_87EF1F90_E323_614A_41E8_A0FB5BDF69FF.posterURL = media/video_B8FEF62D_D822_A132_41D4_0AB49608EE57_poster_fi-FI.jpg
+videolevel_879F6369_E323_61DA_41E3_95727834D45C.url = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_fi-FI.mp4
+videolevel_879F6369_E323_61DA_41E3_95727834D45C.posterURL = media/video_BB9CD11A_9CAC_71A3_41D3_C41A7B515DC5_poster_fi-FI.jpg
+videolevel_863ACB30_E323_214A_41E7_6087FD718425.url = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_fi-FI.mp4
+videolevel_863ACB30_E323_214A_41E7_6087FD718425.posterURL = media/video_D344A54D_E1FF_30B6_41E4_442DF830FE09_poster_fi-FI.jpg
+videolevel_86797B7E_E323_21B6_41DC_E656465E7068.url = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_fi-FI.mp4
+videolevel_86797B7E_E323_21B6_41DC_E656465E7068.posterURL = media/video_D4E24FC1_47A0_E976_41D1_81D0056B4953_poster_fi-FI.jpg
+videolevel_8729EF6A_E323_21DE_41EB_76DC9C5A6CC7.url = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_fi-FI.mp4
+videolevel_8729EF6A_E323_21DE_41EB_76DC9C5A6CC7.posterURL = media/video_D8D0EE28_F9E1_F87D_41E4_AFC700E30C2B_poster_fi-FI.jpg
+videolevel_873377AC_E323_215A_41B2_12DC9ED964DD.url = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_fi-FI.mp4
+videolevel_873377AC_E323_215A_41B2_12DC9ED964DD.posterURL = media/video_EB8F9104_C9E2_DD47_41E1_ECCD3442236B_poster_fi-FI.jpg
+videolevel_87B85BAB_E323_615E_41E8_A3B93DBEDBE4.url = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_fi-FI.mp4
+videolevel_87B85BAB_E323_615E_41E8_A3B93DBEDBE4.posterURL = media/video_EBA987F6_ED5C_7B71_41E6_6810C53585F0_poster_fi-FI.jpg
+videolevel_87A9EFD0_E323_60CA_41E6_93D57943167F.url = media/video_F9EAC053_C822_F871_41A8_308A428BF794_fi-FI.mp4
+videolevel_87A9EFD0_E323_60CA_41E6_93D57943167F.posterURL = media/video_F9EAC053_C822_F871_41A8_308A428BF794_poster_fi-FI.jpg
 
 ### Video Subtitles
 
