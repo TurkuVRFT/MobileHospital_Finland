@@ -1,7 +1,6 @@
 {
- "start_url": "index.htm?installed=true",
- "name": "MobileHospital",
  "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "sizes": "150x150",
@@ -40,5 +39,6 @@
   }
  ],
  "display": "fullscreen",
+ "name": "MobileHospital",
  "theme_color": "#FFFFFF"
 }
